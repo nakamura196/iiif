@@ -1,0 +1,212 @@
+{
+    "codh": {
+        "attribution": "日本古典籍データセット（国文研所蔵）CODH配信",
+        "description": true,
+        "item": 1767,
+        "licenses": {
+            "http://creativecommons.org/licenses/by-sa/4.0/": 1767
+        },
+        "media": 329702,
+        "related": true,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": false,
+        "within": true
+    },
+    "keio": {
+        "attribution": "慶應義塾大学メディアセンター\nKeio University Libraries",
+        "description": false,
+        "item": 2895,
+        "licenses": {},
+        "media": 23253,
+        "related": true,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": false,
+        "within": true
+    },
+    "khirin": {
+        "attribution": "国立歴史民俗博物館 National Museum of Japanese History",
+        "description": true,
+        "item": 15629,
+        "licenses": {
+            "https://creativecommons.org/licenses/by-nc-sa/4.0/": 15502,
+            "https://creativecommons.org/licenses/by/4.0/deed": 47
+        },
+        "media": 34993,
+        "related": true,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
+    "kinki": {
+        "attribution": "Images Copyright Kindai University Central Library",
+        "description": true,
+        "item": 413,
+        "licenses": {},
+        "media": 37334,
+        "related": false,
+        "seeAlso": true,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
+    "kkz": {
+        "attribution": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee",
+        "description": false,
+        "item": 1759,
+        "licenses": {
+            "http://creativecommons.org/licenses/by/4.0/": 1759
+        },
+        "media": 190890,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
+    "koyasan": {
+        "attribution": "Copyright (C) Koyasan University All Rights Reserved.",
+        "description": true,
+        "item": 5,
+        "licenses": {
+            "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html": 5
+        },
+        "media": 195,
+        "related": false,
+        "seeAlso": true,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
+    "kyoto": {
+        "attribution": "Kyoto University Rare Materials Digital Archive",
+        "description": true,
+        "item": 10215,
+        "licenses": {
+            "https://rmda.kulib.kyoto-u.ac.jp/reuse": 10215
+        },
+        "media": 899982,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": false,
+        "within": true
+    },
+    "nakano": {
+        "attribution": "中野区立図書館",
+        "description": true,
+        "item": 205,
+        "licenses": {
+            "": 125,
+            "CC-BY【重要】こちらもご確認ください https://archive.nakano-library.jp/about/": 77,
+            "http://creativecommons.org/licenses/by-sa/4.0/": 1,
+            "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/": 2
+        },
+        "media": 37196,
+        "related": false,
+        "seeAlso": true,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": true
+    },
+    "ndl": {
+        "attribution": "国立国会図書館 National Diet Library, JAPAN",
+        "description": true,
+        "item": 79378,
+        "licenses": {
+            "http://dl.ndl.go.jp/ja/iiif_license.html": 73291
+        },
+        "media": 4248849,
+        "related": false,
+        "seeAlso": true,
+        "thumbnail": false,
+        "viewingDirection": false,
+        "viewingHint": false,
+        "within": false
+    },
+    "ninj": {
+        "attribution": "http://www.ninjal.ac.jp/",
+        "description": false,
+        "item": 500,
+        "licenses": {
+            "https://creativecommons.org/licenses/by-nc/4.0/deed.ja": 500
+        },
+        "media": 32356,
+        "related": true,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": true
+    },
+    "saga": {
+        "attribution": "This property is owned by Saga University Library and is used for regionological research by The Center for Regional Culture and History, Saga University, Japan. ",
+        "description": false,
+        "item": 1213,
+        "licenses": {
+            "http://creativecommons.org/licenses/by-nc-sa/4.0/": 1213
+        },
+        "media": 262232,
+        "related": true,
+        "seeAlso": true,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": true
+    },
+    "shimane": {
+        "attribution": "Shimane University Library Digital Archive Collection",
+        "description": true,
+        "item": 2379,
+        "licenses": {
+            "https://creativecommons.org/licenses/by/4.0/deed.ja": 2379
+        },
+        "media": 116391,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": false,
+        "viewingHint": true,
+        "within": false
+    },
+    "toyo": {
+        "attribution": "NII / Toyo Bunko Digital Archives",
+        "description": true,
+        "item": 245,
+        "licenses": {
+            "http://dsr.nii.ac.jp/toyobunko/license/": 245
+        },
+        "media": 72591,
+        "related": true,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": true
+    },
+    "zuzoubu": {
+        "attribution": "大蔵出版(Daizo shuppan) and SAT大蔵経テキストデータベース研究会(SAT Daizōkyō Text Database Committee) ",
+        "description": true,
+        "item": 26,
+        "licenses": {
+            "http://creativecommons.org/licenses/by-sa/4.0/": 26
+        },
+        "media": 13314,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    }
+}

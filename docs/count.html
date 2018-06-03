@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
+
+  <title>IIIF Portal</title>
+
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <a class="navbar-brand" href="./">IIIF Portal</a>
+
+  </nav>
+
+  <br/>
+
+  <div class="container">
+
+    <br/>
+
+    <h1>Count</h1>
+
+    <hr/>
+
+    <br/>
+
+    <div id="container"></div>
+
+    <br/>
+
+    <table class="table table-hover" id="table">
+      <thead id="thead">
+        <tr>
+          <th></th>
+          <th>Collection</th>
+          <th>No. of data</th>
+        </tr>
+      </thead>
+      <tbody id="resourceListBody">
+      </tbody>
+    </table>
+
+    <br/>
+
+    <hr/>
+
+    <br/>
+
+    <div id="container2"></div>
+
+    <br/>
+
+    <table class="table table-hover" id="table2">
+      <thead id="thead2">
+        <tr>
+          <th></th>
+          <th>Collection</th>
+          <th>No. of data</th>
+        </tr>
+      </thead>
+      <tbody id="resourceListBody2">
+      </tbody>
+    </table>
+
+    <footer class="pt-4 my-md-5 pt-md-5 border-top">
+      <div class="row">
+        <div class="col-12 col-md">
+          <small class="d-block mb-3 text-muted"></small>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+
+
+  <script src="//code.highcharts.com/highcharts.js"></script>
+
+  <script>
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : false
+    });
+
+    tmp = Array()
+    tmp2 = Array()
+
+    var tbody = $("#resourceListBody");
+    var tbody2 = $("#resourceListBody2");
+
+    $.getJSON("data.json" , function(data) {
+
+      for(key in data){
+        var obj = data[key]
+        var item = new Object();
+        item.name = obj.attribution;
+        item.y = Number(obj.item);
+        tmp.push(item)
+
+        var item2 = new Object();
+        item2.name = obj.attribution;
+        item2.y = Number(obj.media);
+        tmp2.push(item2)
+
+        var tr = $("<tr>");
+        tbody.append(tr);
+
+        var td = $("<td>");
+        tr.append(td);
+
+        td = $("<td>");
+        tr.append(td);
+
+        var a = $("<a>");
+        td.append(a);
+        a.attr("href", "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/portal/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
+        a.attr("targer", "_blank")
+        a.append(obj.attribution);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(Number(obj.item));
+
+        var tr = $("<tr>");
+        tbody2.append(tr);
+
+        var td = $("<td>");
+        tr.append(td);
+
+        var a = $("<a>");
+        td.append(a);
+        a.attr("href", "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/portal/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
+        a.attr("targer", "_blank")
+        a.append(obj.attribution);
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(Number(obj.media));
+      }
+
+      // Build the chart
+      Highcharts.chart('container', {
+        chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+        },
+        title: {
+          text: 'Number of Items'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.y} ({point.percentage:.1f}%)</b>'
+        },
+        plotOptions: {
+          pie: {
+            allowPointSelect: true,
+            cursor: 'pointer',
+            dataLabels: {
+              enabled: false
+            },
+            showInLegend: true
+          }
+        },
+        series: [{
+          name: 'Number of Items',
+          colorByPoint: true,
+          data: tmp
+        }]
+      });
+
+
+      // Build the chart
+      Highcharts.chart('container2', {
+        chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+        },
+        title: {
+          text: 'Number of Media'
+        },
+        tooltip: {
+          pointFormat: '{series.name}: <b>{point.y} ({point.percentage:.1f}%)</b>'
+        },
+        plotOptions: {
+          pie: {
+            allowPointSelect: true,
+            cursor: 'pointer',
+            dataLabels: {
+              enabled: false
+            },
+            showInLegend: true
+          }
+        },
+        series: [{
+          name: 'Number of Media',
+          colorByPoint: true,
+          data: tmp2
+        }]
+      });
+
+      // DataTable
+      var table = $('#table').DataTable({
+        "iDisplayLength" : 10,
+        "order" : [ [ 2, "desc" ] ]
+      });
+
+      table.on('order.dt search.dt', function() {
+        table.column(0, {
+          search : 'applied',
+          order : 'applied'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1;
+        });
+      }).draw();
+
+      // DataTable
+      var table2 = $('#table2').DataTable({
+        "iDisplayLength" : 10,
+        "order" : [ [ 2, "desc" ] ]
+      });
+
+      table2.on('order.dt search.dt', function() {
+        table2.column(0, {
+          search : 'applied',
+          order : 'applied'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1;
+        });
+      }).draw();
+
+    });
+
+
+
+  });
+</script>
+</body>
+</html>
