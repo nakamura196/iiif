@@ -1,0 +1,3007 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/universe/08f1d14fccb0d12914e15ef710953e12.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/067/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第67号 1887[明治20]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/065/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第65号 1887[明治20]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 F（巻二）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 ﻿前編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/053/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第53号 1886[明治19]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第1号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/oninkana/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "音韻仮字用例 附説下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/032/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第32号 1884[明治17]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 E（巻二）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第11号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第39号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ezogosen/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "蝦夷語箋 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第7号 1882[明治15]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/063/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第63号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary D",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/083/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第83号 1888[明治21]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 R（巻六）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/059/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第59号 1886[明治19]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 三編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/turezure/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "徒然草（寛文七年版） 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第17号 1883[明治16]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary W",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 M（巻四）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第35号 1884[明治17]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 K（巻三）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第19号 1883[明治16]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/052/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第52号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 A（巻一）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wajisyoransyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和字正濫鈔 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 二編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第15号 1882[明治15]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary Y",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/eigosen/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "英語箋 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/051/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第51号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第26号 1883[明治16]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/070/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第70号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kensyukuryoko/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "しちすつ仮名文字使蜆縮涼鼓集 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yoriaibanasi/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "よりあひばなし 初編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/buturuisyoko/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "諸国方言物類称呼 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary T",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kousenzi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "千字文（光緒二十年版） 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hutasuzimiti/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "傾城買二筋道 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/buturuisyoko/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "諸国方言物類称呼 ﻿巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻九",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/syousyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尚書（古活字版） 巻四－巻六（夏）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第28号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 UV",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第25号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第27号 1883[明治16]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻十二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第6号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/touwasanyo/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "唐話纂要 巻六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kaikanohanasi/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開化のはなし 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第35号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻十一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zionkana/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "字音仮字用格 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ayuisyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "あゆひ抄 巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 ﻿初編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/050/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第50号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第5号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kaikamoudou/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開化問答 初編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 初編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kanamotosue/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仮字本末 上巻之下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 三編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tyusenzi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "纂図附音増広古註千字文 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bunmeikaika/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "文明開化 二編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第34号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandakagami/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "青楼阿蘭陀鏡 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/sikakebunko/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大礒風俗仕懸文庫 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第26号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/066/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第66号 1887[明治20]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第27号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/078/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第78号 1888[明治21]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zohokogentei/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "再考増補標註古言梯 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 後編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/045/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第45号 1885[明治18]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 S",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第38号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wajisyoransyo/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和字正濫鈔 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/satokagami/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "玉菊全伝花街鑑 ﻿上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第28号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/084/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第84号 1888[明治21]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary F",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第40号 1885[明治18]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 I（巻三）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary S",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/087/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第87号 1888[明治21]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/aguranabe/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "牛店雑談安愚楽鍋 ﻿初編",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 English and Japanese Dictionary A-D",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻八",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kanamotosue/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仮字本末 附録",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第3号 1881[明治14]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第3号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/044/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第44号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第16号 1883[明治16]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kanamotosue/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仮字本末 ﻿上巻之上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第40号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 M",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第26号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 二編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/068/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第68号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/oninkana/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "音韻仮字用例 附説上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wajisyoransyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和字正濫鈔 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第2号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/aguranabe/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "牛店雑談安愚楽鍋 二編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 二編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻十一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 B",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第14号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 R",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第34号 1884[明治17]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第22号 1883[明治16]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandakagami/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "青楼阿蘭陀鏡 ﻿巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/073/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第73号 1887[明治20]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第5号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/072/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第72号 1887[明治20]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第15号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/mougyu/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "標題徐状元補注蒙求 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bumouki/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "補忘記（元禄版） 地",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ayuisyo/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "あゆひ抄 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 ﻿Preface / Introduction",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/081/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第81号 1888[明治21]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 三編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第19号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kensyukuryoko/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "しちすつ仮名文字使蜆縮涼鼓集 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第12号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary E",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zohokagakusyu/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "増補下学集 巻上之一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第40号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 V（巻九後半）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第11号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/062/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第62号 1886[明治19]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 三編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bumouki/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "補忘記（元禄版） ﻿天",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/054/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第54号 1886[明治19]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第36号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 A",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第30号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/070/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第70号 1887[明治20]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary U",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻八",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 S（巻七後半）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kaikamoudou/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開化問答 二編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hiziriyukaku/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "聖遊郭（雪月花） 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第7号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/itakobusi/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "潮来婦誌 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 English and Japanese Dictionary E-N",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatumihugen/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "石場妓談辰巳婦言 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第28号 1884[明治17]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第21号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kaikamoudou/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開化問答 初編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 G（巻二）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bunmeikaika/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "文明開化 初編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第5号 1882[明治15]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/042/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第42号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bunmeikaika/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "文明開化 二編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 C（巻二）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 初編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zohokagakusyu/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "増補下学集 巻下之二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第35号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第39号 1884[明治17]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 O（巻五後半）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary J",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zyakuboku/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中華若木詩抄（寛永十年版） 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 Y（巻十）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第14号 1882[明治15]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第9号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/aguranabe/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "牛店雑談安愚楽鍋 二編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hakomakura/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "河東方言箱枕 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/053/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第53号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第4号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/066/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第66号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wajisyoransyo/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和字正濫鈔 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第17号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 薬名",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/079/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第79号 1888[明治21]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/058/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第58号 1886[明治19]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻一之中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 三編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wagokuhen/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "倭玉篇（慶長十八年版） 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/076/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第76号 1888[明治21]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/063/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第63号 1886[明治19]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 J（巻三）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/oninkana/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "音韻仮字用例 本編",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第8号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第36号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary C",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/satokagami/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "玉菊全伝花街鑑 下巻（下巻下）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 Z",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/buturuisyoko/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "諸国方言物類称呼 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/069/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第69号 1887[明治20]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 F",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/048/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第48号 1885[明治18]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary M",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/037/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第37号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/055/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第55号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第24号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zekksyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "絶句抄 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻九",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/mougyu/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "標題徐状元補注蒙求 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/makouinkyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "磨光韻鏡 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 IJ",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第33号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/032/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第32号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第8号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第24号 1883[明治16]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/oninbunpuzu/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "音韻分布図 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/katakoto/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かたこと 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary A",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/049/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第49号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/sangobenran/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三語便覧 初巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第21号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/059/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第59号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/050/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第50号 1885[明治18]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/itakobusi/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "潮来婦誌 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 八",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第14号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ayuisyo/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "あゆひ抄 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/katakoto/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かたこと 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/057/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第57号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tyusenzi/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "纂図附音増広古註千字文 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第29号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 三編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 四編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/064/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第64号 1887[明治20]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/sangobenran/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三語便覧 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第10号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第2号 1881[明治14]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 G",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ekirinbon/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "易林本節用集 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/katakoto/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かたこと 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/044/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第44号 1885[明治18]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary Z",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 V（巻九前半）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/makouinkyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "磨光韻鏡 ﻿上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 T",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第7号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ayuisyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "あゆひ抄 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 L",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary N",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/074/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第74号 1887[明治20]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻九",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/067/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第67号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻一之下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第25号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kanamotosue/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仮字本末 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zekksyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "絶句抄 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kaikamoudou/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開化問答 二編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/082/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第82号 1888[明治21]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第15号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻九",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 P（巻六）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/085/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第85号 1888[明治21]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第6号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第4号 1882[明治15]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第27号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 S（巻七前半）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/052/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第52号 1886[明治19]年1月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 ﻿巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/071/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第71号 1887[明治20]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/042/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第42号 1885[明治18]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandakagami/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "青楼阿蘭陀鏡 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 O",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/itakobusi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "潮来婦誌 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zekksyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "絶句抄 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/syousyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尚書（古活字版） 巻七－巻九（秋）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/032/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第32号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻十",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary O",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻七",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第16号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wakanroei/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和漢朗詠集（室町中期写本） 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/egirisikotoba/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ゑんぎりしことば 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第34号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 前編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 三編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 B（巻一）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary P",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 四編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/058/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第58号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hakomakura/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "河東方言箱枕 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandakagami/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "青楼阿蘭陀鏡 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 ﻿初編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第3号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 前編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第30号 1884[明治17]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 C",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary I",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ayuisyo/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "あゆひ抄 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 二編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/077/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第77号 1888[明治21]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zyakuboku/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中華若木詩抄（寛永十年版） 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第25号 1883[明治16]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary G",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第38号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/049/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第49号 1885[明治18]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第12号 1882[明治15]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第18号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/061/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第61号 1886[明治19]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/047/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第47号 1885[明治18]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻七",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 K",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tetugakuzii/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "哲学字彙 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 N",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第22号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/sangobenran/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三語便覧 終巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻十二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第43号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/086/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第86号 1888[明治21]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ekirinbon/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "易林本節用集 ﻿上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻八",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻十",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 四編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第23号 1883[明治16]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zohokagakusyu/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "増補下学集 巻下之一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻十",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/031/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第31号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kazasisyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かさし抄 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/075/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第75号 1887[明治20]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第4号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第18号 1883[明治16]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/touwasanyo/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "唐話纂要 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第39号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/047/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第47号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wakaiseika/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "倭楷正訛（明和版） 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/katakoto/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かたこと 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 P-Q",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kogohobunpuzu/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "口語法分布図 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 八",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第10号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第41号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zyakuboku/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中華若木詩抄（寛永十年版） 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/062/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第62号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/touwasanyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "唐話纂要 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第43号 1885[明治18]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第30号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第9号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/touwasanyo/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "唐話纂要 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第18号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/080/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第80号 1888[明治21]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻六",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/051/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第51号 1885[明治18]年12月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第29号 1884[明治17]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/031/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第31号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kouekimondou/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "交易問答 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kanamozizukai/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仮名文字遣 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻七",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bumouki/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "補忘記（元禄版） 人",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 H（巻三）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokutei1/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尋常小学読本（国定読本第1期） 七",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary B",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 U（巻八）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 Z（巻十）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 D（巻二）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hakomakura/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "河東方言箱枕 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 W（巻十）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第24号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 E",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zohokagakusyu/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "増補下学集 巻上之二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻一之上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第41号 1885[明治18]年2月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第9号 1882[明治15]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 Q（巻六）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wagokuhen/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "倭玉篇（慶長十八年版） 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/057/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第57号 1886[明治19]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 初編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary R",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/buturuisyoko/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "諸国方言物類称呼 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 O（巻五前半）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第20号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第33号 1884[明治17]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/syousyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "尚書（古活字版） 巻一－巻三（春）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/065/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第65号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 後編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第22号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bunmeikaika/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "文明開化 初編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/037/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第37号 1884[明治17]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/054/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第54号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻五",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第1号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第23号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kouekimondou/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "交易問答 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/katakoto/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かたこと ﻿巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandakagami/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "青楼阿蘭陀鏡 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/056/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第56号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻十二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/turezure/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "徒然草（寛文七年版） 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hokekyoongi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法華経音義（承応三年写本） 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/keiheike/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "平家物語（慶長頃写本） 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 L（巻四）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/069/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第69号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary H",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第11号 1882[明治15]年8月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/musumesetuyo/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小三金五郎仮名文章娘節用 後編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/048/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第48号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/daigakusyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大学抄 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第23号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 H",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第16号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wajisyoransyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和字正濫鈔 ﻿巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第13号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/buturuisyoko/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "諸国方言物類称呼 巻二",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/031/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第31号 1884[明治17]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第13号 1882[明治15]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yoriaibanasi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "よりあひばなし 初編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 N（巻四）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第36号 1884[明治17]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第17号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻八",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第19号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 X（巻十）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/satokagami/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "玉菊全伝花街鑑 中巻（下巻上）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第12号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 D",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第20号 1883[明治16]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻七",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/touwasanyo/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "唐話纂要 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/068/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第68号 1887[明治20]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/eigosen/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "英語箋 巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/060/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第60号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kaikanohanasi/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開化のはなし 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wakanroei/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和漢朗詠集（室町中期写本） 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第21号 1883[明治16]年6月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/064/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第64号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kobunsinpousyo/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古文真宝抄 巻四",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第6号 1882[明治15]年3月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第10号 1882[明治15]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 English and Japanese Dictionary O-Z",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/045/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第45号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tyusenzi/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "纂図附音増広古註千字文 中巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/umegoyomi/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "春色梅児与美 巻十一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/yakken/020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "訳鍵 W-Y",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 二編下",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/046/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第46号 1885[明治18]年7月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻十",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/037/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第37号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/wagokuhen/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "倭玉篇（慶長十八年版） ﻿上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第20号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第29号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第1号 1881[明治14]年10月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/056/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第56号 1886[明治19]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 二編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/zohokagakusyu/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "増補下学集 巻下之三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第41号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/orandazii/022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "和蘭字彙 T（巻八）",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 ﻿巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 三編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第43号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/mougyu/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "標題徐状元補注蒙求 ﻿上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/042/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第42号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/soumagaki/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "通言総籬 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/060/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第60号 1886[明治19]年9月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第13号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kanaruisan/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仮字類纂 ﻿全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第2号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/046/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第46号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/ayuisyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "あゆひ抄 ﻿おほむね",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/tatuminosono/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅暦余興春色辰巳園 巻三",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokukou1/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高等小学読本（国定読本第1期） 七",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第38号 1884[明治17]年11月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/hananosimadai/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "比翼連理花廼志満台 初編中",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/055/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第55号 1886[明治19]年4月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/waeigorin3/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "改正増補和英英和語林集成 Japanese and English Dictionary K",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/toyogakuge/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東洋学芸雑誌 第8号 1882[明治15]年5月",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/edomurasaki/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "おくみ惣次郎春色江戸紫 三編上",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kazasisyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かさし抄 ﻿上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/egirisikotoba/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ゑんぎりしことば 上巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kazasisyo/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "かさし抄 下巻",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/meirokuzassi/033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明六雑誌 第33号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/touwasanyo/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "唐話纂要 巻一",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/bangosen/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "蛮語箋 全",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "http://dglb01.ninjal.ac.jp/ninjaldl/kokuminnotomo/061/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国民之友 第61号",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        }
+    ]
+}

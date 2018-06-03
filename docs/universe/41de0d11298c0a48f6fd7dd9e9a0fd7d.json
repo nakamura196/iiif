@@ -1,0 +1,2072 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/universe/41de0d11298c0a48f6fd7dd9e9a0fd7d.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本部分図[3] / ファンデルメーレン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188958/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Vor- und Nach-Märzliches / von Karl Gutzkow"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083963/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / セネックス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190200/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte / von G.H. Schnee"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083934/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ホンディウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190083/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kalender auf das Jahr 1802 ; Die Jungfrau von Orleans : eine Romantische Tragödie / von Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190129/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrich Schillers Briefe an den Freiherrn Heribert von Dalberg in den Jahren 1781 bis 1785 : ein Beitrag zu Schillers Lebens-und Vildungs-Geschichte : nebst einem facsimile von Schillers Handschrift"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188763/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Faust : a tragedy / by J. W. Goethe ; translated into English verse, with notes, and preliminary remarks by John S. Blackie"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190095/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Räuber : ein Schauspiel von fünf Akten / herausgegeben von Friderich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083922/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 /  ジョルジオ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189060/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Sohn des Atta Troll : ein Winternachtstraum / [Alfred Meissner]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ピンカートン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10100602/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mr. William Shakespear[']s comedies, histories, and tragedies. Published according to the true original copies. Unto which is added, seven plays, never before printed in folio : viz. Pericles Prince of Tyre, The London prodigal, The history of Thomas Lord Cromwel, Sir John Oldcastle, Lord Cobham, The puritan widow, A Yorkshire tragedy, The tragedy of Locrine."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083975/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ゾイター"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/11021982/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Geographia Cl. Ptolemaei Alexandrini olim a Bilibaldo Prickheimherio trā[n]slata, at nunc multis codicibus Graecis collata, pluribusque in locis ad pristinam ueritatem redacta a Iosepho Moletio Mathematico. Addita sunt in primum, & septimum librum amplissima eiusdem commentaria, quibus omnia, quae ad geographiam attinent, & quae praetermissa sunt a Ptolemaeo declarantur : atque nominibus antiquis regionum, ciuitatum, oppidorum, montium, syluarum, fluuiorum, lacuum, caeterorumque locorum, apposita sunt recentiora. Adsunt LXIIII. Tabulae XXVII. nempe antiquae, & reliquae nouae, quae totam continent terram, nostrae, ac Ptolemaei aetati cognitam, Typisque aeneis excussa. Indices rerum quae tractantur copiosissimi / [by Ptolemaeus, Claudius]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189627/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Armin's=Lieder : nebst einem Anhange anderer Gedichte / von H.F. Maßmann"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1821 : siebenter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10386962/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cyclopædia : or, an universal dictionary of arts and sciences / by E. Chambers"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190282/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Lächerlichen Sitten : nebst den Anmerkungen über das Betragen der Menschen, am Ende des Achtzehenten Jahrhunderts"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "カムチャッカ・アワツカ湾図、マカオ図、日本沿岸図 / ボンヌ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083959/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東インドおよび中国図 / ドリール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190152/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schiller's Flucht von Stuttgart und Aufenthalt in Mannheim von 1782 bis 1785 / [Andreas Streicher]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190105/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wallensteins Ermordung. : ein gleichzeitiges Italienisches Gedicht / [F. Testi] ; herausgegeben, eingeführt und mit anderen unbekannten handschriftlichen Belegen ausgestattet von Georg Martin Thomas"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188535/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ein Glaubensbekenntniß : Zeitgedichte / von Ferdinand Freiligrath"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083918/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国および日本図 / ヴァルトゼーミュラー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10106492/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Historie fiorentine di Niccolo Machiavelli cittadino, et segretario fiorentino. Al santiss. et beatiss. padre Signore Nostro clemente settimo pontefice massimo .  Il principe di Niccolo Machiavelli al magnifico lorenzo di Piero de' Medici. La uita di castruccio castracani da Lucca a Zanobi Buondelmonti, & à Luigi Alamanni, composta per il medesimo. Il modo che tenne il duca Valentino per ammazare Vitellozo, Oliuerotto da Fermo, il. S. Pagolo,  & il Duca di Grauina discritta  per il medesimo. I ritratti delle cose della Francia, & della Alamagna per il medesimo, nuouamente aggiunti."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083980/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ティリオン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188811/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Berichtigung der Geschichte des jungen Werthers / [H. von Breidenbach ; Johann Wolfgang von Goethe]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188684/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Goethe's neue Schriften"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083938/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "インド洋図 / ヤンソン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188915/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "St. Petersburgh : a journal of travels to and from that capital : through Flanders, the Rhenish provinces, Prussia, Russia, Poland, Silesia, Saxony, the Federated States of Germany, and France / by A.B. Granville"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190076/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190099/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Bearbeitungen Fortsetzungen und Nachahmungen von Schillers Räubern (1782-1802) / herausgegeben von Wilhelm Rullmann"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190133/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Geist aus Friedrich von Schillers Werken / gesammelt von Christian Friedrich Michaelis ; Nebst einer Vorrebe über Schillers Genie und Verdienst und zwei nach Handschrift in Kupfer gesrochenen Briefen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189191/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Albert von Thurneisen : ein bürgerliches Trauerspiel in vier Aufzügen / von August Wilhelm Iffland"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083996/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "長崎図 / シレイ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1827 : dreyzehnter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188807/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les passions du jeune Werther /ouvrage traduit de l'allemand de M. Goethe par Monsieur Aubry"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083979/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ロシア帝国図 / ホーマン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "蝦夷図 / クルーゼンシュテルン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188939/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der letzte Ritter : Romanzen-kranz / von Anastasius Grün"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189914/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Grillen-und Seufzerbuch : für unsere Zeiten eingerichtet / von Rathsamhausen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083955/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "韃靼図 / ウェルズ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190774/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Komische Opern / [Christian Felix Weisse]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "千島列島図 / ボーエン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083943/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ベルティウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / エリッソン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188217/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Etwas über die Leiden des jungen Werthers, und über die Freuden des jungen Werthers / [C.A. von Bertram]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188539/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Neuere politische und sociale Gedichte / von Ferdinand Freiligrath"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189328/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Otto der Schütz : eine rheinische Geschichte in zwölf Abentenern / von Gottfried Kinkel"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190109/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wilhelm Tell : Schauspiel / von Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189144/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Drei deutsche Sommerlieder / von Hoffmann von Fallersleben"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084044/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ミジョン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084045/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国および日本図 / バーソロミュー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189846/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Faustin, oder, das Philosophische Jahrhundert : 1780 / [J. Pezzl]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188611/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Christian Fürchtegott Gellerts Briefe : nebst einigen damit verwandten Briefen seiner Freude / nach seinem Tode herausgegeben von Johann Adolf Schlegeln und Gottlieb Leberecht Heyern . Christian Fürchtegott Gellerts Leben / von Johann Andreas Cramer"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190108/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Was heißt und zu welchem Ende studiert man Universalgeschichte? : eine akademische Antrittsrede bey Eröfnung seiner Vorlesungen / gehalten von Friedrich Schiller, Professor der Geschichte in Jena"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188187/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Lustige Tag, oder Figaro's Hochzeit : ein Lustspiel in fünf Aufzügen / aus dem Französischen des Herrn Caron von Beaumarchais übersezt"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ローリー, ウィットル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083942/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / デ・ウィット"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189104/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sophiens Reise von Memel nach Sachsen / [Johann Timotheus Hermes]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / セイヤー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189807/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ossians und Sineds Lieder / [Michael Denis]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083954/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / クリューバー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/00266240/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伊勢物語 2巻"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10135886/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Nicolai Copernici Torinensis De revolutionibus orbium coelestium, libri VI. : Habes in hoc opere iam recens nato, & aedito, studiose lector, motus stellarum, tam fixarum, quàm erraticarum, cum ex ueteribus, tum etiam ex recentibus obseruationibus restitutos: & nouis insuper ac admirabilibus hypothesibus ornatos. Habes etiam tabulas expeditissimas, ex quibus eosdem ad quoduis tempus quàm facillime calculare poteris. Igitur eme, lege, fruere"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / クルーゼンシュテルン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189128/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Poetische Schriften politischen und unpolitischen Inhalts / von Wilhelm Hocker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083997/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ベラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1825 : eilfter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die neue Welt : ein Trauerspiel in fünf Aufzügen mit einem Vorspiel : Goethe's Ankunft in Walhalla / von Arnold Ruge"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188806/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Werther / traduit de l'allemand de Goëthe, en français et en espagnol"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083978/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ノーリン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10177620/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Historia del regno di Voxu del Giapone, dell'Antichita, Nobilta, e Valore del Svo re Idate Masamune, delli fauori, c'ha fatti alla Christianità, e desiderio che tiene d'esser Christiano, e dell'aumento di nostra santa Fede in quelle parti. e dell'Ambasciata che hà inuiata alla S. tà di N. S. Papa Paolo V. e delli suoi successi, con altre varie cose di edificatione, e gusto spirituale de i Lettori. / fatta per il dottor scipione Amati Romano, interprete, & historico dell'ambasciata ; dedicata alla S.tà di N.S. Papa Paolo V."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190098/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The robbers : a tragedy / by Frederick Schiller ; translated from the German by the Rev. W. Render"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190132/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schiller und Lotte : 1788. 1789. / [Friedrich Schiller]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189885/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Polenlieder / von August von Platen-Hallermünde"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188797/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Werther / [Johann Wolfgang von Goethe]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10230887/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Andreae Vesalii Bruxellensis, scholae medicorum Patauinæ professoris, de Humani corporis fabrica libri septem"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083939/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / マルティーニ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083981/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ティリオン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188810/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Leiden des jungen Werther : eine bekannte wahre Geschichte : hierin sämmtliche Arien, welche von Albert, Lotte und Werthern während der traurigen Begebenheit gedichtet worden sind / [von Georg Edwin Ehrenreich]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190104/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wallstein : tragédie en cinq actes et en vers : précédée de quelques réflexions sur le théatre allemand : et suivie de notes historiques par Benjamin Constant de Rebecque / [Fr. Schiller]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188867/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Goethe in seiner practischen Wirksamkeit : eine Vorlesung in der Academie gemeinnütziger Wissenschaften zu Erfurt am 12 September 1832 / von Friedrich von Müller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083919/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ミュンスター"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189260/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Henrich Stillings Jugend : eine wahrhafte Geschichte ; Henrich Stillings Jünglings=Jahre : eine wahrhafte Geschichte / [Johann Heinrich Jung]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188888/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Hrn. Johann Christoph Gottscheds : Beobachtungen über den Gebrauch und Misbrauch vieler deutscher Wörter und Redensarten"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190145/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Musen-Almanach für das Jahr 1797 / herausgegeben von Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083958/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ハイリン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188430/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "An Könige und Völker / von Eduard Duller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/19026699/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1815"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189333/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die deutsche Gelehrtenrepublik : ihre Einrichtung, ihre Gesezt, Geschichte des lezten Landtags ... / herausgegeben von Klopstock"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188037/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1822 : achter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10186951/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Henrici de Bracton de legibus & consuetudinibus Angliae libri quinq; in varios tractatus distincti, ad diuersorum et vetustissimorum codicum collationem, ingenti cura, nunc primū typis vulgati : quorum quid cuiq; insit, proxima pagina demonstrabit"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083974/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ゾイター"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ウィットル, ローリー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190094/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Morgenblatt für die gebildeten Stände"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083923/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Iaponiae insvlae descriptio / Ludoico Teisera auctore"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083935/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 / ブラウ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10093935/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "De l'esprit des loix, ou, Du rapport que les loix doivent avoir avec la constitution de chaque gouvernement, les moeurs, le climat, la religion, le commerce, &c. à quoi l'auteur a ajouté. Des recherches nouvelles sur les loix romaines touchant les successions, sur les loix françoises, & sur les loix féodales."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190082/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Geschichte des Abfalls der vereinigten Niederlande von der Spanischen Regierung / herausgegeben von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190128/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrich von Schiller's auserlesene Briefe in den Jahren 1781 - 1805 / herausgegeben von Heinrich Doering"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188631/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "März-Almanach / von Adolf Brennglas ; mit vielen Illustrationen von Ch. Hosemann, W. Scholz u. A."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083962/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ドリール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10094874/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Histoire naturelle, civile, et ecclésiastique de l'Empire du Japon / composée en allemand par Engelbert Kæmpfer ; & traduite en françois sur la version angloise de Jean-Gaspar Scheuchzer, ouvrage enrichi de quantité de figures deffinées d'après le naturel par l'auteur même"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084032/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本部分図[2] / ファンデルメーレン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10184350/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "I quattro libri dell'architettura di Andrea Palladio. Ne' quali, dopò un breue trattato de' cinque ordini, & di quelli auertimenti, che sono piu necessarij nell fabricare; si tratta delle case private, delle vie, de i ponti, delle piazze, de i xisti, et de' tempij."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083986/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ベラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189640/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte / von Alfred Meißner"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188817/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Und er erschoss sich-nicht"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083969/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ドリール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ラプキン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190748/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Glossen und Randzeichnungen zu Texten aus unsrer Zeit : Vier öffentliche Vorlesungen gehalten zu Königsberg / von Ludwig Walesrode"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190066/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Demetrius : Trauerspiel : nach dem hinterlassenen Entwurf Schiller's fortgesetzt und für die Bühne bearbeitet / vom Freyherrn Franz v. Maltitz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188143/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Neue Dorfgeschichten / nach Berthold Auerbach"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190089/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kabale und Liebe : ein bürgerliches Trauerspiel in fünf Aufzügen / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190420/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Almanach und Taschenbuch zum geselligen Vergnügen / herausgegeben von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188856/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Beiträge zur Beurtheilung der neuesten Literatur/ von August Boden"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190135/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Andenken an Bartholomäus Fischenich : meist aus Briefen Friedrichs von Schiller und Charlottens von Schiller / von J.H. Hennes"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083928/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ホンディウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte / von Friedrich von Sallet"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083990/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東アジア図 / ブルックネル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188047/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Album der Boudoirs. 1838"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190861/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Soldaten-Büchlein der österreichisch-italienischen Armee gewidmet / von Zedlitz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188801/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The sorrows of Werter / [Johann Wolfgang von Goethe] ; translated from the German of Baron Göethe by William Render"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/00271392/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "帝鑑圖説 6卷 / [(明)張居正, 呂調陽奉勅撰]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188179/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ein deutscher Krieger : Schauspiel in drei Aufzügen / von Bauernfeld"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189338/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Messias : mit allergnädigster Kaiserlicher Freyheit / [von Friedrich Gottlieb Klopstock]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188196/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Fahrende Poet : Dichtungen / von Karl Beck . Schutt : Dichtungen / von Anastasius Grün"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083953/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / コロネリ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188591/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Juniuslieder / von Emanuel Geibel"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "千島列島図 / ロラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188138/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Bettina und ihr Königsbuch / von A. St...."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083945/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ブローメ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188587/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Fünfzehn politische Gedichte"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10239623/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "De Missione Legatorum Iaponensium ad Romanam curiam, rebusque in Europa, ac toto itinere animadversis dialogues / ex ephemeride ipsorum Legatorum collectus, & in sermonem Latinum versus ab Eduardo de Sande Sacerdote Societatis Iesu"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "蝦夷、カムチャッカおよび千島列島図 / ラ・ペルーズ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189400/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Weibliche und männliche Charaktere / von F. Gustav Kühne"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189284/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Shrapnels / von Ludwig Kalisch"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188753/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Erwin und Elmire : ein Schauspiel mit Gesang / von D. Göthe"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189142/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Deutsche Lieder aus der Schweiz / [Hoffmann von Fallersleben]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084042/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / デュフール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189070/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Doktor Nebel, oder, Gelehrsamkeit und Leben : Lustspiel in fünf Aufzügen / von Karl Heinzen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本部分図[5] / ファンデルメーレン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083965/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / シャトラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189477/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Albigenser : freie Dichtungen / von Nicolaus Lenau"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190085/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die jungfrau von Orleans : eine romantische Tragödie / von Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083932/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / クロッペンブルク"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189898/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die politische Wochenstube : eine Komödie / von R.E. Prutz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10200485/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Political discourses / By David Hume Esq."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083924/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ポーロ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188227/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Freymaurergedichte / von Blumauer"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / エリッソン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188948/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Briefe aus Paris / von Karl Gutzkow"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083973/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / モル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190142/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Beiträge zur Feststellung, Verbesserung, und Vermehrung des Schiller'schen Textes : Sendschreiben an Heinrich Viehoff / von Joachim Meyer"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10092067/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "An inquiry into the nature and causes of the wealth of nations / by Adam Smith, LL.D. and F.R.S., formerly Professor of Moral Philosophy in the University of Glasgow.  In two volumes"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189119/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte eines Lebendigen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ローリー, ウィットル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083949/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "韃靼図 / デ・ウィット"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190103/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Fiesco, or The Genoese conspiracy : a tragedy / translated from the German of Frederick Schiller by G.H.N. and J.S"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189772/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Neues Wörter-Buch auf eine andere Manier von dem Nothankerischen Schulmeister / [Friedrich Nicolai]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190417/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Almanach und Taschenbuch zum geselligen Vergnügen für 1798 / von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190381/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen für 1795 / von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083948/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア北東沿岸図 / ファン・ケーレン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/00171489/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "海國兵談 16巻 / 林子平 [著]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189118/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte eines Lebendigen : mit einer Dedikation an den Verstorbenen / [Georg Herwegh]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "南日本および琉球図 / ラ・ペルーズ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190840/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wilhelm Silberfels der Jüngling : ein poetischprosaischer, epistolischer, dramatisierter, philosophischpolitischer, und theologischer Wirrwarr"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10180456/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "England's treasure by forraign trade. Or, The ballance of our forraign trade is the rule of our treasure. Written by Thomas Mun of Lond. Merchant, and now published for the common good by his son John Mun of Bearsted in the county of Kent, Esquire."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188031/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr- 1817 : dritter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188748/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Claudine af Villa bella : et Syngestykke i 3 Handlinger / af J.W. Göthe ; til Brug for den Kongl. Danske Skueplads, oversat af N.H. Weinwich ; Musikken er af Hr. C. Schall Violinist i det Kongl. Capelle"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190378/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen für ... / [herausgegeben von W. G. Becker]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190397/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "W.G. Becker's Taschenbuch zum geselligen Vergnügen / herausgegeben von Friedrich Kind"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083972/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ドリール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ピンカートン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083925/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / オルテリウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188334/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Peter Schlemihl's wundersame Geschichte / mitgetheilt von Adelbert von Chamisso ; nach des Dichters Tode neu herausgegeben von Julius Eduard Hitzig"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190084/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrich Schillers Briefe an den Freiherrn Heribert von Dalberg in den Jahren 1781 bis 1785 : ein Beitrag zu Schillers Lebens-und Vildungs-Geschichte nebst einem facsimile von Schillers handschrift"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083933/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 / クロッペンブルク"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083964/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / モル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本部分図[4] / ファンデルメーレン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189143/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Deutsche Salonlieder / von Hoffmann von Fallersleben"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図およびビルマ、シャム、アンナン図 / ブラッキー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188181/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Republik der Thiere : Phantastisches Drama sammt Epilog / von Bauernfeld"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / パレーレ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083944/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東南アジア図 / グース"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188990/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Dr. Albrecht Hallers Versuch schweizerischer Gedichte"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / キッチン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083952/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "韃靼図 / デ・ウィット"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188178/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Industrie und Herz : Lustspiel in vier Aufzügen / von Bauernfeld"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/01030515/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "好色一代女 6巻 / [井原西鶴著]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10094868/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ambassades mémorables de la Compagnie des Indes Orientales des Provinces unies vers les empereurs du Japon : contenant plusieurs choses remarquables arrivées pendant le voyage des ambassadeurs ; et deplus, la description des villes, bourgs, châteaux, forteresses, temples & autres bâtimens, des animaux, des plantes, montagnes, riviéres, fonteines, des mœurs, coutumes, religions, & habillemens des Japonois : comme aussi leurs exploits de guerre, & les révolutions tant anciennes que modernes que ces peuples ont essuyées. : le tout enrichi de figures dessinées sur les lieux, & tiré des mémoires des ambassadeurs de la compagnie / [Arnoldus Montanus]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Contraste und Paradoxen : eine Novelle / von Friedrich von Sallet"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188945/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Appellation an den gesunden Menschenverstand : letztes Wort in einer literarischen Streitfrage / von K. Gutzkow"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083991/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ロベール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188768/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Geistlich Nachspiel zur Tragödie Faust / von Karl Rosenkranz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190071/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Don Karlos : Infant von Spanien / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190134/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrich Schiller : Skizze einer Biographie und ein Wort über seinen und seiner Schriften Charakter / [J.G. Gruber]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083929/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ホンディウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10177630/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Essais de messire Michel seigneur de Montaigne, chevalier de l'Ordre du Roy, & gentil-homme ordinaire de sa chambre"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190067/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Don Karlos, Infant von Spanien / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188142/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Buch für den denkenden Mitterlstand : Der gebildete Bürger / herausgegeben von Berthold Auerbach"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190088/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kabale und Liebe : ein bürgerliches Trauerspiel in fünf Aufzügen / von Fridrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ロシアン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083987/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ル・ルージュ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188816/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Werther : traduit de l'allemand / [Johann Wolfgang von Goethe ; Georges Deyverdun]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083968/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / デュ・フェール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / コルトン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190418/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Almanach und Taschenbuch zum geselligen Vergnügen für ... / von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188881/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Geschichte der Unbekannten / [Friedrich Wilhelm Gotter]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189402/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Charaktere teutscher Dichter und Prosaisten : von Kaiser Karl, dem Großen, bis aufs Jahr 1780"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "南日本および琉球図 / ラ・ペルーズ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189117/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte eines Lebendigen : mit einer Dedikation an den Verstorbenen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083947/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / サンソン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10268907/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "A treatise wherein is demonstrated, I. That the East-India trade is the most national of all foreign trades. II. That the clamors, aspersions, and objections made against the present East-India Company, are sinister, selfish or groundless. III. That since the discovery of the East-Indies, the dominion of the sea depends much upon the wane or increase of that trade, and consequently the security of the liberty, property, and protestant religion of this kingdom. IV. That the trade of the East-Indies cannot be carried on to national advantage, in any other way than by a general joynt-stock. V. That the East-India trade is more profitable and necessary to the kingdom of England, than to any other kingdom or nation in Europe / by Φιλοπατρισ[Philopatris]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国および日本図 / ボンヌ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083951/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / デュヴァル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10122868/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Conuiuio di Dante Alighieri fiorentino"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188252/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Fabeln aus den Zeiten der Minnesinger / [herausgegeben von J.J. Bodmer und J.J. Breitinger]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190377/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10132096/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Christiani Hugenii Zulichemii, Const. f., Horologium oscillatorium, siue De motu pendulorum ad horologia aptato demonstrationes geometricæ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10257157/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "La description géographiqve des provinces & villes plus fameuses de l'Inde Orientale, meurs, loix, & coustumes des habitans d'icelles, mesmement de ce qui est foubz la domination du grand Cham Empereur des Tartares / par Marc Paule gentilhomme Venetien, et nouuellement reduict en vulgaire François"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083992/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ロベール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188045/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1832 : achtrehnter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188946/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aus der Knabenzeit / von Karl Gutzkow"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189480/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Neuere Gedichte / von Nicolaus Lenau"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189896/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte : neue Sammlung / von R.E. Prutz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188784/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Essai sur la métamorphose des plantes / J.W. de Goethe ; traduit par Fréderic Soret, et suivi de notes historiques"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190072/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Don Karlos : Infant von Spanien / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189615/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Pfefferkörner : im Geschmack der Zeit ernster und satyrischer Gattung / von G.A. Freiherrn von Maltitz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/19026700/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1826"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188546/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Briefe aus Wien verschiedenen Inhalts an einen Freund in Berlin / von Johann Friedel"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188815/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Leiden des jungen Motz / [Georg Teubner]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sammlung Poetischer Gesundheiten und Gedanken beym Trunk"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188053/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Album österreichischer Dichter / Nikolaus Lenau ... [et al.]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083984/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "太平洋図 / フランス海軍"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190414/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch und Almanach zum geselligen Vergnügen für ... / von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189770/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Friedenskongreß zu Lagado : im Königreiche Balnibarbi zwischen den Völkern von Lilliput, Brobdingnak, Laputa, der Hoynhmms &c. &c : ein historisches Familiengemälde in fünf Akten, halb in gebundener, halb in freier Rede / [Karl August Nicolai, Julius von Voss, Friedrich Schulz]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190382/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen für 1797 / herausgegeben von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188065/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wiener Bilder / W. Alexis"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189674/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Patriotische Phantasien / von Justus Möser ; herausgegeben von seiner Tochter J. W. J. von Voigt, geb. Möser"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188032/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1818 : vierter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188177/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Großjährig : Lustspiel in zwei Aufzügen und dem Nachspiel : ein neuer Mensch / von Bauernfeld"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189336/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Messias / [Klopstock]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10167557/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Registrum huius operis libri cronicarum cum figuris et ymaginibus ab inicio mumdi / [Hartmann Schedel]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083971/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "韃靼図 / ウィットセン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ドリール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190750/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Unterthänige Reden : Vier Vorlesungen, öffentlich gehalten zu Königsberg im Winter 1843, oder, Fortsetzung der \"Glossen und Randzeichnungen zu Texten aus unserer Zeit\" / von Ludwig Walesrode"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190091/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kabale und Liebe : ein bürgerliches Trauerspiel in fünf Aufzügen / von Fridrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083926/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "韃靼図 / オルテリウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188272/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ludwig Börne's Ultheil über H. Heine : ungedruckte Stellen aus den Pariser Briefen"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083930/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 / スピード"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190087/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Jeanne d'Arc, ou, La Pucelle d'Orleans : Tragédie en cinq actes / auteur, Frédéric Schiller ; traducteur, Charles-Frédéric Cramer ; éditeur, L.S. Mercier"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190068/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Dom Karlos : Infant von Spanien / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/00315595/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伊勢物語 2巻"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083967/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ファン・デア・アー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083988/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ボーエン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084037/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国および日本図 / ブリュー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ウォーカー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188818/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Goethe und Werther : Briefe Goethe's, mėistens aus seiner Jugendzeit, miterläuternden Documenten / Johann Wolfgang von Goethe ; hrsg. von A. Kestner"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083966/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ファン・デア・アー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083989/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ボーエン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083931/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / クロッペンブルク"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190069/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Don Karlos : Infant von Spanien / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190090/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kabale und Liebe : ein bürgerliches Trauerspiel in fünf Aufzügen / von Fridrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083927/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / クワッド"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ライヒャルト"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189570/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Republikanisches Liederbuch / herausgegeben von Hermann Rollett"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10205846/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The twoo bookes of Francis Bacon. Of the proficience and aduancement of learning, diuine and humane : to the King"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083970/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / コヴェンス, モルティエ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10093970/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sir Thomas Moore's Vtopia : containing, an excellent, learned, wittie, and pleasant discourse of the best state of a publike weale, as it is found in the gouernment of the new ile called Vtopia. First written in Latine, by the Right Honourable and worthy of all fame, Sir Thomas Moore, Knight, Lord Chauncellour of England; and translated into English by Raphe Robinson, sometime fellow of Corpus Christi Colledge in Oxford."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Laien-Evangelium : Jamben / von Friedrich von Sallet"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1819 : fünfter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190116/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Theater / von Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189337/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Messias : ein Heldengedicht / [Klopstock]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188567/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Lieder und Romanzen ; Aus dem Tagebuche eines wandernden Schneidergesellen ; Die Lebensüberdrüssigen : Zwei Novelletten ; Desengaño : Novelle / von Franz Freiherrn Gaudy"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190383/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen / herausgegeben von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190100/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Verschwörung des Fiesko zu Genua : ein republikanisches Trauerspiel / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189771/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Freuden des jungen Werthers, Leiden und Freuden Werthers des Mannes : Voran und zuletzt ein Gespräch : voran und zuletzt ein Gespräch / [Friedrich Nicolai]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190874/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Guerillaskrieg : Versprengte Lieder / [Robert von Zimmermann]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188547/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Briefe über die Galanterien von Berlin, auf einer Reise gesammlet von einem österreichischen Offizier [i.e. Johann Friedel]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/01023454/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "帝鑑圖説 6卷 / [(明)張居正, 呂調陽奉勅撰]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188052/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Album aus Oesterreich ob der Enns : mit artistischen Beilagen / herausgegeben zum Besten der durch den Brand am 26. Oktober 1841 verungluckten Bewohner von Spital am Pyhrn in Oder=Oesterreich"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083985/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ホーマン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/19026701/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1829"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188843/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Briefe von Goethe und dessen Mutter an Friedrich Freiherrn von Stein / herausgegeben von J.J.H. Ebers und August Kahlert"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190065/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Würtemberg im jahre 1844 / [Johannes Scherr]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189478/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Nicolaus Lenau's dichterischer Nachlass / herausgegeben von Anastasius Grün"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188269/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Menzel der Franzosenfresser / von Ludwig Börne"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190136/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Nachlese zu Schillers Werken nebst Variantensammlung : aus seinem Nachlaß im Einverständniß und unter Mitwirkung der Familie Schillers / herausgegeben von Karl Hoffmeister"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190073/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Don Carlos, Prince Royal of Spain : an historical drama from the German of Frederick Schiller / by the translators of Fiesco [i.e. Georg Heinrich Noehden und Sir John Stoddart]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189897/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die politische Poesie der Deutschen / von R.E. Prutz"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189710/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Rheinfahrt : ein Gedicht / von Wolfgang Müller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083993/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ベラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188414/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wanderbuch / von Franz Dingelstedt"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188044/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1831 : liebenrehnter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188947/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aus der Zeit und dem Leben / von Karl Gutzkow"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190376/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen für 1791"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189157/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Zwölf Zeitlieder / von Hoffmann von Fallersleben"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083950/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / デュヴァル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189696/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Versuch einer Critick über die Deutschen Dichter : welchem beygefügt D. Swifts Kunst in der Poesie zu kriechen, ingleichen Das Lob der Licht-Putze / [G.E.E. Müller]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084000/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ジャンヴィエ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10277866/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "I. Jonstons Naeukeurige beschryving van de natuur der vier-voetige dieren, vissen, en bloedlooze water-dieren, vogelen, kronkel-dieren, slangen en draken"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083946/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 / ブローメ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "南日本および琉球図 / ラ・ペルーズ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189116/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Fragmente zur Geschichte des Tages / Georg Herwegh ; herausgegeben von Alexis Publicola"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189141/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Deutsche Gassenlieder / von Hoffmann von Fallersleben"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / フラートン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188188/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Lustige Tag, oder Figaro's Hochzeit : ein Lustspiel in fünf Aufzügen / aus dem Französischen des Herrn Caron von Beaumarchais übersezt"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190804/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Über den Adel : in Briefen an den Grafen M. von Moltke / Kahldorf ; herausgegeben von H. Heine"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188864/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Blätter zur Erinnerung an die Feier der Enthüllung des Göthe-Monumentes zu Frankfurt an Main / [George Huthmacher]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189849/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Umgebungen Wiens : als zweyter Theil der Beschreibung von Wien / von Johann Pezzl"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190150/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Biographie Schiller's und Anleitung zur Critic seiner Werke / von T. K. S."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1820 : sechster Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189330/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sämtliche Werke / Christian Ewald von Kleist"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10260486/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Amœnitatum exoticarum politico-physico-medicarum fasciculi V : quibus continentur variæ relationes, observationes & descriptiones Rerum Persicarum & Ulterioris Asiae, multá attentione, in peregrinationibus per universum Orientem, collectæ / ab auctore Engelberto Kæmpfero"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188809/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Des jungen Werthers Zuruf aus der Ewigkeit an die noch lebende Menschen auf der Erde / [Johann August Schlettwein]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083977/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "カスピ海図およびカムチャッカ図 / ホーマン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083998/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "長崎図 / ベラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / エロースミス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190243/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Unschuldige Frau, oder, viel Lermen um Nichts : ein Lustspiel in Einem Aufzuge / von dem Verfasser der Empfindsamen Reisen durch Deutschland [i.e. Johann Gottlieb Schummel]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083920/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / オルテリウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190097/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Räuber : ein Schauspiel / [von Friderich Schiller]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190078/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte / von Friedrich von Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190081/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrich Schillers Geisterseher : aus den Memoires des Grafen von O** / von X** Y*** Z*"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083936/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図 / ブリエ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188632/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Neuer Reineke Fuchs / von Adolf Glassbrenner"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083961/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国および日本図 / モル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188059/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der falsche Woldemar. : Roman / von W. Alexis"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084031/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本部分図[1] / ファンデルメーレン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189453/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "J.C. Lavaters Physiognomische Fragmente, zur Beförderung der Menschenkenntniß und Menschenliebe / verkürzt herausgegeben von Johann Michael Armbruster"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188612/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Hrn. Prof. Gellerts Geistliche Oden und Lieder / in Musik gesetzt von Johannes Schmidlin"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084046/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国および日本図 / ジョンストン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189280/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Das Buch der Narrheit / von Ludwig Kalisch"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ロベール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Neue Vorschule der Aesthetik : das komische mit einem komischen Anhange / von Arnold Ruge"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083941/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本および蝦夷図 / ヤンソン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188203/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Freundschaften / [H.W. Behrisch]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189557/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Von dem Zwecke Jesu und seiner Jünger : nach ein Fragment des Wolfenbüttelschen Ungenannten / herausgegeben von Gotthold Ephraim Lessing."
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東アジア図 / シュレーンブル"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188829/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Autographa / [Johann Wolfgang Goethe]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083957/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ロッシ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189445/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Eine wunderschöne Historie von dem gehörnten Siegfried dem Zweyten, das ist, wohlverdiente Züchtigung einer Schandschrift, welche die sogenannte Evangelische Kirche Mährischer Unität durch ihren würdigen Vorfechter Albinus Sincerus ausgehen lassen, Dem beleuchtenden Siegfried und heimleuchtenden Alb. Sincerus statt einer Laterne verehret von dem, der Sich Richtet nach Sprüch. Sal. XXVI, 5 ... / [Samuel Gotthold Lange]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189500/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "G.Ephr. Lessingii Emilia Galotti : progymnasmatis loco latine reddita & publice acta moderante J.H. Steffens"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189279/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sakontala, ober, Der entscheidende Ring ein indisches Schauspiel / von Kalidas ; aus den Ursprachen Sanskrit und Prakrit ins Englische und aus diesem ins Deutsche übersezt mit Erläuterungen von Georg Forster"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190058/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Erbauliches & Beschauliches für andächtige Seelen / von Jedediah Semmelziege [i.e. Johannes Scherr]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1823 : neunter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188385/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Charlatanerien in alphabetischer Ordnung als Beyträge zur Abbildung und zu den Meinungen des Jahrhunderts / [August Friedrich Cranz]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188940/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Spaziergänge eines Wiener Poeten / [Anastasius Grün]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188413/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Nacht und Morgen : neue Zeit-Gedichte / von Franz Dingelstedt"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083994/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "都図 / シレイ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1830 : lechrehnter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189486/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Auszug aus dem Wörterbuche der Thorheiten / [J.N. Lengenfelder]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190131/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schiller-Gallerie : Illustrationen zu Schillers dramatischen Meisterwerken / von Julius Nisle"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189185/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Das heimliche Gericht : ein Trauerspiel / [Ludwig Ferdinand Huber]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190127/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schillers Feier : seinen Manen durch seinen Geist : mit einem Bericht vom Fortgange des Planes dem verewigten Schiller ein Denkmahl der Nazional Dankbarkeit zu stiften / [Christian Ernst von Betzel-Sternau]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190062/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Poeten der Jetztzeit in Briefen an eine Frau / von J. Scherr"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190259/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Epigramme und Sinnsprüche eines Unparteiischen / herausgegeben von Justus Steinbühl"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083982/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ティリオン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188812/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Lottens Briefe : an eine Freundin während ihrer Bekanntschaft mit Werthern / [Übers., Wilhelm Friedrich Hermann Reinwald]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188541/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Zwischen den Garben : eine Nachlese älterer Gedichte / von Ferdinand Freiligrath"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10255481/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Peregrinaçam de Fernam Mendez Pinto, em que da conta de muytas e muyto estranhas cousas que vio & ouuio no reyno da China, no da Tartaria, no do Sornau, que vulgarmente se chama Sião, no do Calaminhan, no de Pegù, no de Martauão, & em outros muytos reynos & senhorios das partes Orientais, de que nestas nossas do Occidente ha muyto pouca ou nenhũa noticia. E tambem da conta de muytos casos particulares que acontecerão assi a elle como a outras muyas pessoas. E no fim della trata breumente de algũas cousas, & da morte do santo Padre mestre Francisco Xauier, unica luz & resplandor daquellas partes do Oriente, & Reytor nellas uniuersal da Companhia de Iesus / escrita pelo mesmo Fernão Mendez Pinto"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083983/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 / ティリオン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190126/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schiller und Goethe im Xenienkampf / von Eduard Boas"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190063/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schiller und seine Zeit / von Johannes Scherr"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189868/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Briefe aus Berlin über verschiedene Paradoxe dieses Zeitalters : an den Verfasser der Briefe aus Wien an einen Freund in Berlin / [By C.A. Pilati di Tassulo]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190130/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Briefwechsel zwischen Schiller und Wilhelm v. Humboldt : mit einer Vorerinnerung über Schiller und den Gang seiner Geistesentwicklung / von W. von Humboldt"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188783/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Leiden des jungen Werthers / [Johann Wolfgang von Goethe]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188557/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der junge Deutsch-Michel / von A.E. Fröhlich"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188804/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Werther / par Goethe : traduction nouvelle précédée de considérations sur Werther, et en général sur la poésie de notre époque : par Pierre Leroux : accompagnée d'une préface par George Sand ; dix eaux-fortes par Tony Johannot"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083995/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "江戸図 / シレイ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188042/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : Taschenbuch für das Jahr 1828 : vierzehnter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/11021763/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill / by Thomas Hobbes of Malmesbury"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190059/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Eine deutsche Geschichte : (1848 - 1849) / von Johannes Scherr"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190409/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Taschenbuch zum geselligen Vergnügen auf das Jahr ... / herausgegeben von W.G. Becker"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aglaja : ein Taschenbuch für das Jahr 1824 : lehnter Jahrgang"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188982/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrichs von Hagedorn moralische Gedichte"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083956/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / シェーラー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189805/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Israels Erhebung und der ewige Jude : Zeitgedichte / von Ernst Ortlepp"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190327/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Leiden der jungen Wertherinn / [A.C. Stockmann]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "長崎港図 / セイヤー"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189556/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Uebrige noch ungedruckte Werke des Wolfenbüttlischen Fragmentisten / ein nachlaß von Gotthold Ephraim Lessing ; herausgegeben von C. A. E. Schmidt"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083940/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中国図 / マルティーニ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "マルコ・ポーロの東方旅行に基づくアジアおよびアフリカ図"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189281/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Lose Hefte / von Ludwig Kalisch"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189147/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Gedichte / von Hoffmann von Fallersleben"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084047/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "朝鮮および日本図 / フィリップ"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "千島列島図 / クルーゼンシュテルン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189075/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Abhandlung über den Ursprung der Sprache, welche den von der Königl. Academie der Wissenschaften für das Jahr 1770 gesezten Preiz erhalten hat / von Herrn Herder"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083960/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / デュ・フェール"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Deutsche Schaubühne zu Wienn : nach alten und neuen Mustern"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/00298205/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "近代秀哥 / [藤原定家著]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189472/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Predigten über das Buch Jonas : gehalten in der Kirche am Waysenhause / von Johann Caspar Lavater"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188799/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The sorrows of Werter : a German story / [Johann Wolfgang von Goethe]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190080/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Geisterseher : aus den Memoires des Grafen von O** / von Friedrich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083937/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / サンソン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083921/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "韃靼図 / オルテリウス"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190096/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Räuber : ein Trauerspiel / von Friderich Schiller"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189126/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Der Stammbaum : erste Fortsetzung der beyden Billets / von Anton-Wall [i.e. Christian Lebrecht Heyne]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10084026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "日本図"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190242/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Spitzbart : eine komi-tragische Geschichte für unser pädagogisches Jahrhundert / [Johann Gottlieb Schummel]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188808/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Werther in der Hölle / [Hans Michel Schlegelbauer]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083976/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ホーマン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10083999/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アジア図 / ベラン"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188936/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Nibelungen im frack : ein Gedicht / von Anastasius Grün"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190110/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Friedrich von Schillers sämmtliche Werke"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190147/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Schiller's Leben, Geistesentwickelung und Werke : im Zusammenhang / von Karl Hoffmeister"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190151/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Uiber [sic] Friedrich von Schiller und seine poetischen Werke / von J. Schwaldopler"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10189848/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Skizze von Wien / [J. Pezzl]"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10188536/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Englische Gedichte aus neuerer Zeit nach Felicia Hemans, L.E. Landon, Robert Southey, Alfred Tennyson, Henry W. Longfellow und anderen / von Ferdinand Freiligrath"
+        },
+        {
+            "@id": "https://kda.clib.kindai.ac.jp/rarematerials/iiif/rarematerials/10190106/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The history of the Thirty Years' War in Germany / translated from the original German of Frederic Schiller by Captain Blaquiere"
+        }
+    ]
+}
