@@ -4,82 +4,88 @@
     "@type": "sc:Collection",
     "collections": [
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/d61a213c842173db8ca3bbcc8ed69c6a.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/codh.json",
             "@type": "sc:Collection",
             "label": "日本古典籍データセット（国文研所蔵）CODH配信",
             "license": "http://creativecommons.org/licenses/by-sa/4.0/"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/3d2b8f04645d966f71f8e6638bbc7efa.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/keio.json",
             "@type": "sc:Collection",
-            "label": "Copyright (C) Koyasan University All Rights Reserved.",
-            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+            "label": "慶應義塾大学メディアセンター\nKeio University Libraries"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/e0145e19f4d29449da2c6614f2c864ad.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/kinki.json",
+            "@type": "sc:Collection",
+            "label": "Images Copyright Kindai University Central Library"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/universe/nijl.json",
+            "@type": "sc:Collection",
+            "label": "国文学研究資料館",
+            "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/universe/saga.json",
             "@type": "sc:Collection",
             "label": "This property is owned by Saga University Library and is used for regionological research by The Center for Regional Culture and History, Saga University, Japan. ",
             "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/e27d6ba3c4b8ff83ceaf366cdd48b3d0.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/koyasan.json",
+            "@type": "sc:Collection",
+            "label": "Copyright (C) Koyasan University All Rights Reserved.",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/universe/kyoto.json",
             "@type": "sc:Collection",
             "label": "Kyoto University Rare Materials Digital Archive",
             "license": "https://rmda.kulib.kyoto-u.ac.jp/reuse"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/08f1d14fccb0d12914e15ef710953e12.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/khirin.json",
             "@type": "sc:Collection",
-            "label": "http://www.ninjal.ac.jp/",
-            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+            "label": "国立歴史民俗博物館",
+            "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/e94f3513f75d827eff00769615d75bb5.json",
-            "@type": "sc:Collection",
-            "label": "大蔵出版(Daizo shuppan) and SAT大蔵経テキストデータベース研究会(SAT Daizōkyō Text Database Committee) ",
-            "license": "http://creativecommons.org/licenses/by-sa/4.0/"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/universe/108c739d8d18d317de151d72ff71eaff.json",
-            "@type": "sc:Collection",
-            "label": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee",
-            "license": "http://creativecommons.org/licenses/by/4.0/"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/universe/41de0d11298c0a48f6fd7dd9e9a0fd7d.json",
-            "@type": "sc:Collection",
-            "label": "Images Copyright Kindai University Central Library"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/universe/0704d5eef9049b82a51ab9dcbfc90edf.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/ndl.json",
             "@type": "sc:Collection",
             "label": "国立国会図書館 National Diet Library, JAPAN",
             "license": "http://dl.ndl.go.jp/ja/iiif_license.html"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/e7486e2059da743ea91bf27d81e49669.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/kkz.json",
+            "@type": "sc:Collection",
+            "label": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee",
+            "license": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/universe/nakano.json",
+            "@type": "sc:Collection",
+            "label": "中野区立図書館"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/universe/ninj.json",
+            "@type": "sc:Collection",
+            "label": "http://www.ninjal.ac.jp/",
+            "license": "https://creativecommons.org/licenses/by-nc/4.0/deed.ja"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/universe/toyo.json",
             "@type": "sc:Collection",
             "label": "NII / Toyo Bunko Digital Archives",
             "license": "http://dsr.nii.ac.jp/toyobunko/license/"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/55c64b2e108beea023871df110e4f08f.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/zuzoubu.json",
             "@type": "sc:Collection",
-            "label": "中野区立図書館"
+            "label": "大蔵出版(Daizo shuppan) and SAT大蔵経テキストデータベース研究会(SAT Daizōkyō Text Database Committee) ",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/universe/c8feb1faa32fc4b566a4e1e045b6ac0e.json",
-            "@type": "sc:Collection",
-            "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-            "label": "国立歴史民俗博物館 National Museum of Japanese History"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/universe/f2df7f09333cb16d533b2e94492750ee.json",
-            "@type": "sc:Collection",
-            "label": "慶應義塾大学メディアセンター\nKeio University Libraries"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/universe/5cc664bbf4a39406b873fd16d86f59b2.json",
+            "@id": "https://nakamura196.github.io/iiif/universe/shimane.json",
             "@type": "sc:Collection",
             "label": "Shimane University Library Digital Archive Collection",
             "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"

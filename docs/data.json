@@ -134,6 +134,26 @@
         "viewingHint": false,
         "within": false
     },
+    "nijl": {
+        "attribution": "国文学研究資料館",
+        "description": false,
+        "item": 72031,
+        "licenses": {
+            "": 1,
+            "http://kotenseki.nijl.ac.jp/page/usage.html": 51225,
+            "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja": 627,
+            "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja": 20083,
+            "https://creativecommons.org/licenses/by-nc/4.0/deed.ja": 94,
+            "https://creativecommons.org/licenses/by-sa/4.0/deed.ja": 1
+        },
+        "media": 9232331,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
     "ninj": {
         "attribution": "http://www.ninjal.ac.jp/",
         "description": false,
