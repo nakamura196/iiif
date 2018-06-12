@@ -1,56 +1,68 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Material Design Bootstrap</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
-
-  <title>IIIF Portal</title>
-
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.min.css" rel="stylesheet">
 </head>
 
 <body>
 
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark">
-    <a class="navbar-brand" href="./">IIIF Portal</a>
+  <!--Main Navigation-->
+  <header>
 
-  </nav>
+    <!-- Navbar -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+      <div class="container">
 
-  <br/>
+        <!-- Brand -->
+        <a class="navbar-brand waves-effect" href="./">
+          <strong class="blue-text">IIIF Portal</strong>
+        </a>
 
-  <div class="container-fluid">
-
-    <br/>
-
-    <h1>Check</h1>
-
-    <hr/>
-
-    <br/>
-
-    <table class="table table-hover" id="table">
-      <thead id="thead">
-        <tr id="tr">
-          <th></th>
-          <th>Collection</th>
-        </tr>
-      </thead>
-      <tbody id="resourceListBody">
-      </tbody>
-    </table>
-
-    <footer class="pt-4 my-md-5 pt-md-5 border-top">
-      <div class="row">
-        <div class="col-12 col-md">
-          <small class="d-block mb-3 text-muted"></small>
-        </div>
       </div>
-    </footer>
-  </div>
+    </nav>
+    <!-- Navbar -->
+
+  </header>
+  <!--Main Navigation-->
+
+  <!--Main layout-->
+  <main class="mt-5 pt-5">
+    <div class="container">
+
+      <h1>Check</h1>
+
+      <hr/>
+
+      <br/>
+
+      <table class="table table-hover" id="table">
+        <thead id="thead">
+          <tr id="tr">
+            <th></th>
+            <th>Collection</th>
+          </tr>
+        </thead>
+        <tbody id="resourceListBody">
+        </tbody>
+      </table>
+
+    </div>
+  </main>
+  <br/>
+  <br/>
 
 
   <script
@@ -156,6 +168,16 @@
 
 
   });
+  </script>
+  <!-- SCRIPTS -->
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+  <!-- Initializations -->
+  <script type="text/javascript">
+  // Animations initialization
+  new WOW().init();
   </script>
 </body>
 </html>
