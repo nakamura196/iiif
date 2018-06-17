@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Material Design Bootstrap</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!--Main Navigation-->
+  <header>
+
+    <!-- Navbar -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+      <div class="container">
+
+        <!-- Brand -->
+        <a class="navbar-brand waves-effect" href="./">
+          <strong class="blue-text">IIIF Portal</strong>
+        </a>
+
+      </div>
+    </nav>
+    <!-- Navbar -->
+
+  </header>
+  <!--Main Navigation-->
+
+  <!--Main layout-->
+  <main class="mt-5 pt-5">
+    <div class="container">
+
+      <!--Section: Cards-->
+      <section>
+
+        <div class="text-center" id="loading">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"/>
+        </div>
+
+        <!--Grid row-->
+        <div class="row mb-4 wow fadeIn" id="row">
+        </div>
+        <!--Grid row-->
+
+      </section>
+      <!--Section: Cards-->
+
+    </div>
+  </main>
+  <!--Main layout-->
+
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+
+  <script>
+
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
+
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
+  }
+
+  var title = arg["title"] != null ? arg["title"] : "";
+  $("#title").val(title);
+  var collection = arg["collection"] != null ? arg["collection"] : "";
+  $("#collection").val(collection);
+
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : false
+    });
+
+    getCollections()
+
+  });
+
+  function getCollections(){
+    var query = " select distinct * ";
+    query += " where { ";
+    query += " ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . ";
+    query += " } ";
+
+    $.ajax({
+      url:'https://dydra.com/ut-digital-archives/iiif/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var s = obj.s.value;
+        var thumb = obj.thumb.value;
+
+        var col = $('<div class="col-lg-2 col-md-6 mb-4">')
+        $("#row").append(col);
+
+        var card = $('<div class="card">')
+        col.append(card)
+
+        var overlay = $('<div class="view overlay">')
+        card.append(overlay)
+
+        var img = $('<img class="card-img-top" alt="">')
+        card.append(img)
+        img.attr("src", obj.thumb.value)
+
+        var mask = $('<div class="mask rgba-white-slight">')
+        card.append(mask)
+
+        var body = $('<div class="card-body">')
+        card.append(body)
+
+        var a = $('<a>')
+        body.append(a)
+        str = s.split("/")
+        a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif2/test?q=dcterms_subject_ss:\""+str[str.length-1]+"\"")
+        a.attr("target", "_blank")
+        var str = obj.s.value.split("/");
+        a.append(str[str.length -1])
+      }
+
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+  }
+
+
+  function search() {
+
+    var query = " select distinct * ";
+    query += " where { ";
+
+    query += " ?s dcterms:title ?title . ";
+    query += " ?s dcterms:identifier ?id . ";
+    query += " optional { ?s foaf:thumbnail ?thumb . } ";
+    query += " ?s dcterms:references ?ref . ";
+    query += " ?s dcterms:relation ?relation . ";
+    query += " ?s dcterms:publisher ?pub . ";
+    query += " ?s dcterms:isPartOf ?part . ";
+    query += " ?s dcterms:rights ?right . ";
+    if(title != ""){
+      query += " filter regex ( ?pub , '"+title+"' , 'i' ) . ";
+    }
+    if(collection != ""){
+      query += " filter ( ?pub = \""+collection+"\" ) .  ";
+    }
+    query += " } ";
+
+    $.ajax({
+      url:'https://dydra.com/ut-archives-repo/lod/sparql',
+      type:'POST',
+      data:{
+        query : query,
+        format : "json"
+      }
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+      var result = data.results.bindings;
+
+      var tbody = $("#resourceListBody");
+
+      for (var i = 0; i < result.length; i++) {
+        var obj = result[i];
+
+        var title = obj.title.value;
+
+        var tr = $("<tr>");
+        tbody.append(tr);
+
+        var td = $("<td>");
+        tr.append(td);
+
+        //サムネイル
+        td = $("<td>");
+        tr.append(td);
+        if (obj.thumb) {
+          var img = $("<img>");
+          td.append(img);
+          img.attr("src", obj.thumb.value)
+          img.attr("width", "100px")
+        }
+
+        //タイトル + ポータル
+        td = $("<td>");
+        tr.append(td);
+
+        var a = $("<a>");
+        td.append(a);
+        a.append(title);
+        a.attr("href", obj.relation.value);
+        a.attr("target", "_blank");
+
+
+        //Manifest
+        td = $("<td>");
+        tr.append(td);
+
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", "http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest="+obj.ref.value);
+        a.attr("target", "_blank");
+
+        var img = $("<img>");
+        a.append(img)
+        img.attr("src", "https://iiif.dl.itc.u-tokyo.ac.jp/images/mirador.png")
+
+        td.append(" ");
+
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", "http://da.dl.itc.u-tokyo.ac.jp/uv/?manifest="+obj.ref.value);
+        a.attr("target", "_blank");
+
+        var img = $("<img>");
+        a.append(img)
+        img.attr("src", "https://iiif.dl.itc.u-tokyo.ac.jp/images/uv.png")
+
+        /*
+        td.append(" ");
+
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest="+obj.ref.value);
+        a.attr("target", "_blank");
+
+        var img = $("<img>");
+        a.append(img)
+        img.attr("src", "http://codh.rois.ac.jp/favicon-32.ico")
+
+        */
+
+        td.append(" ");
+
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", obj.ref.value);
+        a.attr("target", "_blank");
+
+        var img = $("<img>");
+        a.append(img)
+        img.attr("src", "https://iiif.dl.itc.u-tokyo.ac.jp/images/iiif.png")
+
+        //デジタルアーカイブ
+        td = $("<td>");
+        tr.append(td);
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", obj.part.value);
+        a.append(obj.pub.value)
+        a.attr("target", "_blank");
+
+        //権利
+        td = $("<td>");
+        tr.append(td);
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", obj.right.value);
+        a.append(obj.right.value)
+        a.attr("target", "_blank");
+
+      }
+
+      // DataTable
+      var table = $('#table').DataTable({
+        "iDisplayLength" : 25,
+        "order" : [ [ 4, "asc" ] ],
+
+        "autoWidth" : false,
+        "columnDefs" : [ {
+          "width" : "5%",
+          "targets" : 0
+        }, {
+          "width" : "15%",
+          "targets" : 1
+        }, {
+          "width" : "20%",
+          "targets" : 2
+        }, {
+          "width" : "20%",
+          "targets" : 3
+        }, {
+          "width" : "20%",
+          "targets" : 4
+        }, {
+          "width" : "20%",
+          "targets" : 5
+        }]
+
+      });
+
+      table.on('order.dt search.dt', function() {
+        table.column(0, {
+          search : 'applied',
+          order : 'applied'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1;
+        });
+      }).draw();
+    })
+    // Ajaxリクエストが失敗した時発動
+    .fail( (data) => {
+      alert(data.statusText);
+    })
+    // Ajaxリクエストが成功・失敗どちらでも発動
+    .always( (data) => {
+      $("#loading").empty()
+    });
+  }
+</script>
+</body>
+</html>
