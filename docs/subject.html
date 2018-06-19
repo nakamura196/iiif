@@ -42,9 +42,9 @@
     <div class="container">
 
       <!--Section: Cards-->
-      <section>
+      <section class="text-center">
 
-        <div class="text-center" id="loading">
+        <div id="loading">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif"/>
         </div>
 
@@ -52,6 +52,12 @@
         <div class="row mb-4 wow fadeIn" id="row">
         </div>
         <!--Grid row-->
+
+        <nav aria-label="Page navigation example">
+          <ul class="pagination justify-content-center" id="pagination">
+
+          </ul>
+        </nav>
 
       </section>
       <!--Section: Cards-->
@@ -61,6 +67,28 @@
   <!--Main layout-->
 
 
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalCenterTitle"></h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body" id="comment">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <a class="btn btn-primary" id="btn">View</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
   <script
   src="//code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
@@ -68,7 +96,7 @@
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
   <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
-
+  <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
   <script>
 
   var arg  = new Object;
@@ -78,11 +106,6 @@
     var k = url[i].split('=');
     arg[k[0]] = decodeURIComponent(k[1]);
   }
-
-  var title = arg["title"] != null ? arg["title"] : "";
-  $("#title").val(title);
-  var collection = arg["collection"] != null ? arg["collection"] : "";
-  $("#collection").val(collection);
 
   jQuery(document).ready(function() {
 
@@ -95,10 +118,40 @@
   });
 
   function getCollections(){
+
+    var page = 1
+    if(arg["page"]){
+      page = Number(arg["page"])
+    }
+
+    var start = page - 3 < 0 ? 0 : page -3
+
+    for(var i = start; i < page + 2; i++){
+      var li = $("<li>")
+      $("#pagination").append(li)
+
+
+      if(i+1 == page){
+        li.attr("class", "page-item active")
+      } else {
+        li.attr("class", "page-item")
+      }
+
+      var a = $("<a>");
+      li.append(a)
+      a.attr("class", "page-link")
+      a.attr("href", "?page="+(i+1));
+      a.append(i+1)
+    }
+
+    var unit = 1000
+
     var query = " select distinct * ";
     query += " where { ";
     query += " ?s <http://dbpedia.org/ontology/thumbnail> ?thumb . ";
     query += " } ";
+    query += " limit "+unit;
+    query += " offset "+(page - 1)*unit;
 
     $.ajax({
       url:'https://dydra.com/ut-digital-archives/iiif/sparql',
@@ -128,9 +181,9 @@
         var overlay = $('<div class="view overlay">')
         card.append(overlay)
 
-        var img = $('<img class="card-img-top" alt="">')
+        var img = $('<img class="card-img-top lazyload" alt="">')
         card.append(img)
-        img.attr("src", obj.thumb.value)
+        img.attr("data-src", obj.thumb.value)
 
         var mask = $('<div class="mask rgba-white-slight">')
         card.append(mask)
@@ -138,14 +191,17 @@
         var body = $('<div class="card-body">')
         card.append(body)
 
-        var a = $('<a>')
-        body.append(a)
-        str = s.split("/")
-        a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif2/test?q=dcterms_subject_ss:\""+str[str.length-1]+"\"")
-        a.attr("target", "_blank")
+        var h4 = $("<span class='card-title'>");
+        body.append(h4)
         var str = obj.s.value.split("/");
-        a.append(str[str.length -1])
+        h4.append(str[str.length -1])
+
+        var btn = $('<button type="button" class="btn btn-primary btn-md" data-toggle="modal" data-target="#exampleModalCenter" onclick="search(\''+obj.s.value+'\')">');
+        body.append(btn)
+        btn.append("View")
       }
+
+      lazyload();
 
     })
     // Ajaxリクエストが失敗した時発動
@@ -158,30 +214,26 @@
     });
   }
 
+  function search(uri){
 
-  function search() {
+    $("#comment").text("");
+
+    var str = uri.split("/")
+    $("#exampleModalCenterTitle").text(str[str.length-1])
+
+    var a = $("#btn")
+    a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif2/test?q=dcterms_subject_ss:\""+str[str.length-1]+"\"")
+    a.attr("target", "_blank")
+    //a.append(str[str.length -1])
 
     var query = " select distinct * ";
     query += " where { ";
-
-    query += " ?s dcterms:title ?title . ";
-    query += " ?s dcterms:identifier ?id . ";
-    query += " optional { ?s foaf:thumbnail ?thumb . } ";
-    query += " ?s dcterms:references ?ref . ";
-    query += " ?s dcterms:relation ?relation . ";
-    query += " ?s dcterms:publisher ?pub . ";
-    query += " ?s dcterms:isPartOf ?part . ";
-    query += " ?s dcterms:rights ?right . ";
-    if(title != ""){
-      query += " filter regex ( ?pub , '"+title+"' , 'i' ) . ";
-    }
-    if(collection != ""){
-      query += " filter ( ?pub = \""+collection+"\" ) .  ";
-    }
+    query += " <"+uri+"> rdfs:comment ?comment . ";
     query += " } ";
 
+
     $.ajax({
-      url:'https://dydra.com/ut-archives-repo/lod/sparql',
+      url : "http://dbpedia.org/sparql",
       type:'POST',
       data:{
         query : query,
@@ -191,146 +243,12 @@
     // Ajaxリクエストが成功した時発動
     .done( (data) => {
       var result = data.results.bindings;
-
-      var tbody = $("#resourceListBody");
-
-      for (var i = 0; i < result.length; i++) {
-        var obj = result[i];
-
-        var title = obj.title.value;
-
-        var tr = $("<tr>");
-        tbody.append(tr);
-
-        var td = $("<td>");
-        tr.append(td);
-
-        //サムネイル
-        td = $("<td>");
-        tr.append(td);
-        if (obj.thumb) {
-          var img = $("<img>");
-          td.append(img);
-          img.attr("src", obj.thumb.value)
-          img.attr("width", "100px")
-        }
-
-        //タイトル + ポータル
-        td = $("<td>");
-        tr.append(td);
-
-        var a = $("<a>");
-        td.append(a);
-        a.append(title);
-        a.attr("href", obj.relation.value);
-        a.attr("target", "_blank");
-
-
-        //Manifest
-        td = $("<td>");
-        tr.append(td);
-
-        var a = $("<a>");
-        td.append(a)
-        a.attr("href", "http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest="+obj.ref.value);
-        a.attr("target", "_blank");
-
-        var img = $("<img>");
-        a.append(img)
-        img.attr("src", "https://iiif.dl.itc.u-tokyo.ac.jp/images/mirador.png")
-
-        td.append(" ");
-
-        var a = $("<a>");
-        td.append(a)
-        a.attr("href", "http://da.dl.itc.u-tokyo.ac.jp/uv/?manifest="+obj.ref.value);
-        a.attr("target", "_blank");
-
-        var img = $("<img>");
-        a.append(img)
-        img.attr("src", "https://iiif.dl.itc.u-tokyo.ac.jp/images/uv.png")
-
-        /*
-        td.append(" ");
-
-        var a = $("<a>");
-        td.append(a)
-        a.attr("href", "http://codh.rois.ac.jp/software/iiif-curation-viewer/demo/?manifest="+obj.ref.value);
-        a.attr("target", "_blank");
-
-        var img = $("<img>");
-        a.append(img)
-        img.attr("src", "http://codh.rois.ac.jp/favicon-32.ico")
-
-        */
-
-        td.append(" ");
-
-        var a = $("<a>");
-        td.append(a)
-        a.attr("href", obj.ref.value);
-        a.attr("target", "_blank");
-
-        var img = $("<img>");
-        a.append(img)
-        img.attr("src", "https://iiif.dl.itc.u-tokyo.ac.jp/images/iiif.png")
-
-        //デジタルアーカイブ
-        td = $("<td>");
-        tr.append(td);
-        var a = $("<a>");
-        td.append(a)
-        a.attr("href", obj.part.value);
-        a.append(obj.pub.value)
-        a.attr("target", "_blank");
-
-        //権利
-        td = $("<td>");
-        tr.append(td);
-        var a = $("<a>");
-        td.append(a)
-        a.attr("href", obj.right.value);
-        a.append(obj.right.value)
-        a.attr("target", "_blank");
-
+      if(result.length > 0){
+        var obj = result[0]
+        var comment = obj.comment.value;
+        $("#comment").text(comment);
       }
 
-      // DataTable
-      var table = $('#table').DataTable({
-        "iDisplayLength" : 25,
-        "order" : [ [ 4, "asc" ] ],
-
-        "autoWidth" : false,
-        "columnDefs" : [ {
-          "width" : "5%",
-          "targets" : 0
-        }, {
-          "width" : "15%",
-          "targets" : 1
-        }, {
-          "width" : "20%",
-          "targets" : 2
-        }, {
-          "width" : "20%",
-          "targets" : 3
-        }, {
-          "width" : "20%",
-          "targets" : 4
-        }, {
-          "width" : "20%",
-          "targets" : 5
-        }]
-
-      });
-
-      table.on('order.dt search.dt', function() {
-        table.column(0, {
-          search : 'applied',
-          order : 'applied'
-        }).nodes().each(function(cell, i) {
-          cell.innerHTML = i + 1;
-        });
-      }).draw();
     })
     // Ajaxリクエストが失敗した時発動
     .fail( (data) => {
@@ -340,6 +258,8 @@
     .always( (data) => {
       $("#loading").empty()
     });
+
+
   }
 </script>
 </body>
