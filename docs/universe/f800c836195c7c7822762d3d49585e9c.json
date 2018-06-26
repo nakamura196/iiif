@@ -2,6 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://nakamura196.github.io/iiif/universe/f800c836195c7c7822762d3d49585e9c.json",
     "@type": "sc:Collection",
+    "label": "IIIF Collections from General Library in the University of Tokyo",
     "manifests": [
         {
             "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/71951/manifest",
