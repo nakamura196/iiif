@@ -1,0 +1,24 @@
+{
+  "name": "@dbmdz/mirador-canvaslink",
+  "version": "1.2.2",
+  "description": "Adds an extra button to every window that displays a link to the currently shown canvas.",
+  "keywords": [
+    "iiif",
+    "mirador"
+  ],
+  "license": "MIT",
+  "author": "Matthias Lindinger",
+  "main": "canvasLink.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbmdz/mirador-plugins.git"
+  },
+  "scripts": {
+    "lint": "gulp lint",
+    "minify": "gulp minify",
+    "prepublishOnly": "npm run minify"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,191 @@
+/*
+ * styles for the toggle button
+ */
+.image-view .cropping-controls > a.active {
+  color: yellow;
+  opacity: 1;
+}
+
+/*
+ * styles for the cropping overlay
+ */
+.image-view .cropping-overlay {
+  box-sizing: content-box !important;
+  height: 200px;
+  left: calc(50% - 150px);
+  padding: 3px;
+  position: absolute;
+  top: calc(50% - 100px);
+  width: 300px;
+  z-index: 3;
+}
+
+.image-view .cropping-overlay > .share-button {
+  color: white;
+  cursor: pointer;
+  font-size: 22px;
+  left: 5px;
+  position: absolute;
+  text-shadow: 3px 3px 12px black;
+  top: 5px;
+}
+
+.image-view .cropping-overlay > .resize-frame {
+  border: 2px dashed lightgray;
+  border-radius: 3px;
+  box-shadow: 3px 3px 12px black, inset 3px 3px 12px black;
+  cursor: move;
+  height: 100%;
+}
+
+.image-view .cropping-overlay > .resize-anchor {
+  background: lightgray;
+  box-shadow: 5px 5px 10px black;
+  height: 8px;
+  position: absolute;
+  width: 8px;
+}
+
+.image-view .cropping-overlay > .resize-anchor.top-left {
+  box-shadow: none;
+  cursor: nw-resize;
+  left: 0;
+  top: 0;
+}
+
+.image-view .cropping-overlay > .resize-anchor.top-right {
+  cursor: ne-resize;
+  right: 0;
+  top: 0;
+}
+
+.image-view .cropping-overlay > .resize-anchor.bottom-left {
+  cursor: sw-resize;
+  bottom: 0;
+  left: 0;
+}
+
+.image-view .cropping-overlay > .resize-anchor.bottom-right {
+  cursor: se-resize;
+  bottom: 0;
+  right: 0;
+}
+
+.image-view .cropping-overlay > .resize-bar {
+  background-color: transparent;
+  position: absolute;
+}
+
+.image-view .cropping-overlay > .resize-bar.top,
+.image-view .cropping-overlay > .resize-bar.bottom {
+  cursor: ns-resize;
+  height: 8px;
+  left: 8px;
+  width: calc(100% - 16px);
+}
+
+.image-view .cropping-overlay > .resize-bar.top {
+  top: 0;
+}
+
+.image-view .cropping-overlay > .resize-bar.bottom {
+  bottom: 0;
+}
+
+.image-view .cropping-overlay > .resize-bar.left,
+.image-view .cropping-overlay > .resize-bar.right {
+  cursor: ew-resize;
+  height: calc(100% - 16px);
+  top: 8px;
+  width: 8px;
+}
+
+.image-view .cropping-overlay > .resize-bar.left {
+  left: 0;
+}
+
+.image-view .cropping-overlay > .resize-bar.right {
+  right: 0;
+}
+
+/*
+ * styles for the modal
+ */
+@media screen and (min-width: 800px) {
+  #image-cropper-modal .modal-dialog {
+    width: 700px;
+  }
+}
+
+@media screen and (max-width: 799px) {
+  #image-cropper-modal .modal-dialog {
+    margin: 10px auto;
+    width: 90%;
+  }
+}
+
+#image-cropper-modal #image-url {
+  box-sizing: border-box;
+  height: 33px;
+  padding: 0 6px;
+  width: calc(100% - 45px);
+}
+
+#image-cropper-modal #copy-to-clipboard {
+  height: 34px;
+  width: 40px;
+}
+
+#image-cropper-modal h4.block-title {
+  margin-bottom: 10px;
+}
+
+#image-cropper-modal h4.block-title ~ label {
+  margin-left: 10px;
+}
+
+#image-cropper-modal h4.block-title ~ label > input {
+  margin-right: 2px;
+}
+
+#image-cropper-modal div.option-type {
+  margin-bottom: 5px;
+  text-decoration: underline;
+}
+
+#image-cropper-modal #size-selector {
+  display: inline-block;
+  width: 35%;
+}
+
+#image-cropper-modal #size-label {
+  margin-left: 10px;
+  position: relative;
+  top: -5px;
+}
+
+#image-cropper-modal #size-label > #relative {
+  margin: 0 3px;
+}
+
+#image-cropper-modal #size-label > #absolute {
+  margin: 0 2px;
+}
+
+#image-cropper-modal #preview-image {
+  display:block;
+  height: auto;
+  max-height: 500px;
+  max-width: 100%;
+}
+
+#image-cropper-modal #license-message {
+  margin: 15px 0 0;
+  text-align: left;
+}
+
+#image-cropper-modal #license-link,
+#image-cropper-modal #preview-image-link {
+  color: #337ab7;
+  margin-left: 3px;
+}

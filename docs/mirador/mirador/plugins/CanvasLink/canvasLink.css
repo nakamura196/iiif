@@ -1,0 +1,39 @@
+/*
+ * styles for the share button
+ */
+.window-manifest-navigation > .mirador-btn.mirador-icon-canvas-cite-share {
+  color: #929191;
+  margin-right: 5px;
+}
+
+.window-manifest-navigation > .mirador-btn.mirador-icon-canvas-cite-share:hover {
+  color: black;
+}
+
+/*
+ * styles for the modal
+ */
+@media screen and (min-width: 800px) {
+  #canvas-link-modal .modal-dialog {
+    width: 700px;
+  }
+}
+
+@media screen and (max-width: 799px) {
+  #canvas-link-modal .modal-dialog {
+    margin: 10px auto;
+    width: 90%;
+  }
+}
+
+#canvas-link-modal #canvas-link {
+  box-sizing: border-box;
+  height: 33px;
+  padding: 0 6px;
+  width: calc(100% - 45px);
+}
+
+#canvas-link-modal #copy-to-clipboard {
+  height: 34px;
+  width: 40px;
+}

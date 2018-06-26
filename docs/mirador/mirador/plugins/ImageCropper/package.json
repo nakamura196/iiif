@@ -1,0 +1,24 @@
+{
+  "name": "@dbmdz/mirador-imagecropper",
+  "version": "2.4.5",
+  "description": "Adds an overlay to the canvas for retrieving the image url for the selected area.",
+  "keywords": [
+    "iiif",
+    "mirador"
+  ],
+  "license": "MIT",
+  "author": "Matthias Lindinger",
+  "main": "ImageCropper.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbmdz/mirador-plugins.git"
+  },
+  "scripts": {
+    "lint": "gulp lint",
+    "minify": "gulp minify",
+    "prepublishOnly": "npm run minify"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

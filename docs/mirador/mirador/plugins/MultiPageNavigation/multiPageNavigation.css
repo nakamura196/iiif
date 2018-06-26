@@ -1,0 +1,39 @@
+div.extendedNav {
+  font-size: 20px;
+  opacity: 0.5;
+  padding: 20px 10px 10px;
+  position: absolute;
+  top: 0;
+  transition: opacity 0.5s;
+  z-index: 1;
+}
+div.extendedNav:hover{
+  opacity: 1;
+}
+div.extendedNav.skipPrevious {
+  right: 50%;
+  text-align: right;
+}
+div.extendedNav.skipNext {
+  left: 50%;
+  text-align: left;
+}
+div.extendedNav a.hud-control {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px black;
+  color: rgba(0,0,0,0.7);
+  font-size: 14px;
+  margin: 5px;
+  padding: 6px 7px 0;
+  text-shadow: none;
+  text-decoration: none;
+}
+div.extendedNav a .fa{
+  font-size: 20px;
+}
+div.extendedNav a span {
+  margin: 0 3px;
+  position: relative;
+  top: -4px;
+}
