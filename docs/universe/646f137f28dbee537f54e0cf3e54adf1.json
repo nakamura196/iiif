@@ -1,0 +1,289 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/universe/646f137f28dbee537f54e0cf3e54adf1.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-42.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 瓦2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-44.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 戯器",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-11.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 書4",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-13.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 碑銘2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-36.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 食品",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-7.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 肖像",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-39.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 調度2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-22.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 鋒",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-26.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 印章2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-37.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 葬具",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-5.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 扁額2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-24.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 楽器",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-28.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 印章4",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-4.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 篇額1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-33.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 乗輿2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-32.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 乗輿1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-21.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 刀剣2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-46.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 雑",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-14.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 墓誌",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-12.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 碑銘1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-25.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 印章1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-8.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 書1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-34.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 玉",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-30.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 鏡",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-29.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 印章5",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-16.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 雑銘1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-2.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 尺量",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-9.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 書2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-10.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 書3",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-43.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 鈴鐸",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-1.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 天地",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-45.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 仏具",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-27.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 印章3",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-38.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 調度1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-23.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 馬具",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-17.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 雑銘2",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-6.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 文房",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-35.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 食器",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-40.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 嚢匣",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-19.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 弓矢",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-41.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 瓦1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-15.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 鐘銘",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-20.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 刀剣1",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-18.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 甲冑軍営",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-31.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 織紋",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-3.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］ 升量",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        },
+        {
+            "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-47.json",
+            "@type": "sc:Manifest",
+            "label": "［聆涛閣集古帖］（一枚物）",
+            "license": "https://creativecommons.org/licenses/by/4.0/deed"
+        }
+    ]
+}

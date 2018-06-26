@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/universe/e2163ac5785f60bc21952591897111de.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_017",
+            "@type": "sc:Manifest",
+            "label": "空撮写真　岡山市街地（県庁付近）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_021",
+            "@type": "sc:Manifest",
+            "label": "空撮写真　大佐町（現、新見市）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_020",
+            "@type": "sc:Manifest",
+            "label": "空撮写真　岡山市街地（県庁付近）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_031",
+            "@type": "sc:Manifest",
+            "label": "岡山県管下備前国旭川絵図（従京橋至原村）（明治7年10月）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_027",
+            "@type": "sc:Manifest",
+            "label": "岡山市及附近明細図（大正10年）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_026",
+            "@type": "sc:Manifest",
+            "label": "〔美作国絵図〕"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_030",
+            "@type": "sc:Manifest",
+            "label": "〔讃岐国直島領と備前国児島郡胸上村漁場相論之事立会絵図（元禄2年6月）〕"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_033",
+            "@type": "sc:Manifest",
+            "label": "岡山県岡山市水害見取図（明治26年10月）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_029",
+            "@type": "sc:Manifest",
+            "label": "〔讃岐国直島領と備前国児島郡胸上村漁場相論之事立会絵図（元禄2年6月）〕"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_028",
+            "@type": "sc:Manifest",
+            "label": "改正岡山市明細地図附接近郡村地図（明治31年）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_032",
+            "@type": "sc:Manifest",
+            "label": "岡山県管下備前国旭川絵図(従京橋至沖新田三番端)（明治7年10月）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_024",
+            "@type": "sc:Manifest",
+            "label": "岡山県管内図（明治12年）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_035",
+            "@type": "sc:Manifest",
+            "label": "岡山県管内雨量図2（明治26年10月10日～16日累計）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_018",
+            "@type": "sc:Manifest",
+            "label": "空撮写真　岡山市街地（岡山駅付近）"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_034",
+            "@type": "sc:Manifest",
+            "label": "岡山県管内雨量図1(明治26年10月10日～15日累計)"
+        },
+        {
+            "@id": "http://archives.pref.okayama.jp/iiif/manifest/TIFF_022",
+            "@type": "sc:Manifest",
+            "label": "空撮写真　瀬戸大橋"
+        }
+    ]
+}
