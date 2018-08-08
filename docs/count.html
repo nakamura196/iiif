@@ -5,16 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Material Design Bootstrap</title>
+  <title>IIIF Applications</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
-  <!-- Your custom styles (optional) -->
-  <link href="css/style.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -22,96 +20,100 @@
   <!--Main Navigation-->
   <header>
 
-    <!-- Navbar -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
       <div class="container">
-
-        <!-- Brand -->
-        <a class="navbar-brand waves-effect" href="./">
-          <strong class="blue-text">IIIF Portal</strong>
-        </a>
+        <a class="navbar-brand" href="./">IIIF Applications</a>
 
       </div>
     </nav>
-    <!-- Navbar -->
+    <!--/.Navbar-->
 
   </header>
   <!--Main Navigation-->
 
   <!--Main layout-->
-  <main class="mt-5 pt-5">
+  <main class="mb-5">
     <div class="container">
 
-      <h1>Count</h1>
+      <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center mb-5">
+        <h1 class="display-4">Count</h1>
+      </div>
 
-      <hr/>
+      <!--Card-->
+      <div class="card mb-5">
+        <!--Card content-->
+        <div class="card-body">
+          <div id="container" class="mb-5"></div>
 
-      <br/>
+          <table class="table table-hover" id="table">
+            <thead id="thead">
+              <tr>
+                <th></th>
+                <th>Collection</th>
+                <th>No. of data</th>
+              </tr>
+            </thead>
+            <tbody id="resourceListBody">
+            </tbody>
+          </table>
+        </div>
 
-      <div id="container"></div>
+      </div>
+      <!--/.Card-->
 
-      <br/>
+      <!--Card-->
+      <div class="card mb-5">
+        <!--Card content-->
+        <div class="card-body">
+          <div id="container2" class="mb-5"></div>
 
-      <table class="table table-hover" id="table">
-        <thead id="thead">
-          <tr>
-            <th></th>
-            <th>Collection</th>
-            <th>No. of data</th>
-          </tr>
-        </thead>
-        <tbody id="resourceListBody">
-        </tbody>
-      </table>
+          <table class="table table-hover" id="table2">
+            <thead id="thead2">
+              <tr>
+                <th></th>
+                <th>Collection</th>
+                <th>No. of data</th>
+              </tr>
+            </thead>
+            <tbody id="resourceListBody2">
+            </tbody>
+          </table>
+        </div>
 
-      <br/>
+      </div>
+      <!--/.Card-->
 
-      <hr/>
+    </main>
 
-      <br/>
+    <!--Footer-->
+    <footer class="page-footer text-center font-small mdb-color darken-2 mt-4 fadeIn">
 
-      <div id="container2"></div>
+      <!--Copyright-->
+      <div class="footer-copyright py-5">
+        <a href="https://researchmap.jp/nakamura.satoru/?lang=english">Satoru Nakamura</a>. CC BY.
+      </div>
+      <!--/.Copyright-->
 
-      <br/>
+    </footer>
+    <!--/.Footer-->
 
-      <table class="table table-hover" id="table2">
-        <thead id="thead2">
-          <tr>
-            <th></th>
-            <th>Collection</th>
-            <th>No. of data</th>
-          </tr>
-        </thead>
-        <tbody id="resourceListBody2">
-        </tbody>
-      </table>
+    <!-- SCRIPTS -->
+    <script
+    src="//code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    </div>
-  </main>
-  <br/>
-  <br/>
-
-
-  <script
-  src="//code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
-  <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
 
 
-  <script src="//code.highcharts.com/highcharts.js"></script>
+    <script src="//code.highcharts.com/highcharts.js"></script>
 
-  <!-- SCRIPTS -->
-  <!-- Bootstrap tooltips -->
-  <script type="text/javascript" src="js/popper.min.js"></script>
-  <!-- MDB core JavaScript -->
-  <script type="text/javascript" src="js/mdb.min.js"></script>
-  <!-- Initializations -->
-  <script type="text/javascript">
-  // Animations initialization
-  new WOW().init();
+    <!-- Initializations -->
+    <script type="text/javascript">
+    // Animations initialization
+    new WOW().init();
   </script>
 
   <script>
@@ -152,7 +154,7 @@
 
         var a = $("<a>");
         td.append(a);
-        a.attr("href", "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/portal/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
+        a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
         a.attr("targer", "_blank")
         a.append(obj.attribution);
 
@@ -171,7 +173,7 @@
 
         var a = $("<a>");
         td.append(a);
-        a.attr("href", "https://iiif.dl.itc.u-tokyo.ac.jp/tmp4omeka/portal/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
+        a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
         a.attr("targer", "_blank")
         a.append(obj.attribution);
 
@@ -245,7 +247,7 @@
 
       // DataTable
       var table = $('#table').DataTable({
-        "iDisplayLength" : 10,
+        "iDisplayLength" : 50,
         "order" : [ [ 2, "desc" ] ]
       });
 
@@ -260,7 +262,7 @@
 
       // DataTable
       var table2 = $('#table2').DataTable({
-        "iDisplayLength" : 10,
+        "iDisplayLength" : 50,
         "order" : [ [ 2, "desc" ] ]
       });
 

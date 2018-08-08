@@ -5,15 +5,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Material Design Bootstrap</title>
+  <title>IIIF Applications</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
-  <!-- Your custom styles (optional) -->
-  <link href="css/style.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -21,24 +21,20 @@
   <!--Main Navigation-->
   <header>
 
-    <!-- Navbar -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar">
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
       <div class="container">
-
-        <!-- Brand -->
-        <a class="navbar-brand waves-effect" href="./">
-          <strong class="blue-text">IIIF Portal</strong>
-        </a>
+        <a class="navbar-brand" href="./">IIIF Applications</a>
 
       </div>
     </nav>
-    <!-- Navbar -->
+    <!--/.Navbar-->
 
   </header>
   <!--Main Navigation-->
 
   <!--Main layout-->
-  <main class="mt-5 pt-5">
+  <main class="my-5 pt-5">
     <div class="container">
 
       <!--Section: Cards-->
@@ -89,6 +85,19 @@
   </div>
 
 
+  <!--Footer-->
+  <footer class="page-footer text-center font-small mdb-color darken-2 mt-4 fadeIn">
+
+    <!--Copyright-->
+    <div class="footer-copyright py-5">
+      <a href="https://researchmap.jp/nakamura.satoru/?lang=english">Satoru Nakamura</a>. CC BY.
+    </div>
+    <!--/.Copyright-->
+
+  </footer>
+  <!--/.Footer-->
+
+  <!-- SCRIPTS -->
   <script
   src="//code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
@@ -224,7 +233,7 @@
     $("#exampleModalCenterTitle").text(str[str.length-1])
 
     var a = $("#btn")
-    a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif2/test?q=dcterms_subject_ss:\""+str[str.length-1]+"\"")
+    a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/search?q=dcterms_subject_ss:\""+str[str.length-1]+"\"")
     a.attr("target", "_blank")
     //a.append(str[str.length -1])
 
