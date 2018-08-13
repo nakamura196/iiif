@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>IIIF Applications</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css"/>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.4/css/mdb.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!--Main Navigation-->
+  <header>
+
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
+      <div class="container">
+        <a class="navbar-brand" href="../">IIIF Applications</a>
+
+      </div>
+    </nav>
+    <!--/.Navbar-->
+
+  </header>
+  <!--Main Navigation-->
+
+  <div class="container mb-5">
+
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center mb-5">
+      <h1 class="display-4">License</h1>
+    </div>
+
+    <table class="table table-hover" id="table">
+      <thead id="thead">
+        <tr id="tr">
+          <th></th>
+          <th>Collection</th>
+          <th>Count</th>
+          <th>License</th>
+        </tr>
+      </thead>
+      <tbody id="resourceListBody">
+      </tbody>
+    </table>
+
+  </div>
+
+  <!--Footer-->
+  <footer class="page-footer text-center font-small mdb-color darken-2 mt-4 fadeIn">
+
+    <!--Copyright-->
+    <div class="footer-copyright py-5">
+      <a href="https://researchmap.jp/nakamura.satoru/?lang=english">Satoru Nakamura</a>. CC BY.
+    </div>
+    <!--/.Copyright-->
+
+  </footer>
+  <!--/.Footer-->
+
+  <script
+  src="//code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+
+
+  <script src="//code.highcharts.com/highcharts.js"></script>
+
+  <script>
+  jQuery(document).ready(function() {
+
+    jQuery.ajaxSetup({
+      cache : false
+    });
+
+    tmp = Array()
+
+    var tbody = $("#resourceListBody");
+
+    var arg  = new Object;
+    url = location.search.substring(1).split('&');
+
+    for(i=0; url[i]; i++) {
+      var k = url[i].split('=');
+      arg[k[0]] = decodeURIComponent(k[1]);
+    }
+
+    var resourceUri = arg["resourceUri"] != null ? arg["resourceUri"] : "https://nakamura196.github.io/iiif/assets/json/data.json";
+
+    $.getJSON(resourceUri , function(data) {
+
+      for(key in data){
+        var obj = data[key]
+
+        var tr = $("<tr>");
+        tbody.append(tr);
+
+        var td = $("<td>");
+        tr.append(td);
+
+        td = $("<td>");
+        tr.append(td);
+        td.attr("width" , "30%")
+        var a = $("<a>");
+        td.append(a)
+        a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution)
+        a.append(obj.attribution)
+
+        td = $("<td>");
+        tr.append(td);
+        td.append(obj.item);
+
+        td = $("<td>");
+        tr.append(td);
+
+        ul = $("<ul>")
+        td.append(ul)
+
+        var arr = sortProperties(obj.licenses);
+
+        for(i = 0; i < arr.length; i++){
+          arr2 = arr[i]
+          li = $("<li>")
+          ul.append(li)
+
+          var a = $("<a>");
+          li.append(a)
+          a.append(arr2[0]+" : "+arr2[1])
+          a.attr("href", "http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/search?q=&limit[sc_attributionLabel_s][0]="+obj.attribution+"&limit[dcterms_license_s][0]="+modLicense(arr2[0]));
+        }
+      }
+
+      // DataTable
+      var table = $('#table').DataTable({
+        "iDisplayLength" : 50,
+        "order" : [ [ 2, "desc" ] ]
+      });
+
+      table.on('order.dt search.dt', function() {
+        table.column(0, {
+          search : 'applied',
+          order : 'applied'
+        }).nodes().each(function(cell, i) {
+          cell.innerHTML = i + 1;
+        });
+      }).draw();
+
+
+    });
+
+
+
+  });
+
+  function modLicense(url){
+    url = url.replace("https://creativecommons.org", "http://creativecommons.org");
+    if(url.indexOf("/deed") != -1){
+      url = url.split("/deed")[0]+"/";
+    }
+    return url;
+  }
+
+  function sortProperties(obj)
+  {
+    // convert object into array
+    var sortable=[];
+    for(var key in obj)
+    if(obj.hasOwnProperty(key))
+    sortable.push([key, obj[key]]); // each item is an array in format [key, value]
+
+    // sort items by value
+    sortable.sort(function(a, b)
+    {
+      return b[1]-a[1]; // compare numbers
+    });
+    return sortable; // array in format [ [ key1, val1 ], [ key2, val2 ], ... ]
+  }
+</script>
+</body>
+</html>

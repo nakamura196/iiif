@@ -23,7 +23,7 @@
     <!--Navbar-->
     <nav class="navbar navbar-expand-lg navbar-light white scrolling-navbar">
       <div class="container">
-        <a class="navbar-brand" href="./">IIIF Applications</a>
+        <a class="navbar-brand" href="../">IIIF Applications</a>
 
       </div>
     </nav>
@@ -85,7 +85,17 @@
 
       var tbody = $("#resourceListBody");
 
-      $.getJSON("data.json" , function(data) {
+      var arg  = new Object;
+      url = location.search.substring(1).split('&');
+
+      for(i=0; url[i]; i++) {
+        var k = url[i].split('=');
+        arg[k[0]] = decodeURIComponent(k[1]);
+      }
+
+      var resourceUri = arg["resourceUri"] != null ? arg["resourceUri"] : "https://nakamura196.github.io/iiif/assets/json/data.json";
+
+      $.getJSON(resourceUri , function(data) {
 
         keys = Array()
 

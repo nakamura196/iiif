@@ -14,6 +14,21 @@
         "viewingHint": false,
         "within": true
     },
+    "hiraga": {
+        "attribution": "Kashiwa Library in the University of Tokyo.",
+        "description": true,
+        "item": 5507,
+        "licenses": {
+            "http://gazo.dl.itc.u-tokyo.ac.jp/hiraga2/notice": 5507
+        },
+        "media": 35201,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": true,
+        "viewingDirection": false,
+        "viewingHint": false,
+        "within": false
+    },
     "keio": {
         "attribution": "慶應義塾大学メディアセンター\nKeio University Libraries",
         "description": false,
@@ -101,6 +116,21 @@
         "viewingHint": false,
         "within": true
     },
+    "kyushu": {
+        "attribution": "Kyushu University Library Collections",
+        "description": true,
+        "item": 3439,
+        "licenses": {
+            "https://www.lib.kyushu-u.ac.jp/ja/services/visitors/copyright-guidance": 3428
+        },
+        "media": 158795,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": true,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
     "nakano": {
         "attribution": "中野区立図書館",
         "description": true,
@@ -169,6 +199,21 @@
         "viewingHint": true,
         "within": true
     },
+    "okayama": {
+        "attribution": "岡山県立記録資料館",
+        "description": true,
+        "item": 19,
+        "licenses": {
+            "": 16
+        },
+        "media": 56,
+        "related": false,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": false,
+        "viewingHint": true,
+        "within": false
+    },
     "saga": {
         "attribution": "This property is owned by Saga University Library and is used for regionological research by The Center for Regional Culture and History, Saga University, Japan. ",
         "description": false,
@@ -212,6 +257,36 @@
         "thumbnail": false,
         "viewingDirection": true,
         "viewingHint": true,
+        "within": true
+    },
+    "ueda": {
+        "attribution": "上田市",
+        "description": true,
+        "item": 980,
+        "licenses": {
+            "http://museum.umic.jp/iiif/license.html": 978
+        },
+        "media": 10252,
+        "related": true,
+        "seeAlso": false,
+        "thumbnail": false,
+        "viewingDirection": true,
+        "viewingHint": true,
+        "within": false
+    },
+    "utda": {
+        "attribution": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN",
+        "description": true,
+        "item": 22,
+        "licenses": {
+            "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse": 22
+        },
+        "media": 895,
+        "related": true,
+        "seeAlso": true,
+        "thumbnail": true,
+        "viewingDirection": true,
+        "viewingHint": false,
         "within": true
     },
     "zuzoubu": {
