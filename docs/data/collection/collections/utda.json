@@ -1,0 +1,1765 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utda.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91576/manifest",
+            "@type": "sc:Manifest",
+            "label": "幼學千字文 / 賀茂熊斎",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91549/manifest",
+            "@type": "sc:Manifest",
+            "label": "百姓教訓書",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91670/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸職往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91590/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本朝鮮軍記 / 臥山人江文玻撰 ; 下河邊拾水畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167842/manifest",
+            "@type": "sc:Manifest",
+            "label": "金麟厚草書千字文 [ASIA0004]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186454/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 二十三 二十四 [G30495-12]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91686/manifest",
+            "@type": "sc:Manifest",
+            "label": "なゝくさ草紙",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91649/manifest",
+            "@type": "sc:Manifest",
+            "label": "百姓往來 / 鴎洲巻筆",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91534/manifest",
+            "@type": "sc:Manifest",
+            "label": "實語教證註 ; 童子教證註 / 振鷺亭貞居著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91578/manifest",
+            "@type": "sc:Manifest",
+            "label": "寺子讀書千字文",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91532/manifest",
+            "@type": "sc:Manifest",
+            "label": "女訓孝經 / 八隅山人述",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186421/manifest",
+            "@type": "sc:Manifest",
+            "label": "古今歴代十八史略 一 [A004313-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91667/manifest",
+            "@type": "sc:Manifest",
+            "label": "新幼學往來 / 文華堂著 ; 西川龍章堂書",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91626/manifest",
+            "@type": "sc:Manifest",
+            "label": "三字經 / 鷦鷯斎春水撰著 ; 葛飾為斎画工",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91676/manifest",
+            "@type": "sc:Manifest",
+            "label": "年中時候往來 / 泉花堂三蝶述 ; 滕耕徳書",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167836/manifest",
+            "@type": "sc:Manifest",
+            "label": "北路紀略 元 [ASIA0001-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186448/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 八至十 [G30495-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91680/manifest",
+            "@type": "sc:Manifest",
+            "label": "養蚕往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186459/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 三十六至三十九 [G30495-17]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91659/manifest",
+            "@type": "sc:Manifest",
+            "label": "猨山松華往來 ; (春夏)(秋冬)",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167820/manifest",
+            "@type": "sc:Manifest",
+            "label": "泉州本淳化閣帖 二 [A006099-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91663/manifest",
+            "@type": "sc:Manifest",
+            "label": "謹身往來 / 松陰[書]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186462/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 四十七至四十九 [G30495-20]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91699/manifest",
+            "@type": "sc:Manifest",
+            "label": "浦島太郎",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167797/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 十 [A005936-10]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186429/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 六 七 [A005902-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91595/manifest",
+            "@type": "sc:Manifest",
+            "label": "孔子事跡圖解 ; (上)(中)(下) / 瑞陽口述 ; 天民, 鸞洲畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91547/manifest",
+            "@type": "sc:Manifest",
+            "label": "山寺状 / 松本一笑軒",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91553/manifest",
+            "@type": "sc:Manifest",
+            "label": "實語教童子訓",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91625/manifest",
+            "@type": "sc:Manifest",
+            "label": "世話千字文講釋 / 山崎久作著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91597/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本福禄寿 ; (福之巻)",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91695/manifest",
+            "@type": "sc:Manifest",
+            "label": "浜出草紙",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91539/manifest",
+            "@type": "sc:Manifest",
+            "label": "[小児をしへ草] / 後藤正速著述",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91610/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本大學幼稚講釋",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91580/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本工夫之錦 ; (上)(下)(後篇) / 船山喜一輔",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167828/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 六[A006100-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91690/manifest",
+            "@type": "sc:Manifest",
+            "label": "蛤の草紙",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91679/manifest",
+            "@type": "sc:Manifest",
+            "label": "自遣往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167821/manifest",
+            "@type": "sc:Manifest",
+            "label": "泉州本淳化閣帖 八 [A006099-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91668/manifest",
+            "@type": "sc:Manifest",
+            "label": "江戸往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167784/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 申 [A005935-09]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167794/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 七 [A005936-07]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186460/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 四十至四十三 [G30495-18]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167818/manifest",
+            "@type": "sc:Manifest",
+            "label": "泉州本淳化閣帖 五 [A006099-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91555/manifest",
+            "@type": "sc:Manifest",
+            "label": "實語教童子教繪抄",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91614/manifest",
+            "@type": "sc:Manifest",
+            "label": "心學道歌圖繪",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167840/manifest",
+            "@type": "sc:Manifest",
+            "label": "古今歴代法帖 [ASIA0002]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186447/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 六 七 [G30495-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91642/manifest",
+            "@type": "sc:Manifest",
+            "label": "道具字引圖解 ; (初編) / 又玄斎誌",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91677/manifest",
+            "@type": "sc:Manifest",
+            "label": "諸職往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91621/manifest",
+            "@type": "sc:Manifest",
+            "label": "皇朝三字經 / 百梅斎撰 ; 鷦鷯斎春水[訂][撰]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91700/manifest",
+            "@type": "sc:Manifest",
+            "label": "よこ笛草紙",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167801/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 一[A006096-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167777/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 丑 [A005935-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91654/manifest",
+            "@type": "sc:Manifest",
+            "label": "忠臣往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167811/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十一[A006096-11]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91557/manifest",
+            "@type": "sc:Manifest",
+            "label": "増補字盡童子教",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91627/manifest",
+            "@type": "sc:Manifest",
+            "label": "日用重寶万文字盡",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91598/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本高麗獄 ; (上)(中)(下) / 南仙笑楚満人撰 ; 北尾重政畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91644/manifest",
+            "@type": "sc:Manifest",
+            "label": "庭訓往來 ; 御成敗式目",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167779/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 卯 [A005935-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167814/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十四[A006096-14]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91636/manifest",
+            "@type": "sc:Manifest",
+            "label": "稚德塵刧記 / 魁春亭貞芳画図",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167791/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 四 [A005936-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91546/manifest",
+            "@type": "sc:Manifest",
+            "label": "文寶古状揃稚文庫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91675/manifest",
+            "@type": "sc:Manifest",
+            "label": "消息往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167823/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 一[A006100-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186443/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 首 [G30495-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167835/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 十二 [A006107]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186451/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 十六至十八 [G30495-09]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167788/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 一 [A005936-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91573/manifest",
+            "@type": "sc:Manifest",
+            "label": "禮經 / 織田太仲平信貞",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91616/manifest",
+            "@type": "sc:Manifest",
+            "label": "百姓今川准状",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186452/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 十九 二十 [G30495-10]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186471/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 七十一至七十三 [G30495-29]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91652/manifest",
+            "@type": "sc:Manifest",
+            "label": "年中往來 ; (上)(下) / 中村甚丞栄成著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91588/manifest",
+            "@type": "sc:Manifest",
+            "label": "寶抓取 ; (上)(中) / 菱垣市匠橘義陳",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167827/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 五[A006100-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91653/manifest",
+            "@type": "sc:Manifest",
+            "label": "尺素往來 / 後成恩寺関白兼良公",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91692/manifest",
+            "@type": "sc:Manifest",
+            "label": "ほんてん国",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91648/manifest",
+            "@type": "sc:Manifest",
+            "label": "新童子往來万世寶鑑",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186430/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 八 [A005902-07]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91593/manifest",
+            "@type": "sc:Manifest",
+            "label": "倭繪英雄鏡 ; (上)(下) / 長谷川光信畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167834/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 十二[A006100-12]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91582/manifest",
+            "@type": "sc:Manifest",
+            "label": "渡世肝要記 / 有喜堂主人述",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186446/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 四 五 [G30495-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91583/manifest",
+            "@type": "sc:Manifest",
+            "label": "貞丈家訓 / 伊勢安齋著 ; 屋代輪池校",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186461/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 四十四至四十六 [G30495-19]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186450/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 十三至十五 [G30495-08]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186445/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 二 三 [G30495-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91640/manifest",
+            "@type": "sc:Manifest",
+            "label": "英傑三国誌傳 / 秋菶莽著 ; 梅窓園畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91535/manifest",
+            "@type": "sc:Manifest",
+            "label": "實語教童子教具註抄 / 狭川半水誌",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186465/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 五十五 五十六 [G30495-23]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91683/manifest",
+            "@type": "sc:Manifest",
+            "label": "小町草紙",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91645/manifest",
+            "@type": "sc:Manifest",
+            "label": "庭訓往來 / 黒田子謹編",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167804/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 四[A006096-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91635/manifest",
+            "@type": "sc:Manifest",
+            "label": "畸人百人一首 / 緑亭川柳作",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91620/manifest",
+            "@type": "sc:Manifest",
+            "label": "五体名頭字",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91662/manifest",
+            "@type": "sc:Manifest",
+            "label": "謹身往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91584/manifest",
+            "@type": "sc:Manifest",
+            "label": "鄙都言種 ; (上)(下) / 森嶌中良",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91567/manifest",
+            "@type": "sc:Manifest",
+            "label": "寺子制誨式目 / 笹山梅庵著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91554/manifest",
+            "@type": "sc:Manifest",
+            "label": "實語教童子教",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91571/manifest",
+            "@type": "sc:Manifest",
+            "label": "松井惟利通解小學入門",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91587/manifest",
+            "@type": "sc:Manifest",
+            "label": "猿能山入唐獅子童子 全",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167792/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 五 [A005936-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91672/manifest",
+            "@type": "sc:Manifest",
+            "label": "大全消息往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91537/manifest",
+            "@type": "sc:Manifest",
+            "label": "二十四孝諺解",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91618/manifest",
+            "@type": "sc:Manifest",
+            "label": "雑司谷詣 / 高井蘭山述",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186442/manifest",
+            "@type": "sc:Manifest",
+            "label": "論語諺解 四 [B60567-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91694/manifest",
+            "@type": "sc:Manifest",
+            "label": "ねこのさうし",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186463/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 五十 五十一 [G30495-21]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91630/manifest",
+            "@type": "sc:Manifest",
+            "label": "和漢百人一首 / 賞月堂主人著 ; 玉蘭斎貞秀畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91646/manifest",
+            "@type": "sc:Manifest",
+            "label": "女庭訓往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91674/manifest",
+            "@type": "sc:Manifest",
+            "label": "消息往來 ; 続消息往來 ; 消息往來講釋",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91561/manifest",
+            "@type": "sc:Manifest",
+            "label": "和俗童子訓 ; (一)(二) / 貝原篤信編録",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91678/manifest",
+            "@type": "sc:Manifest",
+            "label": "商賣往來繪字引",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91682/manifest",
+            "@type": "sc:Manifest",
+            "label": "鉢かつき",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91681/manifest",
+            "@type": "sc:Manifest",
+            "label": "文正さうし",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91624/manifest",
+            "@type": "sc:Manifest",
+            "label": "千字文",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91638/manifest",
+            "@type": "sc:Manifest",
+            "label": "猿蟹物語 / 六々園",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91533/manifest",
+            "@type": "sc:Manifest",
+            "label": "實語教 ; 童子教",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91609/manifest",
+            "@type": "sc:Manifest",
+            "label": "妙義詣 / 高井哂我撰",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91665/manifest",
+            "@type": "sc:Manifest",
+            "label": "孝行往來 / 小川保磨[述] ; 龍章[畫]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91643/manifest",
+            "@type": "sc:Manifest",
+            "label": "庭訓往來 / 玄慧",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91594/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本威武貴山 (上)(中)(下) / 勝川春章畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186467/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 五十九至六十三 [G30495-25]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186457/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 三十至三十二 [G30495-15]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91634/manifest",
+            "@type": "sc:Manifest",
+            "label": "和漢英雄百人一首 / 柳亭種秀録 ; 玉蘭斎貞秀畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186436/manifest",
+            "@type": "sc:Manifest",
+            "label": "論語集解 三残 四 七 八 [A006296]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186434/manifest",
+            "@type": "sc:Manifest",
+            "label": "曇無徳部四分律刪補随機羯磨 中残 [A006036-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167802/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 二[A006096-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91641/manifest",
+            "@type": "sc:Manifest",
+            "label": "童子教稚繪解 ; (上) / 笠亭主人註釈 ; 五雲亭貞秀畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167819/manifest",
+            "@type": "sc:Manifest",
+            "label": "泉州本淳化閣帖 六 [A006099-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186469/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 六十七 六十八 [G30495-27]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167824/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 二[A006100-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91617/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本名所鑑",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91657/manifest",
+            "@type": "sc:Manifest",
+            "label": "自遣往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167825/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 三[A006100-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91585/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本源頼光昔物語 ; (上)(下) / 下河邊拾水畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91656/manifest",
+            "@type": "sc:Manifest",
+            "label": "日本往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91698/manifest",
+            "@type": "sc:Manifest",
+            "label": "佐可記",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91570/manifest",
+            "@type": "sc:Manifest",
+            "label": "女童をしへ草 / 小川持正[述] ; 深澤菱譚[逸人]書",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91615/manifest",
+            "@type": "sc:Manifest",
+            "label": "誠忠義臣略傳 / 緑亭川柳輯 ; 歌川豊國[画]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167800/manifest",
+            "@type": "sc:Manifest",
+            "label": "宣和秘閣帖 六 [A005939]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167822/manifest",
+            "@type": "sc:Manifest",
+            "label": "泉州本淳化閣帖 九 [A006099-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91556/manifest",
+            "@type": "sc:Manifest",
+            "label": "畫本童子教 / 法橋玉山畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91568/manifest",
+            "@type": "sc:Manifest",
+            "label": "女寺子調法記 / [池田東籬亭編] ; [小沢南畫]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91639/manifest",
+            "@type": "sc:Manifest",
+            "label": "大晦日曙草紙 ; (初)(二)(四)(七)(九)(十)(十九)(廿)(廿一) / 山東京山作 ; 歌川国貞, 豊国, 国政, 芳綱等畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91613/manifest",
+            "@type": "sc:Manifest",
+            "label": "勇臣英名百雄傳 ; (三編) / 橋本玉蘭斎画",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91536/manifest",
+            "@type": "sc:Manifest",
+            "label": "孝子教 / 秋葉忠和大人述 ; 東條琴臺先生閲",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167826/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 四[A006100-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186464/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 五十二至五十四 [G30495-22]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91596/manifest",
+            "@type": "sc:Manifest",
+            "label": "武者繪本江戸紫裳紺 / 奥村文角画",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186473/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 七十六 七十七 [G30495-31]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186431/manifest",
+            "@type": "sc:Manifest",
+            "label": "阿毘達磨大毘婆沙論 一百一十三 [A006036-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167805/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 五[A006096-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91631/manifest",
+            "@type": "sc:Manifest",
+            "label": "秀雅百人一首 / 緑亭川柳輯",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91655/manifest",
+            "@type": "sc:Manifest",
+            "label": "南朝忠臣往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91566/manifest",
+            "@type": "sc:Manifest",
+            "label": "心學いろはいましめ / 小山駿亭",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91673/manifest",
+            "@type": "sc:Manifest",
+            "label": "大全消息往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186470/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 六十九至七十一 [G30495-28]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91619/manifest",
+            "@type": "sc:Manifest",
+            "label": "竜田詣",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91564/manifest",
+            "@type": "sc:Manifest",
+            "label": "教訓道志る遍",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91647/manifest",
+            "@type": "sc:Manifest",
+            "label": "童子往來百家通 / 暁鐘成纂校並画図 ; 龍章堂文章並巨書",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186444/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 一 [G30495-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167798/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 十一 [A005936-11]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91607/manifest",
+            "@type": "sc:Manifest",
+            "label": "古状揃講釋",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91603/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本和泉川 ; (中) / 西川祐信畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91629/manifest",
+            "@type": "sc:Manifest",
+            "label": "列女百人一首 / 緑亭川柳編 ; 葛飾卍老人, 一陽斎豊国畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91560/manifest",
+            "@type": "sc:Manifest",
+            "label": "和俗童子訓 ; (仁)(義)(礼)(智)(信) / 貝原益軒篤信",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91592/manifest",
+            "@type": "sc:Manifest",
+            "label": "女今川 / [葛飾北斎畫]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186425/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 二 [A005902-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186428/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 五 [A005902-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91658/manifest",
+            "@type": "sc:Manifest",
+            "label": "富士野往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167785/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 酉 [A005935-10]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91565/manifest",
+            "@type": "sc:Manifest",
+            "label": "幼童訓",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167841/manifest",
+            "@type": "sc:Manifest",
+            "label": "朴彭年草書千字文 [ASIA0003]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91586/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本源平武者揃 ; (上)(下) / 堀田里廣[畫]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186438/manifest",
+            "@type": "sc:Manifest",
+            "label": "医方大成論 [A006464]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91606/manifest",
+            "@type": "sc:Manifest",
+            "label": "初學萬しつけ方",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167790/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 三 [A005936-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167783/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 未 [A005935-08]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91604/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本童の的 ; (中) / 鈴木春信畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167799/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 十二 [A005936-12]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167789/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 二 [A005936-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91612/manifest",
+            "@type": "sc:Manifest",
+            "label": "英名百雄傳 ; (初)(貮)(三) / 近沢幸山撰 ; 玉蘭斎貞秀畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91602/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本八重桜 ; (上) / 西川祐尹畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167833/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 十一[A006100-11]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91685/manifest",
+            "@type": "sc:Manifest",
+            "label": "古○○來つね",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91551/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本孝經 ; (上)(下) / 高井蘭山撰 ; 前北斎為一畫圖",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91529/manifest",
+            "@type": "sc:Manifest",
+            "label": "女四書 / 辻原元甫著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186449/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 十一 十二 [G30495-07]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91669/manifest",
+            "@type": "sc:Manifest",
+            "label": "風月往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91693/manifest",
+            "@type": "sc:Manifest",
+            "label": "乃勢さるさうし",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167793/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 六 [A005936-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91548/manifest",
+            "@type": "sc:Manifest",
+            "label": "頼杏坪先生書 / 頼杏坪",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186427/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 四 [A005902-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167839/manifest",
+            "@type": "sc:Manifest",
+            "label": "北路紀略 貞 [ASIA0001-04]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167837/manifest",
+            "@type": "sc:Manifest",
+            "label": "北路紀略 亨 [ASIA0001-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186433/manifest",
+            "@type": "sc:Manifest",
+            "label": "法華文句科 三残 [A006036-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91577/manifest",
+            "@type": "sc:Manifest",
+            "label": "童子文字戯 ; (上)(下) / 古川龍運",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186435/manifest",
+            "@type": "sc:Manifest",
+            "label": "涅槃経疏三徳指帰 十五残 [A006036-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91697/manifest",
+            "@type": "sc:Manifest",
+            "label": "一寸法師",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91559/manifest",
+            "@type": "sc:Manifest",
+            "label": "分類二十四孝圖 ; (乾)(坤)  / 小田海僊畫 ; 長沙王",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91531/manifest",
+            "@type": "sc:Manifest",
+            "label": "曹大家女論語圖會 / 村田嘉言出像",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91628/manifest",
+            "@type": "sc:Manifest",
+            "label": "百人一首女訓抄 / 山田常典校",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167803/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 三[A006096-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91574/manifest",
+            "@type": "sc:Manifest",
+            "label": "三字經",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186468/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 六十四至六十六 [G30495-26]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186456/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 二十七至二十九 [G30495-14]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186474/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 七十八至八十 [G30495-32]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91661/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本庭訓往來 / 玄恵法印",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91538/manifest",
+            "@type": "sc:Manifest",
+            "label": "日新館童子訓 / 松平(保科)容頌",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167831/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 九[A006100-09]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186439/manifest",
+            "@type": "sc:Manifest",
+            "label": "論語諺解 一 [B60567-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186458/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 三十三至三十六 [G30495-16]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167813/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十三[A006096-13]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91552/manifest",
+            "@type": "sc:Manifest",
+            "label": "佛説孝子經和解 ; (上)(下) / 僧純",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91550/manifest",
+            "@type": "sc:Manifest",
+            "label": "吾妻餘波 / 岡本経朝[撰]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91544/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本武者鞋 ; (上)(下)",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91599/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本勇者鑑 ; (下)",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167806/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 六[A009096-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186466/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 五十七 五十八 [G30495-24]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91637/manifest",
+            "@type": "sc:Manifest",
+            "label": "ぢん功記",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91691/manifest",
+            "@type": "sc:Manifest",
+            "label": "こあ○○里",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91632/manifest",
+            "@type": "sc:Manifest",
+            "label": "義烈百人一首 ;  古實軍功記 ;  天禄太平記 / 緑亭川柳[輯] ; 葛飾北斎[等畫]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91671/manifest",
+            "@type": "sc:Manifest",
+            "label": "女用都名所",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91558/manifest",
+            "@type": "sc:Manifest",
+            "label": "廿四孝圖繪 / 南里亭其樂輯 ; 葛飾北斎畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91650/manifest",
+            "@type": "sc:Manifest",
+            "label": "商賣往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91622/manifest",
+            "@type": "sc:Manifest",
+            "label": "千字文 / 孫丕顕編輯 ; 王其校閲",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167796/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 九 [A005936-09]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91530/manifest",
+            "@type": "sc:Manifest",
+            "label": "女四書藝文図會 ; (花)(鳥)(風) / 清原宣明編 ; 村田嘉言畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91660/manifest",
+            "@type": "sc:Manifest",
+            "label": "大和名所往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167810/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十[A006096-10]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91666/manifest",
+            "@type": "sc:Manifest",
+            "label": "文明往來 / 高見二良著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91605/manifest",
+            "@type": "sc:Manifest",
+            "label": "寺子節用錦袋鑑",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167816/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十六[A006096-16]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167778/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 寅 [A005935-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91600/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本勇者鑑 ; (中)  / [西川祐信画]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167781/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 巳 [A005935-06]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167787/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 亥 [A005935-12]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91651/manifest",
+            "@type": "sc:Manifest",
+            "label": "商賣往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186453/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 二十一 二十二 [G30495-11]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91572/manifest",
+            "@type": "sc:Manifest",
+            "label": "教訓春日和 / 金蘭斎",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186441/manifest",
+            "@type": "sc:Manifest",
+            "label": "論語諺解 三 [B60567-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186424/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 一 [A005902-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167812/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十二[A006096-12]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91664/manifest",
+            "@type": "sc:Manifest",
+            "label": "謹身往來",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167817/manifest",
+            "@type": "sc:Manifest",
+            "label": "泉州本淳化閣帖 四 [A006099-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186423/manifest",
+            "@type": "sc:Manifest",
+            "label": "元氏長慶集 四十三至四十六 四十八 [A005824]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91684/manifest",
+            "@type": "sc:Manifest",
+            "label": "御曹司志ま渡",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167795/manifest",
+            "@type": "sc:Manifest",
+            "label": "偽絳帖 八 [A005936-08]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91687/manifest",
+            "@type": "sc:Manifest",
+            "label": "佐る源氏艸紙",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91563/manifest",
+            "@type": "sc:Manifest",
+            "label": "三教童喩 ; (上)(中)(下)(附録) / 思恩堂非得著 ; 芳田月長畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91608/manifest",
+            "@type": "sc:Manifest",
+            "label": "太閤記圖譜 ; (初)(ニ)(三) / 又玄斎南可[著]",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167829/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 七[A006100-07]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91581/manifest",
+            "@type": "sc:Manifest",
+            "label": "民間喩草 / 加藤景範(竹里翁)",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91591/manifest",
+            "@type": "sc:Manifest",
+            "label": "繪本名馬揃",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167830/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 八[A006100-08]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91569/manifest",
+            "@type": "sc:Manifest",
+            "label": "日用重寶 童訓古状揃",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186472/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 七十四 七十五 [G30495-30]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91688/manifest",
+            "@type": "sc:Manifest",
+            "label": "も乃くさ太郎",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91623/manifest",
+            "@type": "sc:Manifest",
+            "label": "新撰五体千字文",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91589/manifest",
+            "@type": "sc:Manifest",
+            "label": "鏡袋 / 松崎祐之",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91540/manifest",
+            "@type": "sc:Manifest",
+            "label": "女今川玉苗文庫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91696/manifest",
+            "@type": "sc:Manifest",
+            "label": "いつみしきふ",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91611/manifest",
+            "@type": "sc:Manifest",
+            "label": "大學啓蒙抄 / 好華堂主人註解 ; 松川半山図画",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167809/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 九[A006096-09]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91689/manifest",
+            "@type": "sc:Manifest",
+            "label": "佐々禮いし",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91579/manifest",
+            "@type": "sc:Manifest",
+            "label": "世話 千字文繪抄 / 木村明啓述 ; 暁鐘成画図",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186440/manifest",
+            "@type": "sc:Manifest",
+            "label": "論語諺解 二 [B60567-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91575/manifest",
+            "@type": "sc:Manifest",
+            "label": "三字經",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167782/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 午 [A005935-07]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186437/manifest",
+            "@type": "sc:Manifest",
+            "label": "纂図附音増広古注千字文 [A006297]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91633/manifest",
+            "@type": "sc:Manifest",
+            "label": "武稽百人一首 / 笠亭仙果編",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91562/manifest",
+            "@type": "sc:Manifest",
+            "label": "幼學指南 / 王雲軒著 ; 高蘭山訳",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91601/manifest",
+            "@type": "sc:Manifest",
+            "label": "頼朝一生記 ; (上)(下) / 紀吉信畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167808/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 八[A006096-08]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91545/manifest",
+            "@type": "sc:Manifest",
+            "label": "本朝千字文 / 貝原益軒著",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186455/manifest",
+            "@type": "sc:Manifest",
+            "label": "八旗氏族通譜 二十五 二十六 [G30495-13]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167786/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 戌 [A005935-11]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167807/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 七[A006096-07]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186422/manifest",
+            "@type": "sc:Manifest",
+            "label": "古今歴代十八史略 二 [A004313-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91543/manifest",
+            "@type": "sc:Manifest",
+            "label": "文武智勇海 ; (上)(中)(下) / 酔茶亭一鼎斎畫",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91542/manifest",
+            "@type": "sc:Manifest",
+            "label": "女訓三の道 / 中村弘毅",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186426/manifest",
+            "@type": "sc:Manifest",
+            "label": "増広竜龕手鑑 三 [A005902-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/186432/manifest",
+            "@type": "sc:Manifest",
+            "label": "中阿含経 二十五残 [A006036-02]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167776/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 子 [A005935-01]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167815/manifest",
+            "@type": "sc:Manifest",
+            "label": "戯鴻堂法書 十五[A006096-15]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167838/manifest",
+            "@type": "sc:Manifest",
+            "label": "北路紀略 利 [ASIA0001-03]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167832/manifest",
+            "@type": "sc:Manifest",
+            "label": "停雲館帖 十[A006100-10]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/91541/manifest",
+            "@type": "sc:Manifest",
+            "label": "和漢廿四貞女傳 / 八島五岳編画",
+            "license": "http://ikuto.p.u-tokyo.ac.jp/reuse.html"
+        },
+        {
+            "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/repo/iiif/167780/manifest",
+            "@type": "sc:Manifest",
+            "label": "星鳳楼帖 辰 [A005935-05]",
+            "license": "https://www.lib.u-tokyo.ac.jp/ja/library/general/reuse"
+        }
+    ]
+}

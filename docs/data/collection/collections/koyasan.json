@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/koyasan.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三教指帰（光明院文庫・鎌倉後期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110702/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三教指帰",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/281322/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "胎蔵秘密略大軌",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/281321/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "胎蔵秘密略大軌",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三教指帰（光明院文庫・鎌倉初期写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+        }
+    ]
+}
