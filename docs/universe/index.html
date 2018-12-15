@@ -9,7 +9,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<!--  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 </head>
 
@@ -17,10 +16,21 @@
   <div id="elm-app"></div>
   <script src="app.js"></script>
   <script>
-    mountJalava(
-      document.getElementById("elm-app"),
-      {rootUrl: "https://nakamura196.github.io/iiif/universe/universe.json"}
-    );
+
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
+
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
+  }
+
+  rootUrl = arg["rootUrl"] ? arg["rootUrl"] : "https://nakamura196.github.io/iiif/data/collection/collection.json"
+
+  mountJalava(
+    document.getElementById("elm-app"),
+    {rootUrl: rootUrl}
+  );
   </script>
 </body>
 
