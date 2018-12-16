@@ -1,0 +1,1237 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nakano.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169789_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区立哲学堂公園内古建築物調査報告書　　　中野の文化財　Ｎｏ．９",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808638887_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成18年度",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801809427_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　下巻　1",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805564888_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区御嶽遺跡第２次発掘調査報告書　2　平成１０年",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805132185_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野城山居館跡発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807333610_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野いにしえの道",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/807509464_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "桃園郷の昔話",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/804398272_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都・中野の生いたち",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811164228_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "異彩の作家　香山滋　　古代・浪漫・奇譚",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807690855_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "江古田遺跡　発掘調査報告書　2",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807021087_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "戦後六十年　　戦争体験話　三中教職員のご両親・他　アウシュビッツ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169475_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区片山遺跡第２次発掘調査報告書　2　平成７年",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808088812_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "たずねてみませんか　中野の名所・旧跡 (1992)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807249928_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "写真家　田沼武能　氏　　企画展示「地域の著作者紹介」第２回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805497097_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかのアメニティガイド",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805119129_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "まつりと講　ふるさと中野の民俗と行事　Ⅱ　（中野の文化財　Ｎｏ．３）",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808051376_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区立歴史民俗資料館　研究紀要　3",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/804343710_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "えごたの見どころ　ガイドブック",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807783785_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "原爆写真絵画展感想集",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808060295_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区民生活史　第3巻",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/811077140_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成27年度",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808109538_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古老の語る沼袋・江古田の歴史　1",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804331_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1975-1979",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808932692_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの　農業情報マップ　　「農」のあるまち、再発見",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807075382_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "路傍の石仏をたずねて",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169340_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "松が丘遺跡　発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806634691_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の街を流れる「五つの川」　　　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/802207934_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野町誌",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806637156_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区民生活史　第2巻",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805119020_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "天正十九年江古田村検地帳",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808086513_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家資料図録 (1992)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808367416_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成23年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/804394030_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区の３０年",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808658360_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "異彩の作家　香山滋　　古代・浪漫・奇譚",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808365411_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　2007-2011",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/802417780_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "新井三丁目遺跡　　本文篇",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811327771_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ゆかり展示回顧録　　中野の偉人・文化人ハイライト",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811084000_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大和町うるわし　　東京都中野区大和町の歴史",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801809365_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "武蔵野方町史（日本史跡編）",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/600717559_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　No.7",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/804400568_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家文書　武蔵国多摩郡江古田村　四",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808079152_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史料館だより　　中野刑務所内遺跡発掘特集",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/802141618_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1983-1987",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805740330_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "堀江家文書（絵図）　二",
+            "license": "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/809693892_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の戦災記録写真集",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806785248_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかのミニガイド　　１９８２－１９９９",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/807174255_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　Ｎｏ．11",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805724319_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "遠藤山遺跡　発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/804346525_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区平和の森公園北遺跡　発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/809488096_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "谷戸に文化村があったころ　探偵作家松本泰・松本恵子と文士たち　　企画展示「中野区ゆかりの著作者紹介」第９回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808618964_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "現代日本の建築家　伊藤豊雄と長谷川逸子　　企画展示「地域の著作者紹介」第４回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807509473_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区立図書館の歩み",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808020280_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成18年度",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/809464998_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "武蔵江古田片山総覧",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811327815_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "広町遺跡　発掘調査報告書　2",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811084904_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古木鉄太郎の文学游歩",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805157308_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野のまちと刑務所　　中野刑務所発祥から水と森の公園まで",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808623516_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ワグナー・ナンドール氏制作　彫刻作品「哲学の庭」　　日本・ハンガリー外交関係解説１４０周年　財団法人タオ世界文化発展研究",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805518473_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　Ｎｏ．9",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801809641_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区の新らしい歩み（中野区史別冊）",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/804389783_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1991-1995",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807121117_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "国立中野療養所と江古田の作家たち　　企画展示「地域の著作者紹介」第３回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806924190_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1999-2003",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801855457_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区報　縮刷版　Ｎｏ．5",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808670230_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成17年度",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805119174_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ふるさと中野の民俗と行事　　　中野の文化財　Ｎｏ．２",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804340_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1979-1983",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807332800_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "都市景観ガイドプラン　　木洩れ陽のあるまち・中野",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/803903295_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "「東部地区　昔をたずねて」",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/809690738_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成26年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805679705_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区民生活史　第1巻　付録　明治前期中野区地域図（迅速測図）",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808649192_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成22年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808035640_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "生誕１５０年　「不思議博士・井上円了」　　企画展示「地域の著作者紹介」第５回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806774173_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小説・エッセイにみる中野　2　中野が掲載されている展示資料の詳細とその他資料　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808110969_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　2003-2007",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805469234_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "堀江家文書（絵図）　一",
+            "license": "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/804349910_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "〔仮称〕中野刑務所遺跡発掘調査概報",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811084860_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古木鉄太郎展　　鷺宮を歩いた私小説家",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169537_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野を読む　1　江戸文献史料集　Ⅰ　中野の文化財　Ｎｏ．１８",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807754611_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の農業　いまむかし　1　かつて、中野に“農”があった　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/802678974_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "古老の語る沼袋・江古田の歴史　2",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/804130883_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "たずねてみませんか　中野の名所・旧跡 (1980)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807336747_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "産業ラーニングシティなかの　　ひとづくり・まちづくり",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808361931_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "収監の作家・文化人",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806664841_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　Ｎｏ．12",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169798_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区立哲学堂公園内古建築調査報告書　　　中野の文化財　Ｎｏ．１２",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807793576_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の農業　いまむかし　2　“農”をする人々のくらし　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808060123_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "エポックなかの歴史３０選　　　中野の文化財　Ｎｏ．１４",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/804393946_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "みどりと史跡をたずねて",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/807812798_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　Ｎｏ．6",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808657748_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　上巻",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808062763_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の子どもたち　2",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807012892_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "「みどりの防災公園」実現に向けて",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805752350_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "寺山西遺跡　発掘調査報告書　　平成１０年",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169653_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区の石造物（神社）　　　中野の文化財　Ｎｏ．２３",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808029212_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　昭和資料編　3",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805111800_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区民生活史　第1巻",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/807666770_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家文書　武蔵国多摩郡江古田村　二",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811304955_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成28年度",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/802417790_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "新井三丁目遺跡　　図版篇",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/802413950_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家資料図録 (1989)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811058940_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ｎｏ．８５遺跡　発掘調査報告書　　中野区立中野富士見中学校跡地",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169690_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区江古田氷川神社神楽殿調査報告書　　　中野の文化財　Ｎｏ．１０",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807118514_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "商店街からたどる”なかの”の足跡　1",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/804343828_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区報　縮刷版　Ｎｏ．4",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808932656_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかのミニガイド　　１９７８－１９８０",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805196745_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　昭和編　2",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808367452_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野を語る建物たち　　中野区大正期・昭和前期建造物調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804270_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1951-1955",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169312_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区立哲学堂公園内石造物及び聨・扁額類調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811327430_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "広町遺跡　発掘調査報告書　3",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805519309_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ちょっとまえのあらい　　昭和初期から３０年代の新井のまち",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808618982_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "作家・阪田寛夫　～童謡「サッちゃん」の詩人・小説家　　企画展示「中野区ゆかりの著作者紹介」第６回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808670249_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成16年度",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/804715075_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1987-1991",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/804346516_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "手仕事なかの",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808661858_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成15年度",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169386_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小谷津家文書　1　第一巻　検地帳　中野の文化財　Ｎｏ．７",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169410_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区北原遺跡発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808616932_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　昭和資料編　2",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808053380_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の歴史",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806695928_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "たずねてみませんか　中野の名所・旧跡 (1985)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808683980_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の神社をたずねて　南部編　　南部編　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808637520_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成12年度",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805446534_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "地域に伝わる　土器　磁器　陶器",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805119183_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の昔話・伝説・世間話　口承文芸調査報告書　（中野の文化財　Ｎｏ．１１）",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/803906410_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　昭和編　1",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806665052_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　Ｎｏ．8",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808657819_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "暮らしと遊びの「こころ」と「かたち」　　第１１回特別企画・郷土玩具コレクション展",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/801806040_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "見えない都市・模索するストーリー",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807754540_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野のお寺散歩　　参考・地域行政資料コーナーにおける展示の概要　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807301661_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の橋あれこれ　　参考・地域行政資料コーナーにおける展示の概要　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807249900_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ゾルゲ事件捜査官",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801809463_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　昭和資料編　1",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808056793_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家文書　武蔵国多摩郡江古田村　五",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808637736_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成13年度",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805170865_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区の仏教美術　　　中野の文化財　Ｎｏ．２２",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811176953_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区立歴史民俗資料館　研究紀要　2",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169519_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区御嶽遺跡第１次発掘調査報告書　1　平成７年",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806665301_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野グラフ白書　　ＮＡＫＡＮＯ　ＴＯＷＮ　ＲＥＰＯＲＴ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808029070_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかのの碑文　　　中野の文化財　Ｎｏ．４",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807815403_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "わがまちこのひと",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805119049_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "江古田村御用留　　　中野区史料館資料叢書",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805518535_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区報　縮刷版　Ｎｏ．2",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805726707_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　昭和編　3",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805518562_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区報　縮刷版　Ｎｏ．3",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808020271_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成20年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807732534_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "江古田遺跡　発掘調査報告書　3",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806877484_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小説・エッセイにみる中野　1　参考資料コーナーにおける展示資料の内容　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807233015_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区若宮遺跡調査報告書　　中野区若宮二丁目６０番２１号における埋蔵文化財発掘報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808079232_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "哲学堂公園内遺跡発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169493_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区向田遺跡発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804322_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1971-1975",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808066978_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "商店街からたどる”なかの”の足跡　2",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805131722_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野を読む　2　江戸文献史料集　Ⅱ　中野の文化財　Ｎｏ．２０",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808657855_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区本田山遺跡発掘調査報告書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808683935_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の神社をたずねて　北部編　　北部編　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801311983_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区史　下巻　2",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806637773_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『中野の戦災』　　　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801809632_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区民生活史　資料・統計編",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/807815520_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郷土中野",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169420_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "北江古田遺跡発掘調査報告書　1",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806356404_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "沼袋を語る",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169359_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "江古田遺跡　発掘調査報告書　　1",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/802752893_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "たずねてみませんか　中野の名所・旧跡 (1987)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808078404_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "やまと今昔物語",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807178577_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "グラフィック　中野の産業　２００７",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806695955_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "たずねてみませんか　中野の名所・旧跡 (1989)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169733_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区板碑資料集　　　中野の文化財　Ｎｏ．１９",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807193250_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『中野にきた象』　　　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801312004_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1955-1959",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804313_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1967-1971",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/806062728_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1995-1999",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805518508_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　縮刷版　Ｎｏ．10",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/811176962_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区立歴史民俗資料館　研究紀要　　1",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808894241_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成21年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806698296_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区内の石仏　　　中野区史料館資料叢書",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806868832_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "哲学堂公園　　哲学に親しむ",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806169457_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区片山遺跡　発掘調査報告書　　1",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/807815412_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "江古田今昔",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807336774_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区産業データブック",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801833610_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小絵馬写真集",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806922104_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野神明小学校校庭遺跡発堀調査報告　　昭和５２年度",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/801830968_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小谷津家文書　2　第二巻　中野の文化財　Ｎｏ．８",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808637511_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成14年度",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805496670_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家文書　武蔵国多摩郡江古田村　一",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808683499_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "北江古田遺跡発掘調査報告書　2",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808922453_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかのの地名とその伝承　　　中野の文化財　Ｎｏ．５",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/807178540_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『中野の地名由来』　　　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804298_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1959-1963",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808289418_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成24年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805679741_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山﨑家文書　武蔵国多摩郡江古田村　三",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805519416_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区報　縮刷版　Ｎｏ．1",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/805114276_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東京都中野区立哲学堂公園",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808080627_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "文学にみる中野",
+            "license": ""
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/808116210_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "広町遺跡　発掘調査報告書　　1",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/801804304_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　1963-1967",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805119002_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "小絵馬目録",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/809677941_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "巽聖歌と新美南吉－友情と名作を育んだ上高田－　　企画展示「中野区ゆかりの著作者紹介」第１０回　地域の著作者紹介シリーズ",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/808053450_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "たずねてみませんか　中野の名所・旧跡 (1996)",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806504552_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区の地名由来に関する記述文献索引　　　地域展示",
+            "license": ""
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/805119192_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野の昔話・伝説・世間話　続　口承文芸調査報告書　（中野の文化財　Ｎｏ．１５）",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/809501957_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "なかの区報　製本版　平成25年度",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://archive.nakano-library.jp/manifest/811060798_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "中野区政の歩み　2011-2015",
+            "license": "CC-BY<br>【重要】こちらもご確認ください https://archive.nakano-library.jp/about/"
+        },
+        {
+            "@id": "http://iiif.nakano-library.jp/manifest/806634735_manifest.json",
+            "@type": "sc:Manifest",
+            "label": "徳川綱吉と中野”犬小屋”　　　地域展示",
+            "license": ""
+        }
+    ]
+}
