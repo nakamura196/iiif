@@ -12,7 +12,8 @@ if __name__ == '__main__':
     writer = csv.writer(f, lineterminator='\n')
     writer.writerow(["Manifest"])
 
-    url_list = ["https://iiif.ll.chiba-u.jp/main/koisho.shtml", "https://iiif.ll.chiba-u.jp/main/engeisho.shtml", "https://iiif.ll.chiba-u.jp/main/machinoke.shtml", "https://iiif.ll.chiba-u.jp/main/fungi.shtml"]
+    url_list = ["https://iiif.ll.chiba-u.jp/main/koisho.shtml", "https://iiif.ll.chiba-u.jp/main/engeisho.shtml",
+                "https://iiif.ll.chiba-u.jp/main/machinoke.shtml", "https://iiif.ll.chiba-u.jp/main/fungi.shtml"]
 
     for url in url_list:
 
@@ -23,7 +24,7 @@ if __name__ == '__main__':
         # htmlをBeautifulSoupで扱う
         soup = BeautifulSoup(html, "html.parser")
 
-        li_list= soup.find("ol").find_all("li")
+        li_list = soup.find("ol").find_all("li")
 
         for li in li_list:
             manifest_uri = li.find_all("a")[2].get("href")
