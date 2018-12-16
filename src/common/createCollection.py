@@ -1,15 +1,15 @@
-from bs4 import BeautifulSoup
-import json, rdflib_jsonld
-import os
+import json
 
 map = dict()
 map["codh"] = "日本古典籍データセット（国文研所蔵）CODH配信"
-map["kkz"] = "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee"
+map[
+    "kkz"] = "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee"
 map["koyasan"] = "Copyright (C) Koyasan University All Rights Reserved."
 map["kyoto"] = "Kyoto University Rare Materials Digital Archive"
 map["nakano"] = "中野区立図書館"
 map["ninj"] = "http://www.ninjal.ac.jp/"
-map["saga"] = "This property is owned by Saga University Library and is used for regionological research by The Center for Regional Culture and History, Saga University, Japan. "
+map[
+    "saga"] = "This property is owned by Saga University Library and is used for regionological research by The Center for Regional Culture and History, Saga University, Japan. "
 map["shimane"] = "Shimane University Library Digital Archive Collection"
 map["toyo"] = "NII / Toyo Bunko Digital Archives"
 map["zuzoubu"] = "大蔵出版(Daizo shuppan) and SAT大蔵経テキストデータベース研究会(SAT Daizōkyō Text Database Committee) "
@@ -37,7 +37,6 @@ universe["collections"] = collections
 output_path = "../../docs/data/collection/collection.json"
 
 for type in map:
-
     collection = dict()
     collections.append(collection)
     collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + type + ".json"
