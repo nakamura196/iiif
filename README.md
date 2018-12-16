@@ -12,6 +12,9 @@
 ***
 
 ### IIIF Collectionのディレクトリ構造
+
+https://github.com/nakamura196/iiif/tree/master/docs/data/collection
+
 ```
 docs/data/collection
 |   collection.json（本ファイルがすべてのコレクションを包含したIIIF Collectionです）
