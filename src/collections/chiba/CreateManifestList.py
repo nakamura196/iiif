@@ -3,28 +3,30 @@ from bs4 import BeautifulSoup
 import csv
 from time import sleep
 
-output_path = "manifest_list.csv"
+if __name__ == '__main__':
 
-f = open(output_path, 'w')
+    output_path = "data/manifest_list.csv"
 
-writer = csv.writer(f, lineterminator='\n')
-writer.writerow(["Manifest"])
+    f = open(output_path, 'w')
 
-url_list = ["https://iiif.ll.chiba-u.jp/main/koisho.shtml", "https://iiif.ll.chiba-u.jp/main/engeisho.shtml", "https://iiif.ll.chiba-u.jp/main/machinoke.shtml", "https://iiif.ll.chiba-u.jp/main/fungi.shtml"]
+    writer = csv.writer(f, lineterminator='\n')
+    writer.writerow(["Manifest"])
 
-for url in url_list:
+    url_list = ["https://iiif.ll.chiba-u.jp/main/koisho.shtml", "https://iiif.ll.chiba-u.jp/main/engeisho.shtml", "https://iiif.ll.chiba-u.jp/main/machinoke.shtml", "https://iiif.ll.chiba-u.jp/main/fungi.shtml"]
 
-    sleep(1)
+    for url in url_list:
 
-    html = urllib.request.urlopen(url)
+        sleep(1)
 
-    # htmlをBeautifulSoupで扱う
-    soup = BeautifulSoup(html, "html.parser")
+        html = urllib.request.urlopen(url)
 
-    li_list= soup.find("ol").find_all("li")
+        # htmlをBeautifulSoupで扱う
+        soup = BeautifulSoup(html, "html.parser")
 
-    for li in li_list:
-        manifest_uri = li.find_all("a")[2].get("href")
-        writer.writerow([manifest_uri])
+        li_list= soup.find("ol").find_all("li")
 
-f.close()
+        for li in li_list:
+            manifest_uri = li.find_all("a")[2].get("href")
+            writer.writerow([manifest_uri])
+
+    f.close()
