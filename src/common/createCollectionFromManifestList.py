@@ -51,9 +51,9 @@ if __name__ == "__main__":
                 r = urllib.request.urlopen(manifest)
 
                 # json_loads() でPythonオブジェクトに変換
-                data = json.loads(r.read().decode('utf-8'))
+                data = json.loads(r.read().decode('utf_8_sig'))
 
-                if "@collection_name" in data and data["@collection_name"] == "sc:Manifest":
+                if "@type" in data and data["@type"] == "sc:Manifest":
                     label = ""
                     if "label" in data:
                         label = data["label"]
@@ -61,7 +61,7 @@ if __name__ == "__main__":
                     manifest_obj = dict()
                     manifests.append(manifest_obj)
                     manifest_obj["@id"] = manifest
-                    manifest_obj["@collection_name"] = "sc:Manifest"
+                    manifest_obj["@type"] = "sc:Manifest"
                     manifest_obj["label"] = label
                     if "license" in data:
                         manifest_obj["license"] = data["license"]
@@ -73,7 +73,7 @@ if __name__ == "__main__":
     collection = dict()
     collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
     collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + collection_name + ".json"
-    collection["@collection_name"] = "sc:Collection"
+    collection["@type"] = "sc:Collection"
     collection["manifests"] = manifests
 
     fw = open(output_path, 'w')

@@ -56,11 +56,10 @@ if __name__ == "__main__":
                 r = urllib.request.urlopen(manifest)
 
                 # json_loads() でPythonオブジェクトに変換
-                data = json.loads(r.read().decode('utf-8'))
+                data = json.loads(r.read().decode('utf_8_sig'))
 
-                if "@collection_name" in data and data["@collection_name"] == "sc:Manifest":
-                    with open(output_dir + "/" + make_md5(manifest) + ".json", 'w') as outfile:
-                        json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+                with open(output_dir + "/" + make_md5(manifest) + ".json", 'w') as outfile:
+                    json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
 
             except urllib.error.URLError as e:
                 print(e.reason + "\t" + manifest)
