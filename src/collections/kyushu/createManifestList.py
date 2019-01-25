@@ -45,6 +45,7 @@ def scrape_for_item(url):
     uv = soup.find(class_="uv")
     if uv != None:
         manifest = uv.get("data-uri")
+        print(manifest)
         manifest_arr.append(manifest)
 
 
@@ -52,12 +53,10 @@ if __name__ == '__main__':
 
     manifest_arr = []
 
-    output_path = "data/manifest_list.csv"
+    output_path = "data/manifest_list_book.csv"
 
     url_array = [
-        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=22&opkey=B154485735599552&cmode=0&place=&list_sort=0&list_disp=500&start=",
-        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=9&opkey=B154485763474021&cmode=0&place=&list_disp=500&list_sort=0&cmode=0&chk_st=0&start=",
-        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=22&opkey=B154485768029389&cmode=0&place=&list_sort=0&list_disp=500&start="]
+        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=22&opkey=B154816732437637&cmode=0&place=&list_sort=0&list_disp=500&start="]
 
     for base_url in url_array:
 
