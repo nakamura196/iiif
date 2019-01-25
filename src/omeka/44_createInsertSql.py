@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
     csv_path = path + "/" + collection_name + "/metadata.csv"
 
-    output_path = path + "/" + collection_name + "/value.sql"insinaar
+    output_path = path + "/" + collection_name + "/insert.sql"
     fo = open(output_path, 'w')  # 書き込みモードで開く
 
     properties = get_properties()
