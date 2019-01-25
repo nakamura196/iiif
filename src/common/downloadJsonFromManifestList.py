@@ -5,6 +5,7 @@ from time import sleep
 from hashlib import md5
 import argparse
 import sys
+import os
 
 
 def parse_args(args=sys.argv[1:]):
@@ -42,6 +43,7 @@ if __name__ == "__main__":
         count = 0
 
         for row in reader:
+
             manifest = row[0]
 
             if count % 20 == 0:
@@ -49,17 +51,26 @@ if __name__ == "__main__":
 
             count += 1
 
-            try:
+            output_path = output_dir + "/" + make_md5(manifest) + ".json"
 
-                sleep(1)
+            if not os.path.exists(output_path):
 
-                r = urllib.request.urlopen(manifest)
+                try:
 
-                # json_loads() でPythonオブジェクトに変換
-                data = json.loads(r.read().decode('utf_8_sig'))
+                    sleep(1)
 
-                with open(output_dir + "/" + make_md5(manifest) + ".json", 'w') as outfile:
-                    json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+                    r = urllib.request.urlopen(manifest)
 
-            except urllib.error.URLError as e:
-                print(e.reason + "\t" + manifest)
+                    # json_loads() でPythonオブジェクトに変換
+                    try:
+                        data = json.loads(r.read().decode('utf_8'))
+
+                        with open(output_path, 'w') as outfile:
+                            json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True,
+                                      separators=(',', ': '))
+
+                    except:
+                        print(manifest)
+
+                except urllib.error.URLError as e:
+                    print(e.reason + "\t" + manifest)
