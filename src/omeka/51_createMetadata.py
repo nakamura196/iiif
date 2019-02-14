@@ -1,10 +1,8 @@
 from bs4 import BeautifulSoup
-from rdflib import Graph, plugin
-import json, rdflib_jsonld
+import json
 import csv
 from hashlib import md5
-from rdflib import URIRef, Literal
-from rdflib.namespace import RDF, RDFS
+import os
 import sys
 import unicodedata
 import argparse
@@ -84,10 +82,16 @@ if __name__ == "__main__":
     fields.append("dcndl:digitizedPublisher")
     fields.append("foaf:thumbnail")
     fields.append("bibo:abstract")
+    fields.append("dcterms:source")
 
     result = []
 
     fieldsMap = dict()
+
+    import yaml
+
+    f = open("data/" + collection_name + "/config.yml", "r+")
+    config = yaml.load(f)
 
     for i in range(len(files)):
 
@@ -105,9 +109,6 @@ if __name__ == "__main__":
         obj = dict()
 
         obj["dcterms:identifier"] = make_md5(array["@id"], encoding='utf-8')
-
-        obj["dcndl:digitizedPublisher"] = ""
-        obj["uterms:databaseLabel"] = ""
 
         title = "タイトルなし"
         if "label" in array:
@@ -156,7 +157,9 @@ if __name__ == "__main__":
         for canvas in canvases:
             if "label" in canvas:
                 label = canvas["label"]
-                if not label.isnumeric() and not label.replace("[", "").replace("]", "").isnumeric():
+                if "@value" in label:
+                    labels.append(label["@value"])
+                elif not label.isnumeric() and not label.replace("[", "").replace("]", "").isnumeric():
                     labels.append(label)
 
         if len(labels) > 0:
@@ -176,9 +179,30 @@ if __name__ == "__main__":
 
         obj["dcterms:description"] = description
 
+        try:
+            canvas = array["sequences"][0]["canvases"][0]
+            resource = canvas["images"][0]["resource"]
+            if "service" in resource:
+                obj["dcterms:source"] = resource["service"]["@id"] + \
+                                        "/full/200,/0/default.jpg"
+            else:
+                obj["dcterms:source"] = canvas["thumbnail"]["@id"]
+
+        except:
+            print("Error.\t" + array["@id"])
+
+        # 上書き
+        for key in config:
+            obj[key] = config[key]
+
         result.append(obj)
 
-    with open('data/' + collection_name + '/metadata.csv', 'w') as fm:
+    output_dir = 'data/' + collection_name
+
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    with open(output_dir + '/metadata.csv', 'w') as fm:
         writer = csv.writer(fm, lineterminator='\n')  # 改行コード（\n）を指定しておく
 
         print(fields)
