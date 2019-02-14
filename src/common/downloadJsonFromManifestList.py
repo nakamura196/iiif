@@ -34,6 +34,9 @@ if __name__ == "__main__":
     list_path = "../collections/" + collection_name + "/data/manifest_list.csv"
     output_dir = "../../json/collections/" + collection_name
 
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     manifests = []
 
     with open(list_path, 'r') as f:
