@@ -29,9 +29,14 @@
             "label": "中野区立図書館"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ninj.json",
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nijl.json",
             "@type": "sc:Collection",
-            "label": "http://www.ninjal.ac.jp/"
+            "label": "National Institute of Japanese Literature"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ninjal.json",
+            "@type": "sc:Collection",
+            "label": "National Institute for Japanese Language and Linguistics"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga.json",
@@ -74,14 +79,9 @@
             "label": "慶應義塾大学メディアセンター Keio University Libraries"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okinawa.json",
-            "@type": "sc:Collection",
-            "label": "沖縄県立図書館 Okinawa Prefectural Library"
-        },
-        {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utda.json",
             "@type": "sc:Collection",
-            "label": "東京大学総合図書館 General Library in the University of Tokyo, JAPAN"
+            "label": "The University of Tokyo"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ueda.json",
@@ -91,12 +91,12 @@
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/hiraga.json",
             "@type": "sc:Collection",
-            "label": "東京大学柏図書館 Kashiwa Library in the University of Tokyo, JAPAN"
+            "label": "The University of Tokyo"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyushu.json",
             "@type": "sc:Collection",
-            "label": "Kyushu University Library Collections"
+            "label": "Kyushu University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okayama.json",
@@ -106,12 +106,27 @@
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utarchives.json",
             "@type": "sc:Collection",
-            "label": "東京大学文書館 / The University of Tokyo Archives, JAPAN"
+            "label": "UTArchives Digital Archive by The University of Tokyo"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/chiba.json",
             "@type": "sc:Collection",
-            "label": "Chiba University Library"
+            "label": "c-arc Chiba University Academic Resource Collections by Chiba University"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okinawa.json",
+            "@type": "sc:Collection",
+            "label": "Okinawa Prefectural Library"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/north-china-railway.json",
+            "@type": "sc:Collection",
+            "label": "Digital Archive of North China Railway by Center for Open Data in the Humanities"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/dch.json",
+            "@type": "sc:Collection",
+            "label": "Digital Cultural Heritage by The University of Tokyo"
         }
     ],
     "label": "IIIF Collections in Japan"
