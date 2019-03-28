@@ -1,0 +1,6 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga_pref.json",
+    "@type": "sc:Collection",
+    "manifests": []
+}

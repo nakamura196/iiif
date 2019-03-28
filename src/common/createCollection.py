@@ -28,6 +28,8 @@ map["chiba"] = "c-arc Chiba University Academic Resource Collections by Chiba Un
 map["okinawa"] = "Okinawa Prefectural Library"
 map["north-china-railway"] = "Digital Archive of North China Railway by Center for Open Data in the Humanities"
 map["dch"] = "Digital Cultural Heritage by The University of Tokyo"
+map["saga_pref"] = "Saga Prefectural Library Database by Saga Prefectural Library"
+map["kansai"] = "Kansai University Open Research Center for Asian Studies"
 
 universe = dict()
 universe["@context"] = "http://iiif.io/api/presentation/2/context.json"

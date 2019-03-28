@@ -127,6 +127,16 @@
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/dch.json",
             "@type": "sc:Collection",
             "label": "Digital Cultural Heritage by The University of Tokyo"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga_pref.json",
+            "@type": "sc:Collection",
+            "label": "Saga Prefectural Library Database by Saga Prefectural Library"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kansai.json",
+            "@type": "sc:Collection",
+            "label": "Kansai University Open Research Center for Asian Studies"
         }
     ],
     "label": "IIIF Collections in Japan"
