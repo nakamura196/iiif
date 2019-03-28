@@ -4,6 +4,7 @@ from hashlib import md5
 import sys
 import argparse
 import glob
+import os
 
 
 def parse_args(args=sys.argv[1:]):
@@ -84,7 +85,10 @@ if __name__ == "__main__":
 
         result.append(obj)
 
-    with open('data/' + collection_name + '/omeka_csv_import.csv', 'w') as f:
+    dir = 'data/' + collection_name
+    os.makedirs(dir, exist_ok=True)
+
+    with open(dir + '/omeka_csv_import.csv', 'w') as f:
         writer = csv.writer(f, lineterminator='\n')  # 改行コード（\n）を指定しておく
 
         writer.writerow(fields)

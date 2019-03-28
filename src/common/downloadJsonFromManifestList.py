@@ -62,6 +62,8 @@ if __name__ == "__main__":
 
                     sleep(1)
 
+                    print(manifest)
+
                     r = urllib.request.urlopen(manifest)
 
                     # json_loads() でPythonオブジェクトに変換

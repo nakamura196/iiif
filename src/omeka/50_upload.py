@@ -81,7 +81,7 @@ if __name__ == "__main__":
 
     endpoint = "http://iiif2.dl.itc.u-tokyo.ac.jp/api"
 
-    f = open("data/" + collection_name + "/config.yml", "r+")
+    f = open("data/config.yml", "r+")
     config = yaml.load(f)
 
     key_identity = config["key_identity"]
