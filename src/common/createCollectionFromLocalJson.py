@@ -55,6 +55,18 @@ if __name__ == "__main__":
                     if "license" in data:
                         manifest_obj["license"] = data["license"]
 
+                    canvas = data["sequences"][0]["canvases"][0]
+                    resource = canvas["images"][0]["resource"]
+                    thumbnail = ""
+                    if "service" in resource:
+                        thumbnail = resource["service"]["@id"] + \
+                                                "/full/200,/0/default.jpg"
+                    else:
+                        thumbnail = canvas["thumbnail"]["@id"]
+
+                    if thumbnail != "":
+                        manifest_obj["thumbnail"] = thumbnail
+
             except:
                 continue
 
@@ -62,6 +74,7 @@ if __name__ == "__main__":
     collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
     collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + collection_name + ".json"
     collection["@type"] = "sc:Collection"
+    collection["vhint"] = "use-thumb"
     collection["manifests"] = manifests
 
     fw = open(output_path, 'w')
