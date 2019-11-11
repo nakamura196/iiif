@@ -1,0 +1,1 @@
+python /Users/nakamura/git/d_iiif/i3/src/conv/convertManifest2Curation.py

@@ -2,3 +2,4 @@ json/
 *.DS_Store
 src/collections/okinawa/data/html/
 src/omeka/data/
+curation/
