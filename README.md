@@ -50,9 +50,6 @@ docs/data/collection
 <dt>koyasan</dt>
 <dd>Copyright (C) Koyasan University All Rights Reserved.</dd>
 
-<dt>kkz</dt>
-<dd>General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee</dd>
-
 <dt>kyushu</dt>
 <dd>Kyushu University Library Collections</dd>
 
@@ -62,20 +59,14 @@ docs/data/collection
 <dt>kinki</dt>
 <dd>Images Copyright Kindai University Central Library</dd>
 
-<dt>zuzoubu</dt>
-<dd>大蔵出版(Daizo shuppan) and SAT大蔵経テキストデータベース研究会(SAT Daizōkyō Text Database Committee)</dd>
-
 <dt>shimane</dt>
 <dd>Shimane University Library Digital Archive Collection</dd>
 
 <dt>ninj</dt>
 <dd>http://www.ninjal.ac.jp/</dd>
 
-<dt>utarchives</dt>
-<dd>東京大学文書館 / The University of Tokyo Archives, JAPAN</dd>
-
 <dt>utda</dt>
-<dd>東京大学総合図書館 General Library in the University of Tokyo, JAPAN</dd>
+<dd>東京大学</dd>
 
 <dt>okayama</dt>
 <dd>岡山県立記録資料館</dd>
@@ -85,9 +76,6 @@ docs/data/collection
 
 <dt>khirin</dt>
 <dd>National Museum of Japanese History</dd>
-
-<dt>hiraga</dt>
-<dd>東京大学柏図書館 Kashiwa Library in the University of Tokyo, JAPAN</dd>
 
 <dt>codh</dt>
 <dd>日本古典籍データセット（国文研所蔵）CODH配信</dd>

@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
                 try:
 
-                    sleep(1)
+                    sleep(0.5)
 
                     print(manifest)
 

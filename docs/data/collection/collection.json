@@ -6,137 +6,112 @@
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/codh.json",
             "@type": "sc:Collection",
-            "label": "日本古典籍データセット（国文研所蔵）CODH配信"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kkz.json",
-            "@type": "sc:Collection",
-            "label": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee"
+            "label": "Center for Open Data in the Humanities"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/koyasan.json",
             "@type": "sc:Collection",
-            "label": "Copyright (C) Koyasan University All Rights Reserved."
+            "label": "高野山大学 Koyasan University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyoto.json",
             "@type": "sc:Collection",
-            "label": "Kyoto University Rare Materials Digital Archive"
+            "label": "京都大学 Kyoto University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nakano.json",
             "@type": "sc:Collection",
-            "label": "中野区立図書館"
+            "label": "中野区立図書館 Nakano City Library"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nijl.json",
             "@type": "sc:Collection",
-            "label": "National Institute of Japanese Literature"
+            "label": "国文学研究資料館 National Institute of Japanese Literature"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ninjal.json",
             "@type": "sc:Collection",
-            "label": "National Institute for Japanese Language and Linguistics"
+            "label": "国立国語研究所 National Institute for Japanese Language and Linguistics"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga.json",
             "@type": "sc:Collection",
-            "label": "This property is owned by Saga University Library and is used for regionological research by The Center for Regional Culture and History, Saga University, Japan. "
+            "label": "佐賀大学 Saga University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/shimane.json",
             "@type": "sc:Collection",
-            "label": "Shimane University Library Digital Archive Collection"
+            "label": "島根大学 Shimane University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/toyo.json",
             "@type": "sc:Collection",
-            "label": "NII / Toyo Bunko Digital Archives"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/zuzoubu.json",
-            "@type": "sc:Collection",
-            "label": "大蔵出版(Daizo shuppan) and SAT大蔵経テキストデータベース研究会(SAT Daizōkyō Text Database Committee) "
+            "label": "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/khirin.json",
             "@type": "sc:Collection",
-            "label": "National Museum of Japanese History"
+            "label": "国立歴史民俗博物館 National Museum of Japanese History"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ndl.json",
             "@type": "sc:Collection",
-            "label": "国立国会図書館 National Diet Library, JAPAN"
+            "label": "国立国会図書館 National Diet Library"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kinki.json",
             "@type": "sc:Collection",
-            "label": "Images Copyright Kindai University Central Library"
+            "label": "近畿大学 Kindai University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/keio.json",
             "@type": "sc:Collection",
-            "label": "慶應義塾大学メディアセンター Keio University Libraries"
+            "label": "慶應義塾大学 Keio University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utda.json",
             "@type": "sc:Collection",
-            "label": "The University of Tokyo"
+            "label": "東京大学 The University of Tokyo"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ueda.json",
             "@type": "sc:Collection",
-            "label": "上田市"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/hiraga.json",
-            "@type": "sc:Collection",
-            "label": "The University of Tokyo"
+            "label": "上田市 Ueda City"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyushu.json",
             "@type": "sc:Collection",
-            "label": "Kyushu University"
+            "label": "九州大学 Kyushu University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okayama.json",
             "@type": "sc:Collection",
-            "label": "岡山県立記録資料館"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utarchives.json",
-            "@type": "sc:Collection",
-            "label": "UTArchives Digital Archive by The University of Tokyo"
+            "label": "岡山県立記録資料館 Okayama Prefectural Archives"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/chiba.json",
             "@type": "sc:Collection",
-            "label": "c-arc Chiba University Academic Resource Collections by Chiba University"
+            "label": "千葉大学 Chiba University"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okinawa.json",
             "@type": "sc:Collection",
-            "label": "Okinawa Prefectural Library"
+            "label": "沖縄県立大学 Okinawa Prefectural Library"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/north-china-railway.json",
             "@type": "sc:Collection",
-            "label": "Digital Archive of North China Railway by Center for Open Data in the Humanities"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/dch.json",
-            "@type": "sc:Collection",
-            "label": "Digital Cultural Heritage by The University of Tokyo"
+            "label": "Center for Open Data in the Humanities"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga_pref.json",
             "@type": "sc:Collection",
-            "label": "Saga Prefectural Library Database by Saga Prefectural Library"
+            "label": "佐賀県立図書館 Saga Prefectural Library"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kansai.json",
             "@type": "sc:Collection",
-            "label": "Kansai University Open Research Center for Asian Studies"
+            "label": "関西大学 Kansai University"
         }
     ],
     "label": "IIIF Collections in Japan"
