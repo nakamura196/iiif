@@ -48,12 +48,15 @@ if __name__ == "__main__":
                         label = data["label"]
 
                     manifest_obj = dict()
-                    manifests.append(manifest_obj)
+                    
                     manifest_obj["@id"] = manifest
                     manifest_obj["@type"] = "sc:Manifest"
                     manifest_obj["label"] = label
                     if "license" in data:
                         manifest_obj["license"] = data["license"]
+                    else:
+                        print(manifest)
+                        continue
 
                     canvas = data["sequences"][0]["canvases"][0]
                     resource = canvas["images"][0]["resource"]
@@ -66,6 +69,8 @@ if __name__ == "__main__":
 
                     if thumbnail != "":
                         manifest_obj["thumbnail"] = thumbnail
+
+                    manifests.append(manifest_obj)
 
             except:
                 continue

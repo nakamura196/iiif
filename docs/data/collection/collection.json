@@ -44,11 +44,6 @@
             "label": "島根大学 Shimane University"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/toyo.json",
-            "@type": "sc:Collection",
-            "label": "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
-        },
-        {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/khirin.json",
             "@type": "sc:Collection",
             "label": "国立歴史民俗博物館 National Museum of Japanese History"
@@ -64,12 +59,7 @@
             "label": "近畿大学 Kindai University"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/keio.json",
-            "@type": "sc:Collection",
-            "label": "慶應義塾大学 Keio University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utda.json",
+            "@id": "https://nakamura196.github.io/portal_pro/data/collection.json",
             "@type": "sc:Collection",
             "label": "東京大学 The University of Tokyo"
         },
