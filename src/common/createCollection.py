@@ -2,7 +2,7 @@ import json
 
 map = dict()
 map["codh"] = "Center for Open Data in the Humanities"
-map["koyasan"] = "高野山大学 Koyasan University"
+# map["koyasan"] = "高野山大学 Koyasan University"
 map["kyoto"] = "京都大学 Kyoto University"
 map["nakano"] = "中野区立図書館 Nakano City Library"
 map["nijl"] = "国文学研究資料館 National Institute of Japanese Literature"

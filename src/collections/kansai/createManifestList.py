@@ -19,26 +19,36 @@ def scrape_for_page(url):
     # htmlをBeautifulSoupで扱う
     soup = BeautifulSoup(html, "html.parser")
 
+    if soup.find(class_="view-content") == None:
+        return False
+
     arr_a = soup.find(class_="view-content").find_all("a")
 
     if len(arr_a) > 0:
         for element_a in arr_a:
-            url2 = "https://www.iiif.ku-orcas.kansai-u.ac.jp" + element_a.get("href")
 
-            sleep(1)
+            manifest = "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif"+element_a.get("href")+"/manifest.json"
 
-            html2 = urllib.request.urlopen(url2)
+            if "hakuen_yinpu" in manifest:
+                html = urllib.request.urlopen("https://www.iiif.ku-orcas.kansai-u.ac.jp/"+element_a.get("href"))
 
-            # htmlをBeautifulSoupで扱う
-            soup2 = BeautifulSoup(html2, "html.parser")
+                # htmlをBeautifulSoupで扱う
+                soup = BeautifulSoup(html, "html.parser")
 
-            manifest = soup2.find(class_="link-manifest").get("href")
+                aas = soup.find_all("a")
 
+                for a in aas:
+                    href = a.get("href")
+                    if "manifest.json" in href:
+                        manifest = href
+                        break
+
+
+            else:
+                manifest = "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif"+element_a.get("href").split("-")[0]+"/manifest.json"
 
             print(manifest)
             manifest_arr.append(manifest)
-
-
 
     else:
         flg = False
@@ -53,7 +63,11 @@ if __name__ == '__main__':
     output_path = "data/manifest_list.csv"
 
     url_array = [
-        "https://www.iiif.ku-orcas.kansai-u.ac.jp/books?page=", "https://www.iiif.ku-orcas.kansai-u.ac.jp/osaka_gadan?page=", "https://www.iiif.ku-orcas.kansai-u.ac.jp/hakuen_bunko?page=", "https://www.iiif.ku-orcas.kansai-u.ac.jp/hakuen_yinpu?page="]
+        "https://www.iiif.ku-orcas.kansai-u.ac.jp/books?page=", 
+        "https://www.iiif.ku-orcas.kansai-u.ac.jp/osaka_gadan?page=", 
+        "https://www.iiif.ku-orcas.kansai-u.ac.jp/hakuen_bunko?page=", 
+        "https://www.iiif.ku-orcas.kansai-u.ac.jp/hakuen_yinpu?page="
+    ]
 
     for base_url in url_array:
 

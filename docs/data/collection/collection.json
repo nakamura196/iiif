@@ -9,11 +9,6 @@
             "label": "Center for Open Data in the Humanities"
         },
         {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/koyasan.json",
-            "@type": "sc:Collection",
-            "label": "高野山大学 Koyasan University"
-        },
-        {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyoto.json",
             "@type": "sc:Collection",
             "label": "京都大学 Kyoto University"

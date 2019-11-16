@@ -6,6 +6,7 @@ from hashlib import md5
 import argparse
 import sys
 import os
+import requests
 
 
 def parse_args(args=sys.argv[1:]):
@@ -62,20 +63,17 @@ if __name__ == "__main__":
 
                     sleep(0.5)
 
+                    headers = {"content-type": "application/json"}
+                    r = requests.get(manifest, headers=headers, verify=False)
+                    data = r.json()
+
+                    # print(data)
+
+                    with open(output_path, 'w') as outfile:
+                        json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True,
+                                    separators=(',', ': '))
+
+                except Exception as e:
                     print(manifest)
-
-                    r = urllib.request.urlopen(manifest)
-
-                    # json_loads() でPythonオブジェクトに変換
-                    try:
-                        data = json.loads(r.read().decode('utf_8'))
-
-                        with open(output_path, 'w') as outfile:
-                            json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True,
-                                      separators=(',', ': '))
-
-                    except:
-                        print(manifest)
-
-                except urllib.error.URLError as e:
-                    print(e.reason + "\t" + manifest)
+                    print(e)
+                    print("----")
