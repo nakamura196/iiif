@@ -31,9 +31,14 @@ if __name__ == "__main__":
 
     manifests = []
 
+    license_check = {}
+
     for i in range(len(files)):
 
         file = files[i]
+
+        if i % 100 == 0:
+            print(str(i+1)+"\t"+str(len(files)))
 
         with open(file, 'r') as f:
             try:
@@ -72,6 +77,18 @@ if __name__ == "__main__":
 
                     manifests.append(manifest_obj)
 
+                    license = data["license"]
+
+                    manifest_obj["license"] = license
+
+                    if license != "http://kotenseki.nijl.ac.jp/page/usage.html":
+                        flg = True
+
+                    if license not in license_check:
+                        license_check[license] = 0
+
+                    license_check[license] += 1
+
             except:
                 continue
 
@@ -84,3 +101,8 @@ if __name__ == "__main__":
 
     fw = open(output_path, 'w')
     json.dump(collection, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+
+    for license in license_check:
+        print(license+"\t"+str(license_check[license]))
+
+    print("manifest size:\t"+str(len(manifests)))
