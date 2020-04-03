@@ -97,6 +97,11 @@
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kansai.json",
             "@type": "sc:Collection",
             "label": "関西大学 Kansai University"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/u_ryukyus.json",
+            "@type": "sc:Collection",
+            "label": "琉球大学 University of the Ryukyus"
         }
     ],
     "label": "IIIF Collections in Japan"
