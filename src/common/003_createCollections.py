@@ -39,6 +39,8 @@ map["saga"] = "佐賀大学 Saga University"
 
 map["shimane"] = "島根大学 Shimane University"
 
+map["u_ryukyus"] = "琉球大学 University of the Ryukyus"
+
 # map["toyo"] = "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
 
 map["utda"] = "東京大学 The University of Tokyo"

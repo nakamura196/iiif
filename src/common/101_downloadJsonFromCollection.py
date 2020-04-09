@@ -31,7 +31,9 @@ if __name__ == "__main__":
     collection_name = args.collection_name
 
     list_path = "../../docs/data/collection/collections/" + collection_name + ".json"
-    output_dir = "../../json/collections/" + collection_name
+    output_dir = "/Users/nakamura/git/json/iiif/collections/" + collection_name
+
+    os.makedirs(output_dir, exist_ok=True)
 
     manifests = []
 
@@ -67,8 +69,8 @@ if __name__ == "__main__":
                         json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True,
                                   separators=(',', ': '))
 
-                except:
-                    print(manifest)
+                except Exception as e:
+                    print(manifest+"\t"+str(e))
 
             except urllib.error.URLError as e:
                 print(e.reason + "\t" + manifest)

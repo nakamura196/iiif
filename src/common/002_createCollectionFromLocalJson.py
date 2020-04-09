@@ -50,7 +50,11 @@ if __name__ == "__main__":
 
                     label = ""
                     if "label" in data:
-                        label = data["label"]
+                        if "@value" in data["label"][0]:
+                            label = data["label"][0]["@value"]
+                        else:
+                            label = data["label"]
+                    
 
                     manifest_obj = dict()
                     
