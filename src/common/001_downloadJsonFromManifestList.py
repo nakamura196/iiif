@@ -33,10 +33,9 @@ if __name__ == "__main__":
     collection_name = args.collection_name
 
     list_path = "../collections/" + collection_name + "/data/manifest_list.csv"
-    output_dir = "../../json/collections/" + collection_name
+    output_dir = "/Users/nakamura/git/json/iiif/collections/" + collection_name
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    os.makedirs(output_dir, exist_ok=True)
 
     manifests = []
 
@@ -63,8 +62,7 @@ if __name__ == "__main__":
 
                     sleep(0.5)
 
-                    headers = {"content-type": "application/json"}
-                    r = requests.get(manifest, headers=headers, verify=False)
+                    r = requests.get(manifest)
                     data = r.json()
 
                     # print(data)

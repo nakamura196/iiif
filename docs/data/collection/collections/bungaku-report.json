@@ -1,0 +1,15 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/bungaku-report.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://omeka.bungaku-report.com/iiif/1/manifest",
+            "@type": "sc:Manifest",
+            "label": "『水戸市博本　八組香』（『聞香目録』）",
+            "license": "水戸市立博物館",
+            "thumbnail": "https://omeka.bungaku-report.com/iiif-img/1/full/200,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

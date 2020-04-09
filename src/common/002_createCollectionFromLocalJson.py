@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
     collection_name = args.collection_name
 
-    input_dir = "../../json/collections/" + collection_name
+    input_dir = "/Users/nakamura/git/json/iiif/collections/" + collection_name
 
     output_path = "../../docs/data/collection/collections/" + collection_name + ".json"
 

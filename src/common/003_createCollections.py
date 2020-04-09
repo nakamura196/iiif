@@ -7,8 +7,7 @@ map["kyoto"] = "京都大学 Kyoto University"
 map["nakano"] = "中野区立図書館 Nakano City Library"
 map["nijl"] = "国文学研究資料館 National Institute of Japanese Literature"
 map["ninjal"] = "国立国語研究所 National Institute for Japanese Language and Linguistics"
-map[
-    "saga"] = "佐賀大学 Saga University"
+map["saga"] = "佐賀大学 Saga University"
 map["shimane"] = "島根大学 Shimane University"
 # map["toyo"] = "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
 map["khirin"] = "国立歴史民俗博物館 National Museum of Japanese History"
@@ -24,6 +23,8 @@ map["okinawa"] = "沖縄県立大学 Okinawa Prefectural Library"
 map["north-china-railway"] = "Center for Open Data in the Humanities"
 map["saga_pref"] = "佐賀県立図書館 Saga Prefectural Library"
 map["kansai"] = "関西大学 Kansai University"
+map["nichibun"] = "国際日本文化研究センター International Research Center for Japanese Studies"
+map["bungaku-report"] = "文学通信 Bungaku Report"
 
 universe = dict()
 universe["@context"] = "http://iiif.io/api/presentation/2/context.json"
