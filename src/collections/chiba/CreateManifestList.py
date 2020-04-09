@@ -13,7 +13,7 @@ if __name__ == '__main__':
     writer.writerow(["Manifest"])
 
     url_list = ["https://iiif.ll.chiba-u.jp/main/koisho.shtml", "https://iiif.ll.chiba-u.jp/main/engeisho.shtml",
-                "https://iiif.ll.chiba-u.jp/main/machinoke.shtml", "https://iiif.ll.chiba-u.jp/main/fungi.shtml"]
+                "https://iiif.ll.chiba-u.jp/main/machinoke.shtml", "https://iiif.ll.chiba-u.jp/main/IDCU.shtml", "https://iiif.ll.chiba-u.jp/main/fungi.shtml"]
 
     for url in url_list:
 
