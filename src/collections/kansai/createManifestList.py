@@ -1,10 +1,10 @@
-import urllib.request
+import requests
 from bs4 import BeautifulSoup
 import csv
 from time import sleep
 
-import ssl
-ssl._create_default_https_context = ssl._create_unverified_context
+# import ssl
+# ssl._create_default_https_context = ssl._create_unverified_context
 
 
 def scrape_for_page(url):
@@ -14,10 +14,10 @@ def scrape_for_page(url):
 
     sleep(1)
 
-    html = urllib.request.urlopen(url)
+    r = requests.get(url,verify=False)
 
     # htmlをBeautifulSoupで扱う
-    soup = BeautifulSoup(html, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
 
     if soup.find(class_="view-content") == None:
         return False
@@ -27,28 +27,29 @@ def scrape_for_page(url):
     if len(arr_a) > 0:
         for element_a in arr_a:
 
-            manifest = "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif"+element_a.get("href")+"/manifest.json"
+            href = element_a.get("href")
 
-            if "hakuen_yinpu" in manifest:
-                html = urllib.request.urlopen("https://www.iiif.ku-orcas.kansai-u.ac.jp/"+element_a.get("href"))
+            sleep(1)
 
-                # htmlをBeautifulSoupで扱う
-                soup = BeautifulSoup(html, "html.parser")
+            html = requests.get("https://www.iiif.ku-orcas.kansai-u.ac.jp/"+href,verify=False)
 
-                aas = soup.find_all("a")
+            # htmlをBeautifulSoupで扱う
+            soup = BeautifulSoup(html.text, "lxml")
 
-                for a in aas:
-                    href = a.get("href")
-                    if "manifest.json" in href:
-                        manifest = href
-                        break
+            aas = soup.find_all("a")
 
+            manifest = ""
 
-            else:
-                manifest = "https://www.iiif.ku-orcas.kansai-u.ac.jp/iiif"+element_a.get("href").split("-")[0]+"/manifest.json"
+            for a in aas:
+                href = a.get("href")
+                if href and "manifest.json" in href:
+                    manifest = href
+                    break
 
-            print(manifest)
-            manifest_arr.append(manifest)
+            if manifest != "":
+
+                print(manifest)
+                manifest_arr.append(manifest)
 
     else:
         flg = False
