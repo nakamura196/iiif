@@ -1,6 +1,10 @@
 import json
+import os 
 
 map = dict()
+
+map["akita"] = "秋田県立図書館 Akita Prefectural Library"
+
 map["bukkyo"] = "佛教大学 Bukkyo University"
 map["bungaku-report"] = "文学通信 Bungaku Report"
 map["chiba"] = "千葉大学 Chiba University"
@@ -58,15 +62,27 @@ universe["collections"] = collections
 output_path = "../../docs/data/collection/collection.json"
 
 for type in map:
-    collection = dict()
-    collections.append(collection)
+    file = "../../docs/data/collection/collections/"+type+".json"
 
-    collection_uri = "https://nakamura196.github.io/iiif/data/collection/collections/" + type + ".json"
-    if type == "utda":
-        collection_uri = "https://nakamura196.github.io/portal_pro/data/collection.json"
-    collection["@id"] = collection_uri
-    collection["@type"] = "sc:Collection"
-    collection["label"] = map[type]
+    if os.path.exists(file):
+
+        collection = dict()
+        collections.append(collection)
+
+        collection_uri = "https://nakamura196.github.io/iiif/data/collection/collections/" + type + ".json"
+        if type == "utda":
+            collection_uri = "https://nakamura196.github.io/portal_pro/data/collection.json"
+        collection["@id"] = collection_uri
+        collection["@type"] = "sc:Collection"
+
+        label = map[type]
+    
+        with open(file, 'r') as f:
+            data = json.load(f)
+
+            label += " ("+str(len(data["manifests"])) + ")"
+    
+        collection["label"] = label
 
 fw = open(output_path, 'w')
 json.dump(universe, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))

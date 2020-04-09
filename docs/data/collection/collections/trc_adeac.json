@@ -1,0 +1,1464 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/trc_adeac.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和２２年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400025!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Temple treasures of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_034!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市水道拡張工事概要",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１６年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400019!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "川俣町勢要覧",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400018!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "現勢調査簿",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明治天皇　御巡幸誌抄",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山現勢　大正５年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The ABC of Japanese art",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_033!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "明治九年の郡山行幸に就きて",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400036!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　第六　明治２８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200011!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "元翁島御別邸パンフレット",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "新休石温泉　三森荘開館",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400017!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400045/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "財団法人福島縣社会福祉会組織要綱　昭和２５年９月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400045!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Pre-Meiji education in Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_026!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "逢瀬の観光",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "An Ainu-English-Japanese dictionary",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_012!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１２年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治３０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200015!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１７年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400020!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積郡桑野村事務報告書　明治２８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200018!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Imperial Japanese poems of the meiji era",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_027!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "冥々翁供養句集",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣之産業",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "A maker of new Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_009!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400048/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館あんない　橙",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400048!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治４３年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市立鳥類園パンフレット",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400013!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山事務報告書　明治４２年中",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣安積郡統計書大正３年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300016!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣学事年報　明治１５年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市安積郡勢要覧　昭和１０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400035!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The spirit of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_022!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告集　大正１０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣学事年報　明治２０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学３",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣学事一覧　大正３年９月編",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山事務報告書　明治３１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治４１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400044/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山音楽協会案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400044!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400050/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伸びゆく郡山　１９５８",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400050!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "健民主任活動のあらまし",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400023!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治３０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200021!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町統計一斑　大正６年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300013!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "校友会雑誌　第四十八巻",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治２８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200025!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "勿来町勢一班",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "決戦食生活實賎要項",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "白河關物譚　全",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館１０年の歩み",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400028!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "事務報告書　１９４９",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400026!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学７",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山みやげ",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400053/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館要覧　１９６３",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400053!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣学事年報　明治１７年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治２９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200016!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治３４年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200020!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Netherlands and Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_030!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "經國意見",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200015!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "事務報告書　昭和２３年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400028!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣學事一覧　大正３年九月編",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大日本婦人会指導運営方針　昭和２０年度",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和２１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400024!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高瀬村　村勢要覧　昭和２８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400016!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "沼尻高原鉄道　沿線案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400040!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開成山餘韻",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣近津郷土史",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学９",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400058/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "読書週間ポスター",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400058!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高野村諸規程",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400021!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館新築チラシ",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400012!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "菅野力夫ノート",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400027!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mountaineering and exploration in the Japanese Alps",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_023!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400032/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伸びゆく郡山",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400032!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治３３年中",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治４２年中",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣学事年報　明治１８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400047/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館あんない　緑",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400047!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The nightside of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_036!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400056/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "牛庭古墳之図面　昭和３６年７月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400056!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "河野磐州建碑記念",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学１０",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "石川案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400017!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Japanese wood engravings",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_011!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "校友会雑誌　第四十九巻",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町会会議細則",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "磐梯熱海温泉",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400024!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和３年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400013!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "路線案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400026!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Catalogue of the national treasures of paintings and sculptures in Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_028!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "湯本町勢要覧　昭和２５年度",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400014!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400042/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "商工都市「郡山」の今昔を語る",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400042!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400022!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学５",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積郡農家　年中行事",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200011!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400051/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山の歴史　第２回サービス講座テキスト",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400051!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治２９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200023!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "夫妻学級の在り方",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400019!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島懸近津郷土誌",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400016!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山野井村郷土史　巻之下",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山の歴史　郷土資料研究集",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400029!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正１１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "戰力增強婦人總蹶起運動實施要綱",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400024!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和７年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島懸教育概論",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200014!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積郡桑野村事務報告書　明治２７年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200017!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島懸学事年報　明治１６年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Chinese, Corean and Japanese potteries",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_006!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山誌　稿本",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400034!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　大正１５年ー昭和元年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "開成山大神宮記",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１４年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Kyoto Industrial Exhibition of 1895, held in celebration of the eleven hundredth anniversary of the city's existence",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_040!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "わたくしたちの郡山",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400030!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "土壌学肥科学　講義録全",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200012!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Japanese Kozuka and Kogai",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_016!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和２０年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400023!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "白河案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200013!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "采女物語",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町統計一覧原稿　明治４２年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200024!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和４年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400014!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学４",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島懸西白河郡白河町勢要覧　昭和１１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400013!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣安積郡統計書　大正４年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300015!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400025/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "工場設置の栞",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400025!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080100010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積町郷土資料　天明時代の笹川村（一七八一年－一七八八年）",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080100010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市統計一斑　大正１５年度",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300012!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "御霊櫃峠の観光と歴史",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400014!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市統計一斑　昭和２年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300014!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400031/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "絵とき守山町の教育予算",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400031!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和２年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400012!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正６年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学２",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400055/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "田村町のすがた",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400055!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "石城郡勢要覧　大正６年１０月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "山野井村郷土史　巻之上",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200007!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣青年讀本　巻三",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080200008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積郡誌抄全",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080200008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正１２年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣郷土讀本　第一輯",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400011!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The political development of Japan, 1867-1909",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_005!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山商工案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書明治３３年中",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200012!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "In Japanese hospitals during war-time",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_020!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市商工業繁榮策",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400018!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "First report of the association concordia of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_017!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積町郷土史資料旧笹川村荒屋敷前新池築立記録",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400038!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "沼尻高原鉄道",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400019!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "America to Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_029!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400026/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "田村郷土史要　昭和６年１１月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400026!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400029/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市下水道計画説明書",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400029!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣学事年報　明治１９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告集　昭和１３年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "浄土松公園案内",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400020!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "懸治要覧",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_024/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Myths & legends of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_024!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090100001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣農政年史",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090100001!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和６年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The master-singers of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_007!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090300003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大正１１．１０．３０　學制頒布記念帖",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090300003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山文学１１",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400020/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "久保田万太郎　久米正雄　互選句集",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400020!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Memorials of the Empire of Japon",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_010!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和１５年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400011!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "磐光パラダイス　磐梯熱海温泉",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400022!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治３４年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200014!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400052/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "ブックモビル”あさかの”",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400052!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Notes on ancient stone implements, &c., of Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_019!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治２３年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200022!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "A political history of Japan during the Meiji era, 1867-1912",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_004!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正５年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300002!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "市町村支部長会議提出事項　昭和１９年２月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Noyes collection of Japanese prints",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_001!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_039!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正７年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300004!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　大正８年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300005!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400046/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館　１９５８・９",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400046!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "On collecting Japanese colour-prints",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_035!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市事務報告書　昭和５年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400015!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "田村郷土史要　昭和６年１１月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400043!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　第七　明治２９年１月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200010!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　明治３１年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200013!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣安積郡統計書全　明治３５年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積郡桑野村事務報告書　明治２６年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200019!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090200016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "東巡録　坤",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090200016!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070300011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "福島縣安積郡通常郡会決議書　大正９年",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070300011!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400037/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山の姿",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400037!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/040400003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "岩泉風土記その一ノ六「岩江村の全貌」",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!040400003!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400049/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市図書館要覧　１９５９・１２",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400049!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400039/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "安積町郷土史資料　昭和３６年２月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400039!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070400027/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "事務報告書　１９５７",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070400027!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400057/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山市方面事業助成會並に授産所概要",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400057!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/2673055100/2673055100100010/K01_008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Japan",
+            "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/2673055100!2673055100100010!K01_008!0001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080300008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町公會堂本館建築工事仕樣書",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080300008!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "結婚斡旋委員のてびき",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400022!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "蛇骨地蔵尊記安積郡日和田町",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400041!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山町事務報告書　第四　明治２５年３月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200009!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/070200006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "郡山事務報告書　第五　明治２７年１月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!070200006!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/090400021/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大日本婦人會綱領解説",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!090400021!001.tif/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://trc-adeac.trc.co.jp/Html/IIIF/0720315100/0720315100200060/080400054/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仙臺鐵道局郡山工場　工場要覧　昭和９年１０月",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/deed.ja",
+            "thumbnail": "https://dcfs.trc-adeac.co.jp/digilib/Scaler/IIIF/0720315100!0720315100200060!080400054!001.tif/full/200,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

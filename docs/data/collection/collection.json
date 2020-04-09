@@ -4,129 +4,129 @@
     "@type": "sc:Collection",
     "collections": [
         {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ueda.json",
-            "@type": "sc:Collection",
-            "label": "上田市 Ueda City"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga.json",
-            "@type": "sc:Collection",
-            "label": "佐賀大学 Saga University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okinawa.json",
-            "@type": "sc:Collection",
-            "label": "沖縄県立大学 Okinawa Prefectural Library"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/codh.json",
-            "@type": "sc:Collection",
-            "label": "Center for Open Data in the Humanities"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okayama.json",
-            "@type": "sc:Collection",
-            "label": "岡山県立記録資料館 Okayama Prefectural Archives"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/chiba.json",
-            "@type": "sc:Collection",
-            "label": "千葉大学 Chiba University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyoto.json",
-            "@type": "sc:Collection",
-            "label": "京都大学 Kyoto University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ndl.json",
-            "@type": "sc:Collection",
-            "label": "国立国会図書館 National Diet Library"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nakano.json",
-            "@type": "sc:Collection",
-            "label": "中野区立図書館 Nakano City Library"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nijl.json",
-            "@type": "sc:Collection",
-            "label": "国文学研究資料館 National Institute of Japanese Literature"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/khirin.json",
-            "@type": "sc:Collection",
-            "label": "国立歴史民俗博物館 National Museum of Japanese History"
-        },
-        {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/north-china-railway.json",
             "@type": "sc:Collection",
-            "label": "Center for Open Data in the Humanities"
+            "label": "Center for Open Data in the Humanities (39775)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/u_ryukyus.json",
             "@type": "sc:Collection",
-            "label": "琉球大学 University of the Ryukyus"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kinki.json",
-            "@type": "sc:Collection",
-            "label": "近畿大学 Kindai University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/trc_adeac.json",
-            "@type": "sc:Collection",
-            "label": "TRC ADEAC"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/shimane.json",
-            "@type": "sc:Collection",
-            "label": "島根大学 Shimane University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kansai.json",
-            "@type": "sc:Collection",
-            "label": "関西大学 Kansai University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/portal_pro/data/collection.json",
-            "@type": "sc:Collection",
-            "label": "東京大学 The University of Tokyo"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/keio.json",
-            "@type": "sc:Collection",
-            "label": "慶應義塾大学 Keio University"
-        },
-        {
-            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/bungaku-report.json",
-            "@type": "sc:Collection",
-            "label": "文学通信 Bungaku Report"
+            "label": "琉球大学 University of the Ryukyus (194)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyushu.json",
             "@type": "sc:Collection",
-            "label": "九州大学 Kyushu University"
+            "label": "九州大学 Kyushu University (6019)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okayama.json",
+            "@type": "sc:Collection",
+            "label": "岡山県立記録資料館 Okayama Prefectural Archives (18)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kinki.json",
+            "@type": "sc:Collection",
+            "label": "近畿大学 Kindai University (497)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga_pref.json",
             "@type": "sc:Collection",
-            "label": "佐賀県立図書館 Saga Prefectural Library"
+            "label": "佐賀県立図書館 Saga Prefectural Library (2062)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ninjal.json",
             "@type": "sc:Collection",
-            "label": "国立国語研究所 National Institute for Japanese Language and Linguistics"
+            "label": "国立国語研究所 National Institute for Japanese Language and Linguistics (658)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/shimane.json",
+            "@type": "sc:Collection",
+            "label": "島根大学 Shimane University (2379)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/okinawa.json",
+            "@type": "sc:Collection",
+            "label": "沖縄県立大学 Okinawa Prefectural Library (1179)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nijl.json",
+            "@type": "sc:Collection",
+            "label": "国文学研究資料館 National Institute of Japanese Literature (101654)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/trc_adeac.json",
+            "@type": "sc:Collection",
+            "label": "TRC ADEAC (208)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/chiba.json",
+            "@type": "sc:Collection",
+            "label": "千葉大学 Chiba University (1702)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ndl.json",
+            "@type": "sc:Collection",
+            "label": "国立国会図書館 National Diet Library (73291)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nichibun.json",
             "@type": "sc:Collection",
-            "label": "国際日本文化研究センター International Research Center for Japanese Studies"
+            "label": "国際日本文化研究センター International Research Center for Japanese Studies (591)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ueda.json",
+            "@type": "sc:Collection",
+            "label": "上田市 Ueda City (978)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nakano.json",
+            "@type": "sc:Collection",
+            "label": "中野区立図書館 Nakano City Library (307)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/portal_pro/data/collection.json",
+            "@type": "sc:Collection",
+            "label": "東京大学 The University of Tokyo (0)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/bukkyo.json",
             "@type": "sc:Collection",
-            "label": "佛教大学 Bukkyo University"
+            "label": "佛教大学 Bukkyo University (641)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kansai.json",
+            "@type": "sc:Collection",
+            "label": "関西大学 Kansai University (4412)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/codh.json",
+            "@type": "sc:Collection",
+            "label": "Center for Open Data in the Humanities (1767)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/bungaku-report.json",
+            "@type": "sc:Collection",
+            "label": "文学通信 Bungaku Report (1)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/khirin.json",
+            "@type": "sc:Collection",
+            "label": "国立歴史民俗博物館 National Museum of Japanese History (31987)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/kyoto.json",
+            "@type": "sc:Collection",
+            "label": "京都大学 Kyoto University (17639)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/keio.json",
+            "@type": "sc:Collection",
+            "label": "慶應義塾大学 Keio University (4596)"
+        },
+        {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/saga.json",
+            "@type": "sc:Collection",
+            "label": "佐賀大学 Saga University (1213)"
         }
     ],
     "label": "IIIF Collections in Japan"
