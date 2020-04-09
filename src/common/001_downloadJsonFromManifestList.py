@@ -7,7 +7,8 @@ import argparse
 import sys
 import os
 import requests
-
+sys.path.append('../classes')
+import notify
 
 def parse_args(args=sys.argv[1:]):
     """ Get the parsed arguments specified on this script.
@@ -51,6 +52,9 @@ if __name__ == "__main__":
 
             if count % 20 == 0:
                 print(str(count) + "\t" + manifest)
+
+            if count % 500 == 0:
+                notify.Notify.send("dwn\t"+collection_name+"\t"+str(count), "../classes/env.yml")
 
             count += 1
 

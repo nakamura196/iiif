@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 from time import sleep
+import sys
+sys.path.append('../../classes')
+import notify
 
 # import ssl
 # ssl._create_default_https_context = ssl._create_unverified_context
@@ -50,6 +53,9 @@ def scrape_for_page(url):
 
                 print(manifest)
                 manifest_arr.append(manifest)
+
+                if len(manifest_arr) % 100 == 1:
+                    notify.Notify.send("kansai\t"+str(len(manifest_arr)))
 
     else:
         flg = False

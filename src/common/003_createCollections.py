@@ -1,30 +1,48 @@
 import json
 
 map = dict()
+map["bukkyo"] = "佛教大学 Bukkyo University"
+map["bungaku-report"] = "文学通信 Bungaku Report"
+map["chiba"] = "千葉大学 Chiba University"
 map["codh"] = "Center for Open Data in the Humanities"
-# map["koyasan"] = "高野山大学 Koyasan University"
-map["kyoto"] = "京都大学 Kyoto University"
-map["nakano"] = "中野区立図書館 Nakano City Library"
-map["nijl"] = "国文学研究資料館 National Institute of Japanese Literature"
-map["ninjal"] = "国立国語研究所 National Institute for Japanese Language and Linguistics"
-map["saga"] = "佐賀大学 Saga University"
-map["shimane"] = "島根大学 Shimane University"
-# map["toyo"] = "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
+
+map["kansai"] = "関西大学 Kansai University"
+map["keio"] = "慶應義塾大学 Keio University"
+
 map["khirin"] = "国立歴史民俗博物館 National Museum of Japanese History"
-map["ndl"] = "国立国会図書館 National Diet Library"
+
 map["kinki"] = "近畿大学 Kindai University"
-# map["keio"] = "慶應義塾大学 Keio University"
+# map["koyasan"] = "高野山大学 Koyasan University"
+
+map["kyoto"] = "京都大学 Kyoto University"
+
+map["kyushu"] = "九州大学 Kyushu University"
+
+map["nakano"] = "中野区立図書館 Nakano City Library"
+
+map["ndl"] = "国立国会図書館 National Diet Library"
+
+map["nichibun"] = "国際日本文化研究センター International Research Center for Japanese Studies"
+
+map["nijl"] = "国文学研究資料館 National Institute of Japanese Literature"
+
+map["ninjal"] = "国立国語研究所 National Institute for Japanese Language and Linguistics"
+
+
+map["north-china-railway"] = "Center for Open Data in the Humanities"
+
+map["okayama"] = "岡山県立記録資料館 Okayama Prefectural Archives"
+map["okinawa"] = "沖縄県立大学 Okinawa Prefectural Library"
+
+map["saga_pref"] = "佐賀県立図書館 Saga Prefectural Library"
+map["saga"] = "佐賀大学 Saga University"
+
+map["shimane"] = "島根大学 Shimane University"
+
+# map["toyo"] = "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
+
 map["utda"] = "東京大学 The University of Tokyo"
 map["ueda"] = "上田市 Ueda City"
-map["kyushu"] = "九州大学 Kyushu University"
-map["okayama"] = "岡山県立記録資料館 Okayama Prefectural Archives"
-map["chiba"] = "千葉大学 Chiba University"
-map["okinawa"] = "沖縄県立大学 Okinawa Prefectural Library"
-map["north-china-railway"] = "Center for Open Data in the Humanities"
-map["saga_pref"] = "佐賀県立図書館 Saga Prefectural Library"
-map["kansai"] = "関西大学 Kansai University"
-map["nichibun"] = "国際日本文化研究センター International Research Center for Japanese Studies"
-map["bungaku-report"] = "文学通信 Bungaku Report"
 
 universe = dict()
 universe["@context"] = "http://iiif.io/api/presentation/2/context.json"
