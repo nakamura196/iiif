@@ -38,6 +38,7 @@ map["saga_pref"] = "佐賀県立図書館 Saga Prefectural Library"
 map["saga"] = "佐賀大学 Saga University"
 
 map["shimane"] = "島根大学 Shimane University"
+map["trc_adeac"] = "TRC ADEAC"
 
 map["u_ryukyus"] = "琉球大学 University of the Ryukyus"
 

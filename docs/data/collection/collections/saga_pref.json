@@ -2986,13 +2986,6 @@
             "thumbnail": "https://www.sagalibdb.jp/iiif/iipsrv.fcgi?IIIF=/02000119/0001.tif/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://www.sagalibdb.jp/05000247/manifest",
-            "@type": "sc:Manifest",
-            "label": "",
-            "license": "https://www.sagalibdb.jp/info/",
-            "thumbnail": "https://www.sagalibdb.jp/iiif/iipsrv.fcgi?IIIF=/05000247/0001.tif/full/200,/0/default.jpg"
-        },
-        {
             "@id": "https://www.sagalibdb.jp/05000786/manifest",
             "@type": "sc:Manifest",
             "label": "城田村嘉納字二本松全図",
@@ -4790,13 +4783,6 @@
             "label": "佐賀県肥前国佐賀郡木原村之内字武藤全図",
             "license": "https://www.sagalibdb.jp/info/",
             "thumbnail": "https://www.sagalibdb.jp/iiif/iipsrv.fcgi?IIIF=/05000026/0001.tif/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://www.sagalibdb.jp/05000318/manifest",
-            "@type": "sc:Manifest",
-            "label": "",
-            "license": "https://www.sagalibdb.jp/info/",
-            "thumbnail": "https://www.sagalibdb.jp/iiif/iipsrv.fcgi?IIIF=/05000318/0001.tif/full/200,/0/default.jpg"
         },
         {
             "@id": "https://www.sagalibdb.jp/04000005/manifest",
@@ -10964,13 +10950,6 @@
             "label": "小々森之内字四本栁全図",
             "license": "https://www.sagalibdb.jp/info/",
             "thumbnail": "https://www.sagalibdb.jp/iiif/iipsrv.fcgi?IIIF=/05000448/0001.tif/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://www.sagalibdb.jp/05000246/manifest",
-            "@type": "sc:Manifest",
-            "label": "",
-            "license": "https://www.sagalibdb.jp/info/",
-            "thumbnail": "https://www.sagalibdb.jp/iiif/iipsrv.fcgi?IIIF=/05000246/0001.tif/full/200,/0/default.jpg"
         },
         {
             "@id": "https://www.sagalibdb.jp/05000865/manifest",

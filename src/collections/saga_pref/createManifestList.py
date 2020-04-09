@@ -2,59 +2,74 @@ import urllib.request
 from bs4 import BeautifulSoup
 import csv
 from time import sleep
-
+import requests
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
+manifest_arr = []
 
-def scrape_for_page(path):
+
+def scrape_for_page(base_url):
     flg = True
 
-    print("page\t" + url)
+    page = 1
 
-    # htmlをBeautifulSoupで扱う
-    soup = BeautifulSoup(open(path), "lxml")
+    while flg:
 
-    arr_a = soup.find_all("a")
+        sleep(1)
 
-    if len(arr_a) > 0:
-        for element_a in arr_a:
-            href = element_a.get("href")
-            tmp = href.split("iiifviewer/?uid=")
-            if len(tmp) > 1:
-                manifest = "https://www.sagalibdb.jp/"+tmp[1]+"/manifest"
-                if manifest not in manifest_arr:
-                    manifest_arr.append(manifest)
+        url = base_url + str(page)
 
-    else:
-        flg = False
+        print("page\t" + url)
 
-    return flg
+        page += 1
+
+        r = requests.get(url, verify=False)
+
+        # htmlをBeautifulSoupで扱う
+        soup = BeautifulSoup(r.text, "lxml")
+
+        arr_a = soup.find_all("a")
+
+        if len(arr_a) > 0:
+            tmp_flg = False
+            for element_a in arr_a:
+                href = element_a.get("href")
+                tmp = href.split("iiifviewer/?uid=")
+                if len(tmp) > 1:
+                    manifest = "https://www.sagalibdb.jp/"+tmp[1]+"/manifest"
+                    # print(manifest)
+                    tmp_flg = True
+                    if manifest not in manifest_arr:
+                        manifest_arr.append(manifest)
+
+            if not tmp_flg:
+                flg = False
+
+        else:
+            flg = False
 
 
-if __name__ == '__main__':
+output_path = "data/manifest_list.csv"
 
-    manifest_arr = []
+url_array = [
+    "https://www.sagalibdb.jp/kaiga/index.php?num=100&page=",
+    "https://www.sagalibdb.jp/azazu/index.php?num=100&page=",
+    "https://www.sagalibdb.jp/tikei/index.php?num=100&page=",
+    "https://www.sagalibdb.jp/kingendai/index.php?num=100&page=",
+    "https://www.sagalibdb.jp/ezu/index.php?num=100&page="
+]
 
-    output_path = "data/manifest_list.csv"
+for url in url_array:
 
-    url_array = [
-        "/Users/nakamura/git/iiif/src/collections/saga/data/azazu.html",
-        "/Users/nakamura/git/iiif/src/collections/saga/data/ezu.html",
-        "/Users/nakamura/git/iiif/src/collections/saga/data/kaiga.html",
-        "/Users/nakamura/git/iiif/src/collections/saga/data/kingendai.html",
-        "/Users/nakamura/git/iiif/src/collections/saga/data/tikei.html"]
+    scrape_for_page(url)
 
-    for url in url_array:
+f = open(output_path, 'w')
 
-        scrape_for_page(url)
+writer = csv.writer(f, lineterminator='\n')
+writer.writerow(["Manifest"])
 
-    f = open(output_path, 'w')
+for manifest in manifest_arr:
+    writer.writerow([manifest])
 
-    writer = csv.writer(f, lineterminator='\n')
-    writer.writerow(["Manifest"])
-
-    for manifest in manifest_arr:
-        writer.writerow([manifest])
-
-    f.close()
+f.close()
