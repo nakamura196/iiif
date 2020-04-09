@@ -4,34 +4,537 @@
     "@type": "sc:Collection",
     "manifests": [
         {
-            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210002/manifest.json",
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210005/manifest.json",
             "@type": "sc:Manifest",
-            "label": "三教指帰（光明院文庫・鎌倉後期版本）",
-            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+            "label": "即身成佛義（三宝院寄託・江戸前期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210005/0001.jp2/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110702/manifest.json",
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210037/manifest.json",
             "@type": "sc:Manifest",
-            "label": "三教指帰",
-            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+            "label": "最勝王経開題（宝城院文庫・室町後期写本・含 別本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210037/0001.jp2/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/281322/manifest.json",
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110409/manifest.json",
             "@type": "sc:Manifest",
-            "label": "胎蔵秘密略大軌",
-            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+            "label": "法華経釋",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110409/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "真言宗所学経律論目録（三宝院寄託・江戸末期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210006/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110406/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "実相般若経答釈",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110406/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110417/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大毘盧遮那成仏経疏文次第",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110417/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210034/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘蔵記（金剛三昧院寄託・写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210034/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/910002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『秘蔵寶鑰』の研究（第二分冊）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/910002/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110103/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘密漫荼羅教付法傳（広付法伝）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110103/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110302/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "即身成佛義",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110302/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "御請来目録（三宝院寄託・版本A）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210008/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110301/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "般若心経秘鍵",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110301/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/910001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『秘蔵寶鑰』の研究（第一分冊）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/910001/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/310003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "聲字實相義問題（増福院文庫・版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/310003/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110710/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "遺告真然大徳等",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110710/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110405/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "眞實經文句",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110405/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210030/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大悉曇章（金剛三昧院寄託・江戸中期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210030/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110701/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "聾瞽指帰",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110701/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110507/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘密三昧耶佛戒儀",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110507/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110502/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "太上天皇灌頂文",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110502/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110707/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "御手印縁起",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110707/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/910003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "『秘蔵寶鑰』の研究（第三分冊）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/910003/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "御請来目録（三宝院寄託・版本B）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210009/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210033/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大日経開題（金剛三昧院寄託・版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210033/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210041/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘密漫荼羅教付法傳（広付法伝）（三宝院寄託・江戸前期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210041/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210019/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "真言付法傳（略付法伝）（金剛三昧院寄託・版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210019/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210040/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "遺告真然大徳等（金剛三昧院寄託・写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210040/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "般若心経秘鍵 (三宝院寄託・写本・含 舎利議記)",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210011/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210035/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘蔵記（金剛三昧院寄託・鎌倉後期写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210035/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210022/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梵字悉曇字母并釋義（三宝院寄託・院政期写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210022/0001.jp2/full/200,/0/default.jpg"
         },
         {
             "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/281321/manifest.json",
             "@type": "sc:Manifest",
             "label": "胎蔵秘密略大軌",
-            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/281321/001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110708/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "太政官符案幷遺告",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110708/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110709/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "御遺告",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110709/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "眞實經文句（三宝院寄託・版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210016/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110404/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "理趣経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110404/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210023/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三教指帰（金剛三昧院寄託・鎌倉中期写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210023/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/281322/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "胎蔵秘密略大軌",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/281322/00001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/310014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "吽字義釋勘注抄（金剛三昧院寄託・鎌倉後期写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/310014/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110305/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "辯顯密二敎論",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110305/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110504/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "念持真言理觀啓白文",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110504/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "真言宗所学経律論目録（三宝院寄託・江戸中期写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210007/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110105/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘密曼荼羅大阿闍梨耶付法傳",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110105/0001.jp2/full/200,/0/default.jpg"
         },
         {
             "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210001/manifest.json",
             "@type": "sc:Manifest",
             "label": "三教指帰（光明院文庫・鎌倉初期写本）",
-            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210001/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110415/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "一切経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110415/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/310001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "聲字實相義開秘鈔（増福院文庫・版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/310001/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110412/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "最勝王経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110412/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110506/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "秘蔵記",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110506/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110413/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金勝王経秘密伽他",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110413/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110411/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梵網經開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110411/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110414/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛般若波羅蜜経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110414/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110401/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大日経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110401/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110410/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "法華経密号",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110410/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110416/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "釈論指事",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110416/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110402/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "金剛頂経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110402/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/580003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "髙野山靈蹟繪葉書",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/580003/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210017/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "眞實經文句（金剛三昧院寄託・版本・含 三昧耶戒序 & 秘密三昧耶佛戒儀 & 太上天皇灌頂文）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210017/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/580001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高野山名所繪はがき（高野山開創一千百年祭登山記念）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/580001/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210036/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "辯顯密二敎論（増福院文庫・大正時代版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210036/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110407/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "仁王経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110407/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210038/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "念持真言理觀啓白文（千光寺寄託・写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210038/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110711/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "遺告諸弟子等",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110711/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110505/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梵字悉曇字母并釋義",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110505/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三昧耶戒序（光明院文庫・写本・含 秘密三昧耶仏戒儀）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210010/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110101/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "御請来目録",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110101/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110501/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三昧耶戒序",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110501/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三教指帰（光明院文庫・鎌倉後期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210002/0000.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梵網經開題（三宝院寄託・鎌倉後期版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210013/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210028/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "吽字義（増福院文庫・版本A）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210028/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110104/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "真言付法傳（略付法伝）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110104/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210018/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大毘盧遮那成仏経疏文次第（金剛三昧院寄託・版本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210018/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梵字悉曇字母并釋義（三宝院寄託・江戸前期版本・含 一行禅師字母表＆字母離分）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210012/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/210043/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "太政官符案幷遺告",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/210043/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110403/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "教王経開題",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110403/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/310004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "聲字實相義問題（増福院文庫・写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/310004/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/110102/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "真言宗所学経律論目録",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/110102/0001.jp2/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.koyasan-u.ac.jp/iiif/resource/310015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "吽字義問題（増福院文庫・写本）",
+            "license": "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+            "thumbnail": "https://archives.koyasan-u.ac.jp/iiifimage/resource/310015/0001.jp2/full/200,/0/default.jpg"
         }
-    ]
+    ],
+    "vhint": "use-thumb"
 }

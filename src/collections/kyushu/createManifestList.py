@@ -53,10 +53,10 @@ if __name__ == '__main__':
 
     manifest_arr = []
 
-    output_path = "data/manifest_list_book.csv"
+    output_path = "data/manifest_list.csv"
 
     url_array = [
-        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=22&opkey=B154816732437637&cmode=0&place=&list_sort=0&list_disp=500&start="]
+        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=22&opkey=B158641765030518&cmode=0&place=&list_sort=0&list_disp=500&start="]
 
     for base_url in url_array:
 

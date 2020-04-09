@@ -33,4 +33,6 @@ if __name__ == '__main__':
     for manifest in manifest_arr:
         writer.writerow([manifest])
 
+    print(len(manifest_arr))
+
     f.close()

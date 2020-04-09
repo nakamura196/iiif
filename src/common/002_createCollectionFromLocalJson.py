@@ -60,8 +60,8 @@ if __name__ == "__main__":
                     if "license" in data:
                         manifest_obj["license"] = data["license"]
                     else:
-                        print(manifest)
-                        continue
+                        print(manifest+"\t"+"No license")
+                        # continue
 
                     canvas = data["sequences"][0]["canvases"][0]
                     resource = canvas["images"][0]["resource"]
@@ -89,7 +89,8 @@ if __name__ == "__main__":
 
                     license_check[license] += 1
 
-            except:
+            except Exception as e:
+                print(e)
                 continue
 
     collection = dict()

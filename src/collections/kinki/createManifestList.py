@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     while flg:
 
-        url = "https://kda.clib.kindai.ac.jp/rarematerials/search?page=" + str(page)
+        url = "https://kda.clib.kindai.ac.jp/rarematerials/search?sf=title_a&rows=30&vt=&page=" + str(page)
 
         print("page\t" + url)
 
@@ -47,5 +47,7 @@ if __name__ == '__main__':
 
     for manifest in manifest_arr:
         writer.writerow([manifest])
+
+    print(len(manifest_arr))
 
     f.close()
