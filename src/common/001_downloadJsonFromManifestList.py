@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
                     sleep(0.5)
 
-                    r = requests.get(manifest)
+                    r = requests.get(manifest, verify=False)
                     data = r.json()
 
                     # print(data)
