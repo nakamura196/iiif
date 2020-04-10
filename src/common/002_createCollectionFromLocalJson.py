@@ -1,8 +1,12 @@
+import sys
+sys.path.append('../classes')
+from common import Common
 import json
 import argparse
-import sys
+
 import glob
 import yaml
+
 
 def parse_args(args=sys.argv[1:]):
     """ Get the parsed arguments specified on this script.
@@ -49,37 +53,15 @@ for i in range(len(files)):
 
             if "@type" in data and data["@type"] == "sc:Manifest":
 
-                ##### 画像がない場合はスキップ
+                # 画像がない場合はスキップ
 
                 ##################
 
                 if "thumbnail" not in data:
 
-                    sequences = data["sequences"]
+                    thumbnail = Common.getThubmnail(data)
 
-                    if len(sequences) == 0:
-                        continue
-
-                    sequence = sequences[0]
-
-                    if "canvases" not in sequence:
-                        continue
-
-                    canvases = sequences[0]["canvases"]
-
-                    if len(canvases) == 0:
-                        continue
-
-                    canvas = canvases[0]
-                    resource = canvas["images"][0]["resource"]
-                    thumbnail = ""
-                    if "service" in resource:
-                        thumbnail = resource["service"]["@id"] + \
-                                                "/full/200,/0/default.jpg"
-                    else:
-                        thumbnail = canvas["thumbnail"]["@id"]
-
-                    if thumbnail != "":
+                    if thumbnail != None:
                         data["thumbnail"] = thumbnail
 
                 ##################
@@ -88,7 +70,6 @@ for i in range(len(files)):
 
                 if "license" in data:
                     license = data["license"].strip()
-
 
                 ##################
 
@@ -104,7 +85,7 @@ for i in range(len(files)):
                 manifest = data["@id"]
 
                 manifest_obj = dict()
-                
+
                 manifest_obj["@id"] = manifest
                 manifest_obj["@type"] = "sc:Manifest"
                 manifest_obj["label"] = label
@@ -131,13 +112,15 @@ for i in range(len(files)):
 
 collection = dict()
 collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
-collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + collection_name + ".json"
+collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + \
+    collection_name + ".json"
 collection["@type"] = "sc:Collection"
 collection["vhint"] = "use-thumb"
 collection["manifests"] = manifests
 
 fw = open(output_path, 'w')
-json.dump(collection, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+json.dump(collection, fw, ensure_ascii=False, indent=4,
+          sort_keys=True, separators=(',', ': '))
 
 for license in license_check:
     print(license+"\t"+str(license_check[license]))

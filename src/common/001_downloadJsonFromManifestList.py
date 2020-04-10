@@ -1,15 +1,18 @@
-import urllib.request
-import csv
-import json
-from time import sleep
-from hashlib import md5
-import argparse
-import sys
-import os
 import requests
-sys.path.append('../classes')
-import notify
+import os
+import argparse
+from time import sleep
+import json
+import csv
+import urllib.request
+
 import yaml
+import sys
+sys.path.append('../classes')
+
+from notify import Notify
+from common import Common
+
 
 def parse_args(args=sys.argv[1:]):
     """ Get the parsed arguments specified on this script.
@@ -23,10 +26,6 @@ def parse_args(args=sys.argv[1:]):
         help='collection_name')
 
     return parser.parse_args(args)
-
-
-def make_md5(s, encoding='utf-8'):
-    return md5(s.encode(encoding)).hexdigest()
 
 
 if __name__ == "__main__":
@@ -59,26 +58,19 @@ if __name__ == "__main__":
                 print(str(count) + "\t" + manifest)
 
             if count % 500 == 0:
-                notify.Notify.send("dwn\t"+collection_name+"\t"+str(count), env_path)
+                Notify.send("dwn\t"+collection_name+"\t"+str(count), env_path)
 
             count += 1
 
-            output_path = output_dir + "/" + make_md5(manifest) + ".json"
+            output_path = output_dir + "/" + Common.getId(manifest) + ".json"
 
             if not os.path.exists(output_path):
 
+                sleep(0.5)
+
                 try:
 
-                    sleep(0.5)
-
-                    r = requests.get(manifest, verify=False)
-                    data = r.json()
-
-                    # print(data)
-
-                    with open(output_path, 'w') as outfile:
-                        json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True,
-                                    separators=(',', ': '))
+                    Common.download(manifest, output_path)
 
                 except Exception as e:
                     print(manifest)

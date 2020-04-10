@@ -6,10 +6,9 @@ import argparse
 import sys
 import os
 import yaml
-
-def make_md5(s, encoding='utf-8'):
-    return md5(s.encode(encoding)).hexdigest()
-
+sys.path.append('../classes')
+import notify
+from common import Common
 
 if __name__ == "__main__":
     env_path = "../../.env.yml"
@@ -38,31 +37,22 @@ if __name__ == "__main__":
 
                     manifest = e["@id"]
 
-                    output_path = output_dir + "/" + make_md5(manifest) + ".json"
+                    output_path = output_dir + "/" + Common.getId(manifest) + ".json"
 
                     if not os.path.exists(output_path):
 
                         if count % 100 == 0:
                             print(str(count) + "\t" + manifest)
+                            notify.Notify.send("dwn from collections\t"+str(count), env_path)
 
                         count += 1
 
+                        sleep(0.5)
+
+                            
                         try:
 
-                            sleep(1)
+                            Common.download(manifest, output_path)
 
-                            r = urllib.request.urlopen(manifest)
-
-                            # json_loads() でPythonオブジェクトに変換
-                            try:
-                                data = json.loads(r.read().decode('utf_8'))
-
-                                with open(output_path, 'w') as outfile:
-                                    json.dump(data, outfile, ensure_ascii=False, indent=4, sort_keys=True,
-                                            separators=(',', ': '))
-
-                            except Exception as e:
-                                print(manifest+"\t"+str(e))
-
-                        except urllib.error.URLError as e:
-                            print(e.reason + "\t" + manifest)
+                        except Exception as e:
+                            print(manifest+"\t"+str(e))
