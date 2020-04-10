@@ -5,5 +5,5 @@ json/
 src/collections/okinawa/data/html/
 src/omeka/data/
 curation/
-env.yml
+.env.yml
 __pycache__

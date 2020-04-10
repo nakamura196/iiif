@@ -70,8 +70,6 @@ for type in map:
         collections.append(collection)
 
         collection_uri = "https://nakamura196.github.io/iiif/data/collection/collections/" + type + ".json"
-        if type == "utda":
-            collection_uri = "https://nakamura196.github.io/portal_pro/data/collection.json"
         collection["@id"] = collection_uri
         collection["@type"] = "sc:Collection"
 
