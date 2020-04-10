@@ -65,7 +65,7 @@ if __name__ == '__main__':
         page = 1
 
         while loop_flg:
-            print("page\t"+page)
+            print("page\t"+str(page))
             url = base_url + str(500 * (page - 1) + 1)
 
             loop_flg = scrape_for_page(url)
