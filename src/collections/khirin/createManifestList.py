@@ -3,8 +3,6 @@ import requests
 import pandas as pd
 import csv
 
-# ---------------------
-
 df_size = pd.read_csv("data/json_list.csv", header=0)
 manifest_arr = []
 for i in range(len(df_size.index)):

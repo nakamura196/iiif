@@ -7,7 +7,7 @@ class Notify:
     def send(self, message, path):
 
         with open(path) as file:
-            yml = yaml.load(file)
+            yml = yaml.load(file, Loader=yaml.SafeLoader)
 
         url = "https://notify-api.line.me/api/notify"
         token = yml["token"]
