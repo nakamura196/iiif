@@ -18,15 +18,16 @@ checks = [
     "http://kotenseki.nijl.ac.jp/page/usage.html",
     "http://rightsstatements.org/vocab/InC/1.0/",
     '<a href="http://dcollections.lib.keio.ac.jp/ja/about" target="_blank">http://dcollections.lib.keio.ac.jp/ja/about</a>',
-
+    "佛教大学図書館<br/>Bukkyo University Library",
+    "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
 ]
 
 for i in range(len(files)):
     file = files[i]
 
-    if i % 1000 == 0:
-
-        print(str(i+1)+"/" + str(len(files)))
+    if i % 10000 == 0:
+        print("----------------")
+        print("******\t"+str(i+1)+"/" + str(len(files)))
 
     with open(file) as f:
         data = json.load(f)
@@ -36,7 +37,7 @@ for i in range(len(files)):
             license = ""
 
             if "license" in data:
-                license = data["license"]
+                license = data["license"].strip()
 
 
             ##################
@@ -46,6 +47,11 @@ for i in range(len(files)):
                 sequences = data["sequences"]
 
                 if len(sequences) == 0:
+                    continue
+
+                sequence = sequences[0]
+
+                if "canvases" not in sequence:
                     continue
 
                 canvases = sequences[0]["canvases"]
@@ -68,7 +74,8 @@ for i in range(len(files)):
             ##################
 
             if license not in license_check:
-                print(license+"\t"+data["@id"])
+                print("----------------")
+                print("'"+license+"'\t"+data["@id"])
                 license_check[license] = 0
 
             license_check[license] += 1
@@ -93,6 +100,8 @@ json.dump(collection, fw, ensure_ascii=False,
           sort_keys=True, separators=(',', ':'))
 
 for license in license_check:
+    print("----------------")
     print(license+"\t"+str(license_check[license]))
 
+print("----------------")
 print("manifest size:\t"+str(len(manifests)))

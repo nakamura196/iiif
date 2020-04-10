@@ -7,7 +7,7 @@ from time import sleep
 def scrape_for_page(url):
     flg = True
 
-    print("page\t" + url)
+    # print("page\t" + url)
 
     sleep(1)
 
@@ -20,10 +20,10 @@ def scrape_for_page(url):
 
     if len(arr_a) > 0:
         for element_a in arr_a:
-            link = "https://catalog.lib.kyushu-u.ac.jp" + element_a.find("a").get("href")
+            link = "https://catalog.lib.kyushu-u.ac.jp" + \
+                element_a.find("a").get("href")
 
             scrape_for_item(link)
-
 
 
     else:
@@ -33,7 +33,7 @@ def scrape_for_page(url):
 
 
 def scrape_for_item(url):
-    print("item\t" + url)
+    # print("item\t" + url)
 
     sleep(1)
 
@@ -56,7 +56,8 @@ if __name__ == '__main__':
     output_path = "data/manifest_list.csv"
 
     url_array = [
-        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=22&opkey=B158641765030518&cmode=0&place=&list_sort=0&list_disp=500&start="]
+        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=9&opkey=B158648071579803&cmode=0&place=&list_disp=500&list_sort=6&cmode=0&chk_st=0&start=",
+        "https://catalog.lib.kyushu-u.ac.jp/opac_search/?lang=0&amode=9&opkey=B158648096550566&cmode=0&place=&list_disp=500&list_sort=6&cmode=0&chk_st=0&start="]
 
     for base_url in url_array:
 
@@ -64,6 +65,7 @@ if __name__ == '__main__':
         page = 1
 
         while loop_flg:
+            print("page\t"+page)
             url = base_url + str(500 * (page - 1) + 1)
 
             loop_flg = scrape_for_page(url)
