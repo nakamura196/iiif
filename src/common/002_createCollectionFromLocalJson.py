@@ -24,7 +24,7 @@ def parse_args(args=sys.argv[1:]):
 
 env_path = "../../.env.yml"
 with open(env_path) as file:
-    yml = yaml.load(file)
+    yml = yaml.load(file, Loader=yaml.SafeLoader)
 
 args = parse_args()
 

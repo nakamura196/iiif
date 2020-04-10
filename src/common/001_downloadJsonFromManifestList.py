@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
     env_path = "../../.env.yml"
     with open(env_path) as file:
-        yml = yaml.load(file)
+        yml = yaml.load(file, Loader=yaml.SafeLoader)
 
     collection_name = args.collection_name
 
