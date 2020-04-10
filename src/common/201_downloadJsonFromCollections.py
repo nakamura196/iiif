@@ -30,7 +30,12 @@ if __name__ == "__main__":
 
             os.makedirs(output_dir, exist_ok=True)
 
-            with open("../../docs/data/collection/collections/"+collection_name+".json") as f:
+            path = "../../docs/data/collection/collections/"+collection_name+".json"
+
+            if not os.path.exists(path):
+                continue
+
+            with open(path) as f:
                 df = json.load(f)
 
                 for e in df["manifests"]:
