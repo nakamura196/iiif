@@ -39,7 +39,6 @@ for i in range(len(files)):
             if "license" in data:
                 license = data["license"].strip()
 
-
             ##################
 
             if "thumbnail" not in data:
@@ -64,7 +63,7 @@ for i in range(len(files)):
                 thumbnail = ""
                 if "service" in resource:
                     thumbnail = resource["service"]["@id"] + \
-                                            "/full/200,/0/default.jpg"
+                        "/full/200,/0/default.jpg"
                 else:
                     thumbnail = canvas["thumbnail"]["@id"]
 
@@ -97,6 +96,7 @@ collection["manifests"] = manifests
 
 fw = open(yml["json_dir"] + "/iiif/cj.json", 'w')
 json.dump(collection, fw, ensure_ascii=False,
+          indent=4,
           sort_keys=True, separators=(',', ':'))
 
 for license in license_check:

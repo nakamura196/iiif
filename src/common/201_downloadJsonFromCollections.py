@@ -25,7 +25,7 @@ if __name__ == "__main__":
         collections = df["collections"]
         for collection in collections:
             collection_name = collection["@id"].split("/")[-1].split(".")[0]
-
+            print(collection_name)
 
             output_dir = yml["json_dir"] + "/iiif/collections/" + collection_name
 

@@ -2,7 +2,7 @@ import json
 import argparse
 import sys
 import glob
-
+import yaml
 
 def parse_args(args=sys.argv[1:]):
     """ Get the parsed arguments specified on this script.
@@ -18,56 +18,59 @@ def parse_args(args=sys.argv[1:]):
     return parser.parse_args(args)
 
 
-if __name__ == "__main__":
-    args = parse_args()
+env_path = "../../.env.yml"
+with open(env_path) as file:
+    yml = yaml.load(file)
 
-    collection_name = args.collection_name
+args = parse_args()
 
-    input_dir = "/Users/nakamura/git/json/iiif/collections/" + collection_name
+collection_name = args.collection_name
 
-    output_path = "../../docs/data/collection/collections/" + collection_name + ".json"
+input_dir = yml["json_dir"] + "/iiif/collections/" + collection_name
 
-    files = glob.glob(input_dir + "/*.json")
+output_path = "../../docs/data/collection/collections/" + collection_name + ".json"
 
-    manifests = []
+files = glob.glob(input_dir + "/*.json")
 
-    license_check = {}
+manifests = []
 
-    for i in range(len(files)):
+license_check = {}
 
-        file = files[i]
+for i in range(len(files)):
 
-        if i % 100 == 0:
-            print(str(i+1)+"\t"+str(len(files)))
+    file = files[i]
 
-        with open(file, 'r') as f:
-            try:
-                data = json.load(f)
+    if i % 100 == 0:
+        print(str(i+1)+"\t"+str(len(files)))
 
-                if "@type" in data and data["@type"] == "sc:Manifest":
+    with open(file, 'r') as f:
+        try:
+            data = json.load(f)
 
-                    manifest = data["@id"]
+            if "@type" in data and data["@type"] == "sc:Manifest":
 
-                    label = ""
-                    if "label" in data:
-                        if "@value" in data["label"][0]:
-                            label = data["label"][0]["@value"]
-                        else:
-                            label = data["label"]
-                    
+                ##### 画像がない場合はスキップ
 
-                    manifest_obj = dict()
-                    
-                    manifest_obj["@id"] = manifest
-                    manifest_obj["@type"] = "sc:Manifest"
-                    manifest_obj["label"] = label
-                    if "license" in data:
-                        manifest_obj["license"] = data["license"]
-                    else:
-                        print(manifest+"\t"+"No license")
-                        # continue
+                ##################
 
-                    canvas = data["sequences"][0]["canvases"][0]
+                if "thumbnail" not in data:
+
+                    sequences = data["sequences"]
+
+                    if len(sequences) == 0:
+                        continue
+
+                    sequence = sequences[0]
+
+                    if "canvases" not in sequence:
+                        continue
+
+                    canvases = sequences[0]["canvases"]
+
+                    if len(canvases) == 0:
+                        continue
+
+                    canvas = canvases[0]
                     resource = canvas["images"][0]["resource"]
                     thumbnail = ""
                     if "service" in resource:
@@ -77,37 +80,66 @@ if __name__ == "__main__":
                         thumbnail = canvas["thumbnail"]["@id"]
 
                     if thumbnail != "":
-                        manifest_obj["thumbnail"] = thumbnail
+                        data["thumbnail"] = thumbnail
 
-                    manifests.append(manifest_obj)
+                ##################
 
-                    license = data["license"]
+                license = ""
 
+                if "license" in data:
+                    license = data["license"].strip()
+
+
+                ##################
+
+                label = ""
+                if "label" in data:
+                    if "@value" in data["label"][0]:
+                        label = data["label"][0]["@value"]
+                    else:
+                        label = data["label"]
+
+                ##################
+
+                manifest = data["@id"]
+
+                manifest_obj = dict()
+                
+                manifest_obj["@id"] = manifest
+                manifest_obj["@type"] = "sc:Manifest"
+                manifest_obj["label"] = label
+
+                if license != "":
                     manifest_obj["license"] = license
 
-                    if license != "http://kotenseki.nijl.ac.jp/page/usage.html":
-                        flg = True
+                manifest_obj["thumbnail"] = data["thumbnail"]
 
-                    if license not in license_check:
-                        license_check[license] = 0
+                manifests.append(manifest_obj)
 
-                    license_check[license] += 1
+                ##################
 
-            except Exception as e:
-                print(e)
-                continue
+                if license not in license_check:
+                    print("----------------")
+                    print("'"+license+"'\t"+data["@id"])
+                    license_check[license] = 0
 
-    collection = dict()
-    collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
-    collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + collection_name + ".json"
-    collection["@type"] = "sc:Collection"
-    collection["vhint"] = "use-thumb"
-    collection["manifests"] = manifests
+                license_check[license] += 1
 
-    fw = open(output_path, 'w')
-    json.dump(collection, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+        except Exception as e:
+            print(e)
+            continue
 
-    for license in license_check:
-        print(license+"\t"+str(license_check[license]))
+collection = dict()
+collection["@context"] = "http://iiif.io/api/presentation/2/context.json"
+collection["@id"] = "https://nakamura196.github.io/iiif/data/collection/collections/" + collection_name + ".json"
+collection["@type"] = "sc:Collection"
+collection["vhint"] = "use-thumb"
+collection["manifests"] = manifests
 
-    print("manifest size:\t"+str(len(manifests)))
+fw = open(output_path, 'w')
+json.dump(collection, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))
+
+for license in license_check:
+    print(license+"\t"+str(license_check[license]))
+
+print("manifest size:\t"+str(len(manifests)))
