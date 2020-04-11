@@ -10,9 +10,11 @@ for i in range(len(df_size.index)):
         print(str(i+1) + "/" + str(len(df_size.index)))
     uri = df_size.iloc[i, 0]
     data = requests.get(uri).json()
-    if "relation" in data:
-        manifest = data["relation"]
-        manifest_arr.append(manifest)
+    for key in data:
+        value = data[key]
+        if "mirador" in value:
+            manifest = value.split("=")[1]
+            manifest_arr.append(manifest)
 
 output_path = "data/manifest_list.csv"
 
