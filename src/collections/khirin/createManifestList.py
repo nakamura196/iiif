@@ -13,7 +13,7 @@ for i in range(len(df_size.index)):
     for key in data:
         value = data[key]
         if "mirador" in value:
-            manifest = value.split("=")[1]
+            manifest = value.split("=")[1].split("&")[0]
             manifest_arr.append(manifest)
 
 output_path = "data/manifest_list.csv"
