@@ -10,7 +10,7 @@ urllib3.disable_warnings(InsecureRequestWarning)
 class Common:
     @classmethod
     def getId(self, manifest_uri):
-
+        
         # スキーマの除去
         manifest_uri = manifest_uri.split("://")[1]
 

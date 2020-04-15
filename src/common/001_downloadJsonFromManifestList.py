@@ -61,8 +61,10 @@ if __name__ == "__main__":
                 Notify.send("dwn\t"+collection_name+"\t"+str(count), env_path)
 
             count += 1
-
-            output_path = output_dir + "/" + Common.getId(manifest) + ".json"
+            try:
+                output_path = output_dir + "/" + Common.getId(manifest) + ".json"
+            except Exception as e:
+                print(e)
 
             if not os.path.exists(output_path):
 
