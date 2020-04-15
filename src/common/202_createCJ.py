@@ -20,7 +20,10 @@ checks = [
     "http://rightsstatements.org/vocab/InC/1.0/",
     '<a href="http://dcollections.lib.keio.ac.jp/ja/about" target="_blank">http://dcollections.lib.keio.ac.jp/ja/about</a>',
     "佛教大学図書館<br/>Bukkyo University Library",
-    "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html"
+    "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
+    "https://da.lib.shimane-u.ac.jp/static/license/SUL-Limited-NoC_license.html",
+    "https://museum.umic.jp/iiif/license.html",
+    "https://dl.ndl.go.jp/ja/iiif_license.html"
 ]
 
 for i in range(len(files)):
