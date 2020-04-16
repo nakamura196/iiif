@@ -23,7 +23,10 @@ checks = [
     "https://archives.koyasan-u.ac.jp/resource/license/license_ja.html",
     "https://da.lib.shimane-u.ac.jp/static/license/SUL-Limited-NoC_license.html",
     "https://museum.umic.jp/iiif/license.html",
-    "https://dl.ndl.go.jp/ja/iiif_license.html"
+    "https://dl.ndl.go.jp/ja/iiif_license.html",
+    "https://bird.bukkyo-u.ac.jp/collections/ojoyoshugikikanei18nen",
+    "http://www.lib.u-ryukyu.ac.jp/?p=10647",
+    "以下URLを参照。https://archive.nakano-library.jp/horiekemonjo-howto/"
 ]
 
 for i in range(len(files)):
@@ -34,6 +37,10 @@ for i in range(len(files)):
         print("******\t"+str(i+1)+"/" + str(len(files)))
 
     with open(file) as f:
+
+        if "/ndl/" in file:
+            continue
+
         data = json.load(f)
 
         if "@type" in data and data["@type"] == "sc:Manifest":
