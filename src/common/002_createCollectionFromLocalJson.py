@@ -3,9 +3,10 @@ sys.path.append('../classes')
 from common import Common
 import json
 import argparse
-
+import os
 import glob
 import yaml
+import pandas as pd
 
 
 def parse_args(args=sys.argv[1:]):
@@ -34,18 +35,27 @@ input_dir = yml["json_dir"] + "/iiif/collections/" + collection_name
 
 output_path = "../../docs/data/collection/collections/" + collection_name + ".json"
 
-files = glob.glob(input_dir + "/*.json")
+list_path = "../collections/" + collection_name + "/data/manifest_list.csv"
 
 manifests = []
 
 license_check = {}
 
-for i in range(len(files)):
+df = pd.read_csv(list_path)
 
-    file = files[i]
+for i in range(len(df.index)):
 
     if i % 100 == 0:
-        print(str(i+1)+"\t"+str(len(files)))
+        print(str(i+1)+"\t"+str(len(df.index)))
+
+    manifest = df.iloc[i, 0]
+
+    uuid = Common.getId(manifest)
+
+    file = input_dir + "/" + uuid + ".json"
+
+    if not os.path.exists(file):
+        continue
 
     with open(file, 'r') as f:
         try:
