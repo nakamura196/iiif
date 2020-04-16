@@ -4,130 +4,112 @@
     "@type": "sc:Collection",
     "manifests": [
         {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_022",
-            "@type": "sc:Manifest",
-            "label": "空撮写真　瀬戸大橋",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_022.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_023",
-            "@type": "sc:Manifest",
-            "label": "空撮写真　瀬戸大橋ブリッジウォーク",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_023.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_041",
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_041.json",
             "@type": "sc:Manifest",
             "label": "久米郡稲岡南村誕生寺耕地整理組合確定図（第一区）",
-            "license": "",
             "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_041.tiff/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_028",
-            "@type": "sc:Manifest",
-            "label": "改正岡山市明細地図附接近郡村地図（明治31年）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_028.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_030",
-            "@type": "sc:Manifest",
-            "label": "〔讃岐国直島領と備前国児島郡胸上村漁場相論之事立会絵図（元禄2年6月）〕",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_030_1.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_037",
-            "@type": "sc:Manifest",
-            "label": "岡山県児島郡地図（大正11年）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_037-1.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_034",
-            "@type": "sc:Manifest",
-            "label": "岡山県管内雨量図1(明治26年10月10日～15日累計)",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_034.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_033",
-            "@type": "sc:Manifest",
-            "label": "岡山県岡山市水害見取図（明治26年10月）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_033.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_035",
-            "@type": "sc:Manifest",
-            "label": "岡山県管内雨量図2（明治26年10月10日～16日累計）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_035.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_031",
-            "@type": "sc:Manifest",
-            "label": "岡山県管下備前国旭川絵図（従京橋至原村）（明治7年10月）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_031_1.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_039",
-            "@type": "sc:Manifest",
-            "label": "笠岡市街略図　附商工業家案内（大正12年）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_039_1.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_026",
-            "@type": "sc:Manifest",
-            "label": "〔美作国絵図〕",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_026.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_032",
-            "@type": "sc:Manifest",
-            "label": "岡山県管下備前国旭川絵図(従京橋至沖新田三番端)（明治7年10月）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_032_1.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_027",
-            "@type": "sc:Manifest",
-            "label": "岡山市及附近明細図（大正10年）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_027.tiff/full/200,/0/default.jpg"
-        },
-        {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_040",
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_040.json",
             "@type": "sc:Manifest",
             "label": "岡山県鳥瞰図（昭和5年）",
-            "license": "",
             "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_040.tiff/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_024",
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_039.json",
             "@type": "sc:Manifest",
-            "label": "岡山県管内図（明治12年）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_024.tiff/full/200,/0/default.jpg"
+            "label": "笠岡市街略図　附商工業家案内（大正12年）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_039_1.tiff/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_036",
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_037.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県児島郡地図（大正11年）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_037-1.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_038.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県市町村制区域三国全図（明治22年）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_038.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_036.json",
             "@type": "sc:Manifest",
             "label": "美作国勝山藩領奧山中絵図",
-            "license": "",
             "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_036-1.tiff/full/200,/0/default.jpg"
         },
         {
-            "@id": "https://archives.pref.okayama.jp/iiif/manifest/TIFF_038",
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_023.json",
             "@type": "sc:Manifest",
-            "label": "岡山県市町村制区域三国全図（明治22年）",
-            "license": "",
-            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_038.tiff/full/200,/0/default.jpg"
+            "label": "空撮写真　瀬戸大橋ブリッジウォーク",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_023.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_022.json",
+            "@type": "sc:Manifest",
+            "label": "空撮写真　瀬戸大橋",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_022.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_024.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県管内図（明治12年）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_024.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_026.json",
+            "@type": "sc:Manifest",
+            "label": "〔美作国絵図〕",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_026.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_027.json",
+            "@type": "sc:Manifest",
+            "label": "岡山市及附近明細図（大正10年）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_027.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_028.json",
+            "@type": "sc:Manifest",
+            "label": "改正岡山市明細地図附接近郡村地図（明治31年）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_028.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_030.json",
+            "@type": "sc:Manifest",
+            "label": "〔讃岐国直島領と備前国児島郡胸上村漁場相論之事立会絵図（元禄2年6月）〕",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_030_1.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_031.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県管下備前国旭川絵図（従京橋至原村）（明治7年10月）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_031_1.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_032.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県管下備前国旭川絵図(従京橋至沖新田三番端)（明治7年10月）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_032_1.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_033.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県岡山市水害見取図（明治26年10月）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_033.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_034.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県管内雨量図1(明治26年10月10日～15日累計)",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_034.tiff/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://archives.pref.okayama.jp/manifest/manifest_035.json",
+            "@type": "sc:Manifest",
+            "label": "岡山県管内雨量図2（明治26年10月10日～16日累計）",
+            "thumbnail": "https://archives.pref.okayama.jp/api_iiif/TIFF_035.tiff/full/200,/0/default.jpg"
         }
     ],
     "vhint": "use-thumb"
