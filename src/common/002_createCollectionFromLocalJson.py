@@ -92,7 +92,7 @@ for i in range(len(df.index)):
 
                 ##################
 
-                manifest = data["@id"]
+                # manifest = data["@id"]
 
                 manifest_obj = dict()
 
