@@ -85,5 +85,8 @@ for type in map:
     
         collection["label"] = label
 
+    else:
+        print("Not e\t"+file)
+
 fw = open(output_path, 'w')
 json.dump(universe, fw, ensure_ascii=False, indent=4, sort_keys=True, separators=(',', ': '))

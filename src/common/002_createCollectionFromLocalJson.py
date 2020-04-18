@@ -56,7 +56,9 @@ for i in range(len(df.index)):
 
     if not os.path.exists(file):
         continue
-
+    else:
+        print("Not e\t"+file)
+        
     with open(file, 'r') as f:
         try:
             data = json.load(f)
