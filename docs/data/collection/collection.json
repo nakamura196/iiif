@@ -71,7 +71,7 @@
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ndl.json",
             "@type": "sc:Collection",
-            "label": "国立国会図書館 National Diet Library (73291)"
+            "label": "国立国会図書館 National Diet Library (270030)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/nichibun.json",
@@ -146,7 +146,7 @@
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utda.json",
             "@type": "sc:Collection",
-            "label": "東京大学 The University of Tokyo (0)"
+            "label": "東京大学 The University of Tokyo (14991)"
         },
         {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/ueda.json",
