@@ -139,6 +139,11 @@
             "label": "琉球大学 University of the Ryukyus (194)"
         },
         {
+            "@id": "https://nakamura196.github.io/iiif/data/collection/collections/toyo.json",
+            "@type": "sc:Collection",
+            "label": "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko (245)"
+        },
+        {
             "@id": "https://nakamura196.github.io/iiif/data/collection/collections/utda.json",
             "@type": "sc:Collection",
             "label": "東京大学 The University of Tokyo (0)"

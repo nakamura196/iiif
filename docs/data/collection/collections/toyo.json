@@ -1,0 +1,2213 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/toyo.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-7/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ancient Khotan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-7/V-1/images/icon/0603-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-7/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ancient Khotan : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-7/V-2/images/icon/0129-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Serindia : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-1/images/icon/0290-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Serindia : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-2/images/icon/0287-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Serindia : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-3/images/icon/0112-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Serindia : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-4/images/icon/0095-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Serindia : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-9/V-5/images/icon/0098-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Innermost Asia : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-1/images/icon/0573-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Innermost Asia : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-2/images/icon/0111-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Innermost Asia : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-3/images/icon/0231-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Innermost Asia : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/T-VIII-5-A-a-3/V-4/images/icon/0053-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-5/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sand-Buried Ruins of Khotan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-5/V-1/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ruins of Desert Cathay : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-1/images/icon/0010-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ruins of Desert Cathay : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-8/V-2/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-19/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "On Ancient Central-Asian Tracks : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-19/V-1/images/icon/0467-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-11/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Memoir on Maps of Chinese Turkistan and Kansu : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-11/V-1/images/icon/0006-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XIII-6-A-4/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Archaeological Reconnaissances in North-Western India and South-Eastern Īrān : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XIII-6-A-4/V-1/images/icon/0393-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-5/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Thousand Buddhas : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-5/V-1/images/icon/0127-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-57/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wall Paintings from Ancient Shrines in Central Asia : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-57/V-1/images/icon/0153-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-57/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Wall Paintings from Ancient Shrines in Central Asia : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-57/V-2/images/icon/0015-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-17/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Report of a Mission to Yarkund in 1873 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-17/V-1/images/icon/0259-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-22/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "In Tibet and Chinese Turkestan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-22/V-1/images/icon/0227-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-56/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Heart of a Continent : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-56/V-1/images/icon/0135-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-4-7/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "India and Tibet : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-4-7/V-1/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-63/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Among the Celestials : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-63/V-1/images/icon/0006-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-d-45/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Peking to Lhasa : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-d-45/V-1/images/icon/0022-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-8-5/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Antiquities of Indian Tibet : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-8-5/V-1/images/icon/0109-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-8-5/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Antiquities of Indian Tibet : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-8-5/V-2/images/icon/0165-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-26/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission Scientifique dans la Haute Asie 1890-1895 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-26/V-1/images/icon/0137-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-26/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission Scientifique dans la Haute Asie 1890-1895 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-26/V-2/images/icon/0207-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-26/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission Scientifique dans la Haute Asie 1890-1895 : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-26/V-3/images/icon/0327-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-11-C-9/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "La Sculpture sur Pierre en Chine au Temps des Deux Dynasties Han : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-11-C-9/V-1/images/icon/0152-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B5-f-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Dix Inscriptions Chinoises de l'Asie Centrale : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B5-f-2/V-1/images/icon/0120-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-6-A-21/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Documents sur les Tou-kiue (Turcs) occidentaux : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-6-A-21/V-1/images/icon/0389-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-E-6/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Inscriptions et pièces de Chancellerie Chinoises de l'époque mongol : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-E-6/V-1/images/icon/0119-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-G-22/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les pays d'Occident d'après le Heou Han Chou : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-G-22/V-1/images/icon/0097-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-89/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Le T'ai Chan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-89/V-1/images/icon/0065-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B3-k-1/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les documents chinois découverts par Aurel Stein dans les sables du Turkestan Oriental : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B3-k-1/V-1/images/icon/0279-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission archéologique dans la Chine septentrionale : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-1/images/icon/0397-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission archéologique dans la Chine septentrionale : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-2/images/icon/0423-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission archéologique dans la Chine septentrionale : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-3/images/icon/0385-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission archéologique dans la Chine septentrionale : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-4/images/icon/0255-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mission archéologique dans la Chine septentrionale : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-2/V-5/images/icon/0191-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B4-c-7/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Un traité manichéen retrouvé en Chine : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B4-c-7/V-1/images/icon/0369-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les grottes de Touen-Houang : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-1/images/icon/0025-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les grottes de Touen-Houang : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-2/images/icon/0125-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les grottes de Touen-Houang : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-3/images/icon/0023-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les grottes de Touen-Houang : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-4/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les grottes de Touen-Houang : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-5/images/icon/0039-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les grottes de Touen-Houang : vol.6",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-3/V-6/images/icon/0103-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Trois Ans dans la Haute Asie : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-12/V-1/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B3-k-6/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les documents chinois de la troisième expédition de Sir Aurel Stein en Asie Centrale : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B3-k-6/V-1/images/icon/0343-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XVIII-C-a-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "L'art Greco-Bouddhique du Gandhâra : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XVIII-C-a-2/V-1/images/icon/0014-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XVIII-C-a-2/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "L'art Greco-Bouddhique du Gandhâra : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XVIII-C-a-2/V-2/images/icon/0014-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XII-11-C-27/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Études sur l'Art Bouddhique de l'Inde : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XII-11-C-27/V-1/images/icon/0216-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XII-10-C-b-40/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "La Vie du Bouddha : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XII-10-C-b-40/V-1/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-1/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "La Vieille Route de l'Inde de Bactres à Taxila : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-1/V-1/images/icon/0215-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-1/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "La Vieille Route de l'Inde de Bactres à Taxila : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-1/V-2/images/icon/0265-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-3/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Nouvelles Recherches Archéologiques à Bāmiyān : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-3/V-1/images/icon/0143-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-4/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les Fouilles de Haḍḍa I : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-4/V-1/images/icon/0146-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-4/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Les Fouilles de Haḍḍa III : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-4/V-3/images/icon/0039-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-7/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Recherches Archéologiques au Col de Khair khaneh près de Kābul : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-7/V-1/images/icon/0077-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-9/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Recherches Archéologiques à Begram : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-9/V-1/images/icon/0024-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-9/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Recherches Archéologiques à Begram : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-9/V-2/images/icon/0063-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-10/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Shotorak : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-187-10/V-1/images/icon/0099-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-33/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "L'Œuvre de la Délégation Archéologique Française en Afghanistan (1922-1932) : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-33/V-1/images/icon/0101-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-24/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Recherches Archéologiques en Asie Centrale (1931) : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-24/V-1/images/icon/0011-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "China : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-1/images/icon/0439-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "China : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-2/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "China : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-3/images/icon/0781-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "China : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-4/images/icon/0467-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "China : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-A-19/V-5/images/icon/0289-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-39/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Atlas von China : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-39/V-1/images/icon/0005-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-39/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Atlas von China : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-39/V-2/images/icon/0020-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-16/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Bericht über archäologische Arbeiten in Idikutschari und Umgebung im Winter 1902-1903 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-6-A-16/V-1/images/icon/0264-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B4-a-7/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Altbuddhistische Kultstätten in Chinesisch-Turkistan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B4-a-7/V-1/images/icon/0379-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFa-21/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Alt-Kutscha : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFa-21/V-1/images/icon/0272-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-44/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Teufel des Avesta und Ihre Beziehungen zur Ikonographie des Buddhismus Zentral-Asiens : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-44/V-1/images/icon/0018-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Buddhistische Spätantike in Mittelasien : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-1/images/icon/0093-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Buddhistische Spätantike in Mittelasien : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-2/images/icon/0083-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Buddhistische Spätantike in Mittelasien : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-3/images/icon/0065-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Buddhistische Spätantike in Mittelasien : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-4/images/icon/0014-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Buddhistische Spätantike in Mittelasien : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFB-2/V-5/images/icon/0075-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-42/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Chotscho : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-42/V-1/images/icon/0110-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-1/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Bilderatlas zur Kunst und Kulturgeschichte Mittel-Asiens : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B6-1/V-1/images/icon/0051-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-31/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Auf Hellas Spuren in Ostturkistan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-31/V-1/images/icon/0042-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-14/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Von Land und Leuten in Ostturkistan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-14/V-1/images/icon/0023-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B5-d-1/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sprichwörter und Lieder aus der Gegend von Turfan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B5-d-1/V-1/images/icon/0091-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XII-4-2/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Results of a Scientific Mission to India and High Asia : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XII-4-2/V-3/images/icon/0011-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XII-4-2/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Results of a Scientific Mission to India and High Asia : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XII-4-2/V-5/images/icon/0021-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XII-4-2/V-6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Results of a Scientific Mission to India and High Asia : vol.6",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XII-4-2/V-6/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Meine Tibetreise : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-1/images/icon/0004-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Meine Tibetreise : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-56/V-2/images/icon/0006-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-20/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Reise in China und Tibet, 1905-1908 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-20/V-1/images/icon/0035-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-98/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Am Tor von Asien : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-98/V-1/images/icon/0307-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-69/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Iranische Felsreliefs : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-69/V-1/images/icon/0069-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-22/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Atlas der Alterthümer der Mongolei : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-22/V-1/images/icon/0039-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VI-1-23/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aus Siberien : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VI-1-23/V-1/images/icon/0095-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VI-1-23/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Aus Siberien : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VI-1-23/V-2/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-32/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ot Kiakhty na Istoki Zheltoi Rieki : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-32/V-1/images/icon/0401-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-145/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Iz Zaisana Cherez Khami v Tibet i na Verkhov'ya Zheltoi reki : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-145/V-1/images/icon/0079-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mongoliia i Kam : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-1/images/icon/0181-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mongoliia i Kam : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-2/images/icon/0255-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mongoliia i Kam : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-3/images/icon/0034-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mongoliia i Kam : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-4/images/icon/0027-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mongoliia i Kam : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-64/V-5/images/icon/0327-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-67/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mongoliya i Amdo i mertby gorod Khara-Khoto : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-1-67/V-1/images/icon/0633-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-56/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Russkaia Turkestanskaia Ekspeditsiia, 1909-1910 goda : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-56/V-1/images/icon/0141-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-C-14/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Puteshestvie v Tian' - Shan' v 1856-1857 godakh : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-C-14/V-1/images/icon/0159-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-50/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Geographische-Wissenschaftlichen Ergebnisse meiner Reisen in Zentralasien, 1894-1897 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-50/V-1/images/icon/0421-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Scientific Results of a Journey in Central Asia, 1899-1902 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-1/images/icon/0029-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Scientific Results of a Journey in Central Asia, 1899-1902 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-2/images/icon/0553-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Scientific Results of a Journey in Central Asia, 1899-1902 : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-3/images/icon/0119-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Scientific Results of a Journey in Central Asia, 1899-1902 : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-4/images/icon/0087-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Scientific Results of a Journey in Central Asia, 1899-1902 : vol.7",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-7/images/icon/0030-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Scientific Results of a Journey in Central Asia, 1899-1902 : vol.8",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-007/V-8/images/icon/0181-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-1/images/icon/0027-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-2/images/icon/0193-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-3/images/icon/0507-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-4/images/icon/0413-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-5/images/icon/0269-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.6",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-6/images/icon/0459-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.7",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-7/images/icon/0045-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.8",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-8/images/icon/0057-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.9",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-9/images/icon/0081-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.10",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-10/images/icon/0220-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.11",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-11/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Southern Tibet : vol.12",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-62/V-12/images/icon/0060-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-002/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Eine Routenaufnahme durch Ostpersien : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-002/V-1/images/icon/0023-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-002/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Eine Routenaufnahme durch Ostpersien : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-002/V-2/images/icon/0603-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-002/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Eine Routenaufnahme durch Ostpersien : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-002/V-3/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-E-37/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Overland to India : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-E-37/V-1/images/icon/0339-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-E-37/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Overland to India : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-E-37/V-2/images/icon/0577-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-025/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "History of the expedition in Asia, 1927-1935 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-025/V-1/images/icon/0012-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-025/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "History of the expedition in Asia, 1927-1935 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-025/V-2/images/icon/0275-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-025/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "History of the expedition in Asia, 1927-1935 : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-025/V-3/images/icon/0343-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-003/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Central Asia Atlas : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.38-HE01-003/V-1/images/icon/0014-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-023/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Den Vandrande Sjön : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-290.9-HE01-023/V-1/images/icon/0285-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B3-k-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Chinesischen Handschriften- und sonstigen Kleinfunde Sven Hedins in Lou-lan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B3-k-2/V-1/images/icon/0223-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-39/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Archaeological Researches in Sinkiang : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-B-39/V-1/images/icon/0214-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-5-C-89-5/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "吐魯番考古記 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-5-C-89-5/V-1/images/icon/0169-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-5-C-89-3/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "塔里木盆地考古記 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-5-C-89-3/V-1/images/icon/0100-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-1048/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "羅布淖爾考古記 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-1048/V-1/images/icon/0305-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-32-0/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高昌 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-32-0/V-1/images/icon/0007-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-222.02-01-001/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高昌磚集 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-222.02-01-001/V-1/images/icon/0031-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/E-222.02-01-001/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高昌磚集 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/E-222.02-01-001/V-2/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-32-1/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高昌陶集 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-32-1/V-1/images/icon/0083-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-32-1/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "高昌陶集 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-16-A-32-1/V-2/images/icon/0006-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-E-18/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "西域考古図譜 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-E-18/V-1/images/icon/0145-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-E-18/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "西域考古図譜 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-E-18/V-2/images/icon/0177-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-C-1/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "印度撮影帖 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-C-1/V-1/images/icon/0064-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-B-d-15/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伊犂紀行 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-B-d-15/V-1/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-B-d-15/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "伊犂紀行 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-B-d-15/V-2/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-4/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Inscriptions de l'Orkhon : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-4/V-1/images/icon/0229-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-224/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Across Asia : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-224/V-1/images/icon/0126-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-4-37/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Alt-Altaische Kunstdenkmäler : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/V-B-4-37/V-1/images/icon/0078-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-7/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Altertümer aus dem Tale des Talas in Turkestan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-7/V-1/images/icon/0087-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Explorations in Turkestan 1903 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-2/V-1/images/icon/0112-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-3/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Explorations in Turkestan : Expedition of 1904 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-3/V-1/images/icon/0215-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-3/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Explorations in Turkestan : Expedition of 1904 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-5-A-a-3/V-2/images/icon/0197-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-30/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Tibet and Turkestan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VII-1-30/V-1/images/icon/0371-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-10/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Pulse of Asia : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-10/V-1/images/icon/0010-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-3-B-75/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Im fernen Osten : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-3-B-75/V-1/images/icon/0033-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-13/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Atlas zur Reiseroute in Ost-Asien : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-13/V-1/images/icon/0006-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-100/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Storia della Spedizione Scientifica Italiana nel Himàlaia, Caracorùm e Turchestàn Cinese(1913-1914) : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/VIII-1-A-100/V-1/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Voyages d'Ibn Batoutah : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-1/images/icon/0061-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Voyages d'Ibn Batoutah : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-2/images/icon/0029-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Voyages d'Ibn Batoutah : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-3/images/icon/0041-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Voyages d'Ibn Batoutah : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-53/V-4/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-30/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Book of Ser Marco Polo : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-30/V-1/images/icon/0006-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-30/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Book of Ser Marco Polo : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-30/V-2/images/icon/0009-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-f-c-31/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ser Marco Polo : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-f-c-31/V-1/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-39/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Marco Polo : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-39/V-1/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-39/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Marco Polo : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-39/V-2/images/icon/0010-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Notes on Marco Polo : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-1/images/icon/0011-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Notes on Marco Polo : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-2/images/icon/0011-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Notes on Marco Polo : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-c-104/V-3/images/icon/0011-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-82/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kunstgeschichte der Seidenweberei : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-82/V-1/images/icon/0127-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-82/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Kunstgeschichte der Seidenweberei : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-82/V-2/images/icon/0315-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-197/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sino-Siberian Art : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-197/V-1/images/icon/0153-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-118/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Die Chinesische Steinplastik : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-118/V-1/images/icon/0075-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-110/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Jades Archaïques de Chine : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-110/V-1/images/icon/0097-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/P-III-a-475/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Notes d'epigraphie mongole-chinoise : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/P-III-a-475/V-1/images/icon/0086-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-100/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "India : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-100/V-1/images/icon/0075-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-70/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Indische Palaste und Wohnhauser : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-70/V-1/images/icon/0118-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-23/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Documente de l'Époque Mongole des XIIIe et XIVe Siècle : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lc-23/V-1/images/icon/0015-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cathay and the Way Thither : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-1/images/icon/0527-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cathay and the way thither : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-F-b-2/V-2/images/icon/0008-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/O-8-3/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Histoire de la Ville de Khotan : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/O-8-3/V-1/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cinq Cents Contes et Apologues : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-1/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cinq Cents Contes et Apologues : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-2/images/icon/0007-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cinq Cents Contes et Apologues : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-3/images/icon/0015-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Cinq Cents Contes et Apologues : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-10-D-28/V-4/images/icon/0021-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-31/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mémoires Concernant l'Asie Orientale : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-31/V-1/images/icon/0228-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-31/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mémoires Concernant l'Asie Orientale : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-31/V-2/images/icon/0192-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-31/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mémoires Concernant l'Asie Orientale : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-31/V-3/images/icon/0041-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-6/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Chine : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-6/V-1/images/icon/0023-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Histoire Générale de la Chine : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-1/images/icon/0064-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Histoire Générale de la Chine : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-2/images/icon/0007-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Histoire Générale de la Chine : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-3/images/icon/0007-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Histoire Générale de la Chine : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-8/V-4/images/icon/0335-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mélanges d'Histoire et de Géographie Orientales : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-1/images/icon/0005-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mélanges d'Histoire et de Géographie Orientales : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-2/images/icon/0005-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mélanges d'Histoire et de Géographie Orientales : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-3/images/icon/0005-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Mélanges d'Histoire et de Géographie Orientales : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Y-III-7-9/V-4/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-5-C-22/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sino-Iranica : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-5-C-22/V-1/images/icon/0007-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/X-6-41/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "羽田博士史学論文集 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/X-6-41/V-1/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/X-6-41/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "羽田博士史学論文集 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/X-6-41/V-2/images/icon/0021-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-124/V-123/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "史記 : 巻123",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-124/V-123/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-94-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "前漢書 : 巻94下",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-94-2/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-95/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "前漢書 : 巻95",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-95/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-96-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "前漢書 : 巻96上",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-96-1/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-96-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "前漢書 : 巻96下",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-3-A-b-53/V-96-2/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-B-10/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "燉煌遺書 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-B-10/V-1/images/icon/0055-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-B-10/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "燉煌遺書 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/I-1-B-10/V-2/images/icon/0023-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-A-16/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "圓明園東長春宮西洋樓圖 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/XI-6-A-16/V-1/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-9/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Sketches of Chinese Life & Character : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/LFc-9/V-1/images/icon/0015-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-159/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Views of China : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-159/V-1/images/icon/0077-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-159/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Views of China : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-159/V-2/images/icon/0011-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lb-70/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Photographic Views of Canton : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lb-70/V-1/images/icon/0013-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/Lb-69/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Album of Hongkong Canton Macao Amoy Foochow : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/Lb-69/V-1/images/icon/0023-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-161/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Ein Tagebuch in Bildern : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-161/V-1/images/icon/0223-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-B-233/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Baukunst und Landschaft in China : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-B-233/V-1/images/icon/0219-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/La-158/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Album of Photographic Views in China : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/La-158/V-1/images/icon/0009-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-149/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Peking : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-149/V-1/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-145/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Views and Custom of North China : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-145/V-1/images/icon/0055-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-b-75/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Souvenir of Nanking : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-b-75/V-1/images/icon/0003-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-1/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.2",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-2/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.3",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-3/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.4",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-4/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.5",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-5/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.6",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-6/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.7",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-7/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.8",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-8/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.9",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-9/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.10",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-10/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.11",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-11/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.12",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-12/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.13",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-13/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.14",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-14/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.15",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-15/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.16",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-16/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "乾隆京城全図 : vol.17",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/II-11-D-802/V-17/images/icon/0001-100x100.jpg"
+            }
+        },
+        {
+            "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-146/V-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Plan of Peking : vol.1",
+            "license": "http://dsr.nii.ac.jp/toyobunko/license/",
+            "thumbnail": {
+                "@id": "http://dsr.nii.ac.jp/toyobunko/III-2-C-a-146/V-1/images/icon/0003-100x100.jpg"
+            }
+        }
+    ],
+    "vhint": "use-thumb"
+}

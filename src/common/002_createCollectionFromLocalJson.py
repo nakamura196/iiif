@@ -55,9 +55,8 @@ for i in range(len(df.index)):
     file = input_dir + "/" + uuid + ".json"
 
     if not os.path.exists(file):
-        continue
-    else:
         print("Not e\t"+file)
+        continue
         
     with open(file, 'r') as f:
         try:
