@@ -16,7 +16,7 @@ map["keio"] = "慶應義塾大学 Keio University"
 map["khirin"] = "国立歴史民俗博物館 National Museum of Japanese History"
 
 map["kinki"] = "近畿大学 Kindai University"
-# map["koyasan"] = "高野山大学 Koyasan University"
+map["koyasan"] = "高野山大学 Koyasan University"
 
 map["kyoto"] = "京都大学 Kyoto University"
 
@@ -42,11 +42,14 @@ map["saga_pref"] = "佐賀県立図書館 Saga Prefectural Library"
 map["saga"] = "佐賀大学 Saga University"
 
 map["shimane"] = "島根大学 Shimane University"
+
 map["trc_adeac"] = "TRC ADEAC"
+map["tsukuba"] = "筑波大学 University of Tsukuba"
+map["tufs"] = "東京外国語大学 Tokyo University of Foreign Studies"
 
 map["u_ryukyus"] = "琉球大学 University of the Ryukyus"
 
-# map["toyo"] = "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
+map["toyo"] = "国立情報学研究所 / 東洋文庫 NII / Toyo Bunko"
 
 map["utda"] = "東京大学 The University of Tokyo"
 map["ueda"] = "上田市 Ueda City"

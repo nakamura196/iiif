@@ -1,0 +1,64 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/tsukuba.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol1-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 初編上 詞の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol1-1%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol1-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 初編下 詞の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol1-2%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol2-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 二編上 万国尽の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol2-1%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol2-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 二編下 詞の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol2-2%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol3-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 三編上 大日本国尽の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol3-1%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol3-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 三編下 詞の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol3-2%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol4-1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 四編上 名所の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol4-1%2F1.jpg/full/200,/0/default.jpg"
+        },
+        {
+            "@id": "https://wdb.jinsha.tsukuba.ac.jp/jgt/gallery/furukawa1870-vol4-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "繪入智慧の環 四編下 詞の巻",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://wdb.jinsha.tsukuba.ac.jp/cantaloupe/iiif/2/wdb%2Fjgt%2Ffurukawa1870-vol4-2%2F1.jpg/full/200,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

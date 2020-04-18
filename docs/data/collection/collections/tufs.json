@@ -1,0 +1,15 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/iiif/data/collection/collections/tufs.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://manjuisabuhabithe.aa-ken.jp/iiif/manifest/manifest01.json",
+            "@type": "sc:Manifest",
+            "label": "清文彙書",
+            "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnail": "https://manjuisabuhabithe.aa-ken.jp/images/01002t.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
