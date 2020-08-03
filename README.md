@@ -2,7 +2,7 @@
 
 You can search data in this dataset with "Cultural Japan".
 
-https://cultural.jp/
+https://cultural.jp/search?fc-source=IIIF%20Discovery%20in%20Japan
 
 ***
 
